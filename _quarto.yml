@@ -3,7 +3,7 @@ project:
     
 website:
   site-url: https://archmetaldbm.github.io/globalid
-  repo-url: https://github.com/archaeothommy/hms-rip23/
+  repo-url: https://github.com/archmetalDBM/GlobaLID
   favicon: favicon.png
   title: "![Logo GlobaLID](/assets/globalid-logo.svg){height=60px}"
   navbar:
