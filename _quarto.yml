@@ -1,0 +1,27 @@
+project:
+  type: website
+    
+website:
+  site-url: https://archaeothommy.github.io/hms-rip23
+  repo-url: https://github.com/archaeothommy/hms-rip23/
+  favicon: favicon.png
+  title: "![Logo GlobaLID](/assets/globalid-logo.svg){height=60px}"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "GlobaLID"
+    right: 
+      - about.qmd
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    backgroundcolor: white
+    linkcolor: "#db2929"
+    toc: true
+    toc-location: left
+
+execute:
+  freeze: auto
+  
