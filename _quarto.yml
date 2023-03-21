@@ -5,20 +5,21 @@ website:
   site-url: https://archmetaldbm.github.io/globalid
   repo-url: https://github.com/archmetalDBM/GlobaLID
   favicon: favicon.png
-  title: "![Logo GlobaLID](/assets/globalid-logo.svg){height=60px}"
+  title: "![Logo GlobaLID](/assets/globalid-logo.svg){height=60px} GlobaLID"
   navbar:
     left:
       - href: index.qmd
-        text: "GlobaLID"
+        text: "Home"
     right: 
       - about.qmd
 
 format:
   html:
-    theme: default
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
-    backgroundcolor: white
-    linkcolor: "#db2929"
+    #linkcolor: "#007bff"
     toc: true
     toc-location: left
 
