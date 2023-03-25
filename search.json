@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Hello, world!\n\n\n\n\n\nNew project webpage online\n\n\n\n\n\n\nMar 20, 2023\n\n\nThomas Rose\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -19,6 +12,13 @@
     "title": "About",
     "section": "Privacy",
     "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Hello, world!\n\n\n\n\n\nNew project webpage online\n\n\n\n\n\n\nMar 20, 2023\n\n\nThomas Rose\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events.html",
@@ -40,6 +40,34 @@
     "title": "Events",
     "section": "2021",
     "text": "2021\n\nHistorical Metallurgy Society: Research in Progress Meeting\n3rd European Mineralogical Conference\nYoung Researchers in Archaeometry 4"
+  },
+  {
+    "objectID": "index.html#aim-of-globalid",
+    "href": "index.html#aim-of-globalid",
+    "title": "GlobaLID",
+    "section": "Aim of GlobaLID",
+    "text": "Aim of GlobaLID"
+  },
+  {
+    "objectID": "index.html#components",
+    "href": "index.html#components",
+    "title": "GlobaLID",
+    "section": "Components",
+    "text": "Components"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "GlobaLID",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "posts/first post.html",
+    "href": "posts/first post.html",
+    "title": "Hello, world!",
+    "section": "",
+    "text": "GlobaLID is constantly growing but until now there was no single point of access for all resources of GlobaLID. Moreover, the web application as the most important product so far does look nice on small screens and mobile devices. Therefore, this page was set up. Have a look around and explore what GlobaLID already has to offer, what is planned and how you can become part of it."
   },
   {
     "objectID": "team.html",
@@ -68,33 +96,5 @@
     "title": "Who we are",
     "section": "Partners",
     "text": "Partners\n\nWeb Hosting: Deutsches Bergbau-Museum Bochum  The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.\nDMT-Gesellschaft für Lehre und Bildung mbH  DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990."
-  },
-  {
-    "objectID": "posts/first post.html",
-    "href": "posts/first post.html",
-    "title": "Hello, world!",
-    "section": "",
-    "text": "GlobaLID is constantly growing but until now there was no single point of access for all resources of GlobaLID. Moreover, the web application as the most important product so far does look nice on small screens and mobile devices. Therefore, this page was set up. Have a look around and explore what GlobaLID already has to offer, what is planned and how you can become part of it."
-  },
-  {
-    "objectID": "index.html#aim-of-globalid",
-    "href": "index.html#aim-of-globalid",
-    "title": "GlobaLID",
-    "section": "Aim of GlobaLID",
-    "text": "Aim of GlobaLID"
-  },
-  {
-    "objectID": "index.html#components",
-    "href": "index.html#components",
-    "title": "GlobaLID",
-    "section": "Components",
-    "text": "Components"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "GlobaLID",
-    "section": "Publications",
-    "text": "Publications"
   }
 ]

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://archmetaldbm.github.io/globalid/blog.html</loc>
-    <lastmod>2023-03-25T21:55:12.844Z</lastmod>
+    <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
+    <lastmod>2023-03-25T21:57:40.416Z</lastmod>
   </url>
   <url>
-    <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
-    <lastmod>2023-03-25T21:55:14.884Z</lastmod>
+    <loc>https://archmetaldbm.github.io/globalid/blog.html</loc>
+    <lastmod>2023-03-25T21:57:40.893Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
-    <lastmod>2023-03-25T21:55:15.220Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
-    <lastmod>2023-03-25T21:55:15.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/first post.html</loc>
-    <lastmod>2023-03-25T21:55:15.893Z</lastmod>
+    <lastmod>2023-03-25T21:57:41.392Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/index.html</loc>
-    <lastmod>2023-03-25T21:55:16.245Z</lastmod>
+    <lastmod>2023-03-25T21:57:41.743Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/first post.html</loc>
+    <lastmod>2023-03-25T21:57:42.120Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
+    <lastmod>2023-03-25T21:57:42.566Z</lastmod>
   </url>
 </urlset>
