@@ -1,0 +1,12 @@
+---
+title: "Blog"
+listing: 
+  contents: posts
+  sort: "date desc"
+  type: default
+  feed: true
+image: "../assets/globalid-logo.svg"
+type: partial
+  
+---
+

@@ -2,14 +2,14 @@
 pagetitle: "GlobaLID"
 ---
 
-## Welcome to GlobaLID
+## Welcome to GlobaLID 
 
-::: {.callout-caution}
 
-## Under construction 
+## Aim of GlobaLID
 
-This page is currently under construction. More content will follow soon.  
 
-In the meanwhile, how about trying out our web application? [To the GlobaLID web app](https://globalid.dmt-lb.de/){target="_blank"}
+## Components
 
-:::
+
+## Publications
+

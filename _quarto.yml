@@ -4,14 +4,35 @@ project:
 website:
   site-url: https://archmetaldbm.github.io/globalid
   repo-url: https://github.com/archmetalDBM/GlobaLID
+  title: "GlobaLID"
+  description: "The Global Lead Isotope Database project develops next-generation tools for working with lead isotope data in the archaeological sciences."
   favicon: favicon.png
-  title: "![Logo GlobaLID](/assets/globalid-logo.svg){height=60px} GlobaLID"
   navbar:
+    logo: assets/globalid-logo.svg
+    logo-alt: "GlobaLID logo"
     left:
       - href: index.qmd
         text: "Home"
+      - blog.qmd
+      - href: team.qmd
+        text: "Team"
+      - events.qmd
+      - icon: box-arrow-up-right
+        href: https://globalid.dmt-lb.de/
+        text: "Web App"
+      - icon: box-arrow-up-right
+        href: https://github.com/archmetalDBM/GlobaLID-database
+        text: "Database"
     right: 
       - about.qmd
+    tools:
+      - icon: envelope-fill
+        href: mailto:globalid@bergbaumuseum.de?subject=GlobaLID
+      - icon: github
+        href: https://github.com/archmetalDBM
+      - icon: rss
+        href: blog.xml
+    
 
 format:
   html:
