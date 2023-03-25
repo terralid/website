@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Hello, world!\n\n\n\n\n\nNew project webpage online\n\n\n\n\n\n\nMar 20, 2023\n\n\nThomas Rose\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,10 +21,80 @@
     "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "![Logo GlobaLID](/assets/globalid-logo.svg){height=60px} GlobaLID",
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
     "section": "",
-    "text": "Under construction\n\n\n\nThis page is currently under construction. More content will follow soon.\nIn the meanwhile, how about trying out our web application? To the GlobaLID web app"
+    "text": "29th Annual Meeting of the European Association of the Archaeologists (EAA)\nArchäometrie & Denkmalpflege"
+  },
+  {
+    "objectID": "events.html#section",
+    "href": "events.html#section",
+    "title": "Events",
+    "section": "2022",
+    "text": "2022\n\nGeoMinKöln\nYoung Researchers in Archaeometry 5\n28th Annual Meeting of the European Association of the Archaeologists (EAA)\n16th PAA (PanAfrican Archaeological Association) Congress\nuseR! 2022\nAdvances in Isotope Ratio and related analyses for mapping migrations from Prehistory to the Viking Age (Joint Meeting of the Royal Society of Chemistry & Society of Antiquaries)\n43rd International Symposium on Archaeometry\n3rd International Congress on Archaeological Sciences in the Eastern Mediterranean and the Middle East (ICAS-EMME 3)\nLe plomb et ses questions analytiques"
+  },
+  {
+    "objectID": "events.html#section-1",
+    "href": "events.html#section-1",
+    "title": "Events",
+    "section": "2021",
+    "text": "2021\n\nHistorical Metallurgy Society: Research in Progress Meeting\n3rd European Mineralogical Conference\nYoung Researchers in Archaeometry 4"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Who we are",
+    "section": "",
+    "text": "Coordinator: Sabine Klein  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany; Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany)\nProgramming: Thomas Rose (Goethe-Universität Frankfurt, Institut für Geowissenschaften, Frankfurt, Germany; Department of Archaeology, Ben-Gurion University of the Negev, Be’er Sheva, Israel; Department of Antiquity, Sapienza University of Rome, Rome, Italy; Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nDatabase: Katrin J. Westner  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nMetadata: Yiu-Kang Hsu  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)"
+  },
+  {
+    "objectID": "team.html#regional-editors",
+    "href": "team.html#regional-editors",
+    "title": "Who we are",
+    "section": "Regional editors",
+    "text": "Regional editors\n\nIran: Nima Nezafati  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)"
+  },
+  {
+    "objectID": "team.html#contributors",
+    "href": "team.html#contributors",
+    "title": "Who we are",
+    "section": "Contributors",
+    "text": "Contributors\n\nMarkos Vaxevanopoulos  (École Normale Supérieure de Lyon, Laboratoire de Géologie de Lyon: Terre, Planète, Environnement, Lyon, France)\nSabine Fischer-Lechner (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)"
+  },
+  {
+    "objectID": "team.html#partners",
+    "href": "team.html#partners",
+    "title": "Who we are",
+    "section": "Partners",
+    "text": "Partners\n\nWeb Hosting: Deutsches Bergbau-Museum Bochum  The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.\nDMT-Gesellschaft für Lehre und Bildung mbH  DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990."
+  },
+  {
+    "objectID": "posts/first post.html",
+    "href": "posts/first post.html",
+    "title": "Hello, world!",
+    "section": "",
+    "text": "GlobaLID is constantly growing but until now there was no single point of access for all resources of GlobaLID. Moreover, the web application as the most important product so far does look nice on small screens and mobile devices. Therefore, this page was set up. Have a look around and explore what GlobaLID already has to offer, what is planned and how you can become part of it."
+  },
+  {
+    "objectID": "index.html#aim-of-globalid",
+    "href": "index.html#aim-of-globalid",
+    "title": "GlobaLID",
+    "section": "Aim of GlobaLID",
+    "text": "Aim of GlobaLID"
+  },
+  {
+    "objectID": "index.html#components",
+    "href": "index.html#components",
+    "title": "GlobaLID",
+    "section": "Components",
+    "text": "Components"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "GlobaLID",
+    "section": "Publications",
+    "text": "Publications"
   }
 ]

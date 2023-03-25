@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>GlobaLID</title>
+<link>https://archmetaldbm.github.io/globalid/blog.html</link>
+<atom:link href="https://archmetaldbm.github.io/globalid/blog.xml" rel="self" type="application/rss+xml"/>
+<description>The Global Lead Isotope Database project develops next-generation tools for working with lead isotope data in the archaeological sciences.</description>
+<image>
+<url>https://archmetaldbm.github.io/globalid/../assets/globalid-logo.svg</url>
+<title>GlobaLID</title>
+<link>https://archmetaldbm.github.io/globalid/blog.html</link>
+</image>
+<generator>quarto-1.2.475</generator>
+<lastBuildDate>Mon, 20 Mar 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hello, world!</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/first post.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>GlobaLID is constantly growing but until now there was no single point of access for all resources of GlobaLID. Moreover, the web application as the most important product so far does look nice on small screens and mobile devices. Therefore, this page was set up. Have a look around and explore what GlobaLID already has to offer, what is planned and how you can become part of it.</p>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/first post.html</guid>
+  <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
