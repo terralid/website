@@ -2,14 +2,22 @@
 pagetitle: "GlobaLID"
 ---
 
-## Welcome to GlobaLID 
+# Welcome to GlobaLID
+
+## Our aim
+The GlobaLID (**Globa**l **L**ead **I**sotope **D**atabase) project aims to develop next-generation tools for working with lead isotope data in the archaeological sciences. The primary aim is to create an infrastructure for the submission and provision of lead isotope reference data that makes it easy to submit data to the database, minimises data curation efforts by automatised checks and enrichment of metadata from other sources, and by providing easy access to the data through a web application or the database API. Data will be handled in accordance with the [FAIR principles](https://www.go-fair.org/) to maximise their findability, accessibility, interoperability and reusability. 
+
+Development of this infrastructure is done in close discussion with and active support from the community to ensure that the products are close to the community's needs. Prototypes of the database and web application were released in 2021 and the project presented to the public in 2022. The next big step will be the development of a FAIR metadata scheme for lead isotope data in the archaeological sciences. This will not only massively improve the compatibility of lead isotope data but will also serve as data model for the full version of the database. In parallel it is aimed to increase the coverage of the database and to improve the web application. 
+
+The development of Being currently an unfunded side-project, progress relies entirely on the strong commitment of the team. Being an open project, we are always open for new members. If you are interested in helping GlobaLID to develop and make our vision come true, please reach out to the core team via [mail](mailto:globalid@bergbaumuseum.de?subject=GlobaLID). 
 
 
-## Aim of GlobaLID
+## Our products
+GlobaLID consists of three products and more might be developed as the project evolves. 
 
+* Database ([most recent version](https://github.com/archmetalDBM/GlobaLID-database){target="_blank"} | [archive](https://doi.org/10.5880/fidgeo.2021.031){target="_blank"})
+* Web application ([live version](https://globalid.dmt-lb.de/){target="_blank"} | [source code](https://github.com/archmetalDBM/GlobaLID-App))
+* Educational materials (in development as an [NFDI4Earth Educational Pilot](https://nfdi4earth.de/2participate/education-training?view=article&id=314&catid=15){target="_blank"}).
 
-## Components
-
-
-## Publications
-
+## Further information
+GlobaLID was officially presented to the public in the article "From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application" in the journal Archaeometry ([doi:10.1111/arcm.12762](https://doi.org/10.1111/arcm.12762)). The database was published as dataset with an extensive description of its structure in the repository of the GFZ Data Services ([doi:10.5880/fidgeo.2021.031](https://doi.org/10.5880/fidgeo.2021.031)). The features of the web application prototype are presented in our [video tutorial on YouTube](https://www.youtube.com/watch?v=qwKStMc-068). You can learn more about the different products and how to use them at their respective pages. 
