@@ -7,9 +7,9 @@ title: "Archive"
 Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- A brainstorming workshop 
 
 Date: 08--10 February 2023  
-Location: German Mining Museum Bochum)
+Location: German Mining Museum Bochum
 
-### Program
+### Programme
 
 ::: panel-tabset
 
