@@ -1,6 +1,8 @@
 ---
-title: "Who we are"
+title: "Team"
 ---
+
+We are open to new members. If you are interested in joining us, please get in touch via [mail](mailto:globalid@bergbaumuseum.de?subject=GlobaLID) or at a [conference](events.qmd)! 
 
 ## Core team
 - Coordinator: [Sabine
@@ -20,5 +22,3 @@ title: "Who we are"
 - Web Hosting: [Deutsches Bergbau-Museum Bochum](https://www.bergbaumuseum.de/) <br> The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.
 - [DMT-Gesellschaft für Lehre und Bildung mbH](https://www.dmt-lb.de/) <br>
 DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990. 
-
-

@@ -16,6 +16,10 @@ website:
       - blog.qmd
       - href: team.qmd
         text: "Team"
+      - text: "Workshops"
+        menu: 
+          - workshop-current.qmd
+          - workshop-archive.qmd
       - events.qmd
       - icon: box-arrow-up-right
         href: https://globalid.dmt-lb.de/

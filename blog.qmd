@@ -10,3 +10,4 @@ type: partial
   
 ---
 
+News from the GlobaLID project. Subscribe to its [rss feed](blog.xml) to get automatic updates.

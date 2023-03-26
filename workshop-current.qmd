@@ -1,0 +1,7 @@
+---
+title: "Current"
+---
+
+The GlobaLID Team organises workshops to involve the entire community in the process. 
+
+Upcoming workshops are not ready to be announced yet. Stay tuned by reading our [blog](blog.qmd). 

@@ -1,7 +1,8 @@
 ---
 title: "Events"
-subtitle: "GlobaLID will be and was presented at"
 ---
+
+GlobaLID will be and was presented at the following meetings. For workshops organised by the GlobaLID Team, please see our [workshop page](workshop-current.qmd). 
 
 ## Upcoming
 
