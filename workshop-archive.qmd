@@ -19,16 +19,17 @@ Location: German Mining Museum Bochum
 |-----:|:-------------------------------|
 |9:00|S. Klein (Bochum): Welcome|
 |9:15|S. Klein (Bochum), Th. Rose (Frankfurt), K. Westner (Bochum), Y.-K. Hsu (Bochum): GlobaLID -- Vision of the core team, introduction to the app and discovered challenges|
-|9:45|Z. Stos-Gale, Gothenburg: Crossing boundaries: 40 years of lead isotope research in archaeology|
-|10:15|G. Artioli (Padua): Existing lead isotope databases|
-|10:45|F. Albarède (Lyon): Geological/geochemical pitfalls|
-|11:15|*Coffee break*|
-|11:45|D. Killick (Tuscon, AZ), V. Renson (Columbia, MO), J. Stephens (Columbia, MO): Lead Isotopes on Archaeological Materials in North American Laboratories|
-|12:15|D. Berger (Mannheim): Lead isotopes in tin ingots |
-|12:45|D. Wigg-Wolf (Frankfurt a.M.): Application of lead isotopes for provenance studies in numismatics|
+|9:45|Z. Stos-Gale (Gothenburg): Crossing boundaries: 40 years of lead isotope research in archaeology|
+|10:15|F. Albarède (Lyon): Geological/geochemical pitfalls|
+|10:45|*Coffee break*|
+|11:15|G. Artioli (Padua): Existing lead isotope databases I|
+|11:45|S. García di Madinabeitia, J. I. Gil Ibargichi, J. F. Santos (Bilbao): Existing lead isotope databases II|
+|12:15|D. Killick (Tuscon, AZ), V. Renson (Columbia, MO), J. Stephens (Columbia, MO): Lead Isotopes on Archaeological Materials in North American Laboratories|
+|12:45|D. Berger (Mannheim): Lead isotopes in tin ingots|
 |13:15|R. Liu (London): Understanding the social roles of metal in early Chinese Bronze Age: a perspective from highly radiogenic lead|
 |13:45|*Lunch break*|
-|15:00--16:30|Plenary: Current methodological challenges for lead isotopy<br />Existing approaches to a community standard<br />Pro and cons of a community standard|
+|15:00|D. Wigg-Wolf (Frankfurt a.M.): Application of lead isotopes for provenance studies in numismatics|
+|15:30--17:00|Plenary: Current methodological challenges for lead isotopy<br />Existing approaches to a community standard<br />Pro and cons of a community standard|
 
 ## Day 2
 
@@ -50,7 +51,8 @@ Round table 2: Standardization of databases
   
 Round table 3: Statistics and visualization  
 
-* Introductory talk by P. Degryse (Leiden/Leuven): Perspectives on data dots, biplots, ellipses and model ages
+* Introductory talk by P. Degryse (Leuven): Perspectives on data dots, biplots, ellipses and model ages
+* Additional presentation by T. Eshel (Haifa) and N Yahalom-Mack/D. Finn (Jerusalem)
 * Topics:
   a. Visualization, statistic and processing tools, methods -- what is really useful and needed by the community? What is required, what would be nice-to-have?
   b. Reporting -- What is proper reporting? 
@@ -59,7 +61,7 @@ Round table 3: Statistics and visualization
 
 9:00--13:00: Morning session
 
-* Impulse talk by Chr. Keller (Berlin): t.b.a.
+* Impulse talk by Chr. Keller (Berlin): NFDI4Objects
 * Presentation of the round table discussions and discussion of their results
 * Return to the round tables: Define the discussed standards, taking into account the feedback from the plenary
 
