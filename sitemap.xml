@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
-    <lastmod>2023-06-06T08:43:06.443Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
-    <lastmod>2023-06-06T08:43:08.495Z</lastmod>
-  </url>
-  <url>
     <loc>https://archmetaldbm.github.io/globalid/blog.html</loc>
-    <lastmod>2023-06-06T08:43:08.911Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/first post.html</loc>
-    <lastmod>2023-06-06T08:43:09.243Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/index.html</loc>
-    <lastmod>2023-06-06T08:43:09.655Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
-    <lastmod>2023-06-06T08:43:09.979Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/workshop-current.html</loc>
-    <lastmod>2023-06-06T08:43:10.283Z</lastmod>
+    <lastmod>2023-07-03T13:07:37.923Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/workshop-archive.html</loc>
-    <lastmod>2023-06-06T08:43:10.783Z</lastmod>
+    <lastmod>2023-07-03T13:07:37.035Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/workshop-current.html</loc>
+    <lastmod>2023-07-03T13:07:35.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
+    <lastmod>2023-07-03T13:07:35.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
+    <lastmod>2023-07-03T13:07:32.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/first post.html</loc>
+    <lastmod>2023-07-03T13:07:35.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/index.html</loc>
+    <lastmod>2023-07-03T13:07:36.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
+    <lastmod>2023-07-03T13:07:37.447Z</lastmod>
   </url>
 </urlset>
