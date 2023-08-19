@@ -41,10 +41,13 @@ website:
 format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
+      light: 
+        - flatly
+        - custom.scss
+      dark: 
+        - darkly
+        - custom.scss
     css: styles.css
-    #linkcolor: "#007bff"
     toc: true
     toc-location: left
 
