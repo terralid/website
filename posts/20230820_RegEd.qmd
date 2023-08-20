@@ -15,7 +15,7 @@ The [workshop in February 2023](../workshop-archive.qmd#many-lids-but-none-match
 
 One of the prepositions jointly worked out in the discussions was to establish Regional Editors, who will curate the data for specific geographical regions. In practice, they will use their expertise when quality-checking data and metadata from (local) publications concerning the regions they are responsible for, and, with support from contributors, they will add data from their regions to GlobaLID’s database. The Core Team will carry out the final checks of the enriched data before they will become publicly available.
 
-So far, six colleagues already joined the GlobaLID Team as [Regional Editors](../team.qmd):
+So far, six colleagues already joined the GlobaLID Team as [Regional Editors](../team.qmd#regional-editors):
 
 - Southeast Asia: [T. O. Pryce](https://iramat.cnrs.fr/user/oliver.pryce/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
 - Iran: [Nima Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
