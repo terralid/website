@@ -15,7 +15,40 @@
 <link>https://archmetaldbm.github.io/globalid/blog.html</link>
 </image>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 20 Mar 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 20 Aug 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Regional Editors</title>
+  <dc:creator>María Florencia Becerra</dc:creator>
+  <dc:creator>Katrin J. Westner</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20230820_RegEd.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>The <a href="../workshop-archive.html#many-lids-but-none-matching-the-vessel">workshop in February 2023</a> featured insightful and thought-provoking keynotes as well as intense and fruitful discussion rounds, which yielded several stimulating impulses for the future development and further growth of GlobaLID.</p>
+<p>One of the prepositions jointly worked out in the discussions was to establish Regional Editors, who will curate the data for specific geographical regions. In practice, they will use their expertise when quality-checking data and metadata from (local) publications concerning the regions they are responsible for, and, with support from contributors, they will add data from their regions to GlobaLID’s database. The Core Team will carry out the final checks of the enriched data before they will become publicly available.</p>
+<p>So far, six colleagues already joined the GlobaLID Team as <a href="../team.html">Regional Editors</a>:</p>
+<ul>
+<li>Southeast Asia: <a href="https://iramat.cnrs.fr/user/oliver.pryce/">T. O. Pryce</a> <a href="https://orcid.org/0000-0002-7290-141X"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay &amp; CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)</li>
+<li>Iran: <a href="https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati">Nima Nezafati</a> <a href="https://orcid.org/0000-0002-5806-343X"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)</li>
+<li>Africa: <a href="https://archaeometry.missouri.edu/staff.html">Jay Stephens</a> <a href="https://orcid.org/0000-0003-1299-3946"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> (School of Anthropology, University of Arizona, Tucson, AZ, USA; Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)</li>
+<li>North America:
+<ul>
+<li><a href="https://archaeometry.missouri.edu/profile(Virginie).html">Virginie Renson</a> <a href="https://orcid.org/0000-0002-5701-0985"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> (Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)</li>
+<li><a href="https://anthropology.arizona.edu/people/dave-killick">David Killick</a> <a href="https://orcid.org/0000-0002-8964-750X"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> ( School of Anthropology, University of Arizona, Tucson, AZ, USA)</li>
+</ul></li>
+<li>South America: <a href="https://www.conicet.gov.ar/new_scp/detalle.php?id=29835">María Florencia Becerra</a> <a href="https://orcid.org/0000-0001-6302-7452"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> (Facultad de Filosofía y Letras, Universidad de Buenos Aires, Instituto de Arqueología, CONICET, Buenos Aires, Argentina; Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)</li>
+</ul>
+<p>The first contribution from Jay Stephens on sub-Saharan Africa with 468 entries is already available online. María Florencia Becerra and Virginie Renson currently work on data from Southern and Northern America, respectively, which will successively be added to the publicly accessible revised database.</p>
+<p>GlobaLID is a community-driven and peer-curated project. Join our team [mail address Core Team] to contribute to GlobaLID and to help unleashing the power of FAIR data!</p>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20230820_RegEd.html</guid>
+  <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://archmetaldbm.github.io/globalid/assets/globalid-logo.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>Hello, world!</title>
   <dc:creator>Thomas Rose</dc:creator>
