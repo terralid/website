@@ -6,12 +6,13 @@ GlobaLID will be and was presented at the following meetings. For workshops orga
 
 ## Upcoming
 
-* 29^th^ Annual Meeting of the European Association of the Archaeologists (EAA)
-* 1^st^ Conference on Research Data Infrastructure (CoRDI)
-* Young Researchers in Archaeometry 2023
+tba
 
 ## 2023
 
+* 29^th^ Annual Meeting of the European Association of the Archaeologists (EAA)
+* 1^st^ Conference on Research Data Infrastructure (CoRDI)
+* Young Researchers in Archaeometry 2023
 * NFDI4Earth Plenary
 * Archäometrie & Denkmalpflege
 

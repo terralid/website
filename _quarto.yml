@@ -50,6 +50,7 @@ format:
     css: styles.css
     toc: true
     toc-location: left
+    link-external-newwindow: true
 
 execute:
   freeze: auto
