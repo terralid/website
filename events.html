@@ -187,15 +187,14 @@ ul.task-list li input[type="checkbox"] {
 <p>GlobaLID will be and was presented at the following meetings. For workshops organised by the GlobaLID Team, please see our <a href="./workshop-current.html">workshop page</a>.</p>
 <section id="upcoming" class="level2">
 <h2 class="anchored" data-anchor-id="upcoming">Upcoming</h2>
-<ul>
-<li>29<sup>th</sup> Annual Meeting of the European Association of the Archaeologists (EAA)</li>
-<li>1<sup>st</sup> Conference on Research Data Infrastructure (CoRDI)</li>
-<li>Young Researchers in Archaeometry 2023</li>
-</ul>
+<p>tba</p>
 </section>
 <section id="section" class="level2">
 <h2 class="anchored" data-anchor-id="section">2023</h2>
 <ul>
+<li>29<sup>th</sup> Annual Meeting of the European Association of the Archaeologists (EAA)</li>
+<li>1<sup>st</sup> Conference on Research Data Infrastructure (CoRDI)</li>
+<li>Young Researchers in Archaeometry 2023</li>
 <li>NFDI4Earth Plenary</li>
 <li>Archäometrie &amp; Denkmalpflege</li>
 </ul>
@@ -586,6 +585,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/archmetaldbm\.github\.io\/globalid");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
