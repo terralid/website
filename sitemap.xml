@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
-    <lastmod>2023-10-18T08:14:51.709Z</lastmod>
-  </url>
-  <url>
     <loc>https://archmetaldbm.github.io/globalid/posts/20230820_RegEd.html</loc>
-    <lastmod>2023-10-18T08:14:50.836Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
-    <lastmod>2023-10-18T08:14:49.776Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/workshop-archive.html</loc>
-    <lastmod>2023-10-18T08:14:48.680Z</lastmod>
+    <lastmod>2023-11-04T08:48:59.233Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/workshop-current.html</loc>
-    <lastmod>2023-10-18T08:14:45.440Z</lastmod>
+    <lastmod>2023-11-04T08:48:58.393Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/blog.html</loc>
-    <lastmod>2023-10-18T08:14:47.936Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
-    <lastmod>2023-10-18T08:14:49.260Z</lastmod>
+    <lastmod>2023-11-04T08:48:57.609Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/index.html</loc>
-    <lastmod>2023-10-18T08:14:50.296Z</lastmod>
+    <lastmod>2023-11-04T08:48:56.729Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
+    <lastmod>2023-11-04T08:48:53.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/workshop-archive.html</loc>
+    <lastmod>2023-11-04T08:48:56.309Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
+    <lastmod>2023-11-04T08:48:57.085Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
+    <lastmod>2023-11-04T08:48:58.037Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/posts/first post.html</loc>
-    <lastmod>2023-10-18T08:14:51.280Z</lastmod>
+    <lastmod>2023-11-04T08:48:58.769Z</lastmod>
   </url>
 </urlset>
