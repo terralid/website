@@ -15,7 +15,28 @@
 <link>https://archmetaldbm.github.io/globalid/blog.html</link>
 </image>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Sun, 20 Aug 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Nov 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Gathering the lead isotope community</title>
+  <dc:creator>Jay Stephens</dc:creator>
+  <dc:creator>Virginie Renson</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20231102_Workshop.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>When GlobaLID was announced, there was general enthusiasm for a standardized repository of geological lead isotopic data (ourselves included - no more sharing of excel documents!), but it quickly became clear that such a large endeavor would require a community to operate and maintain. One of the crucial points raised in this initial phase of the database was how to design a system of standards that both ensures its applicability to global contexts, while also integrating with the research of scholars who are already successfully applying the method. Because of these nuances, GlobaLID, in partnership with the Deutsches Bergbau Museum Bochum and the Ruhr University of Bochum, invited scholars from all over the world to a conference in Bochum, Germany in February, 2023 in order to discuss their ideas for creating such a database: from the back-end structure, to establishing standard protocols data evaluation, formatting mechanisms for data submission and tools for interpretation, educational materials, and overall goals of the project.</p>
+<p>Beyond the usual introductions and reconnections, day 1 of the conference was focused on the research of conference participants in order to better understand the variety of ways in which current projects interact with lead isotopic data and databases. These talks seeded an already fertile soil for discussions on how users would interact with the GlobaLID database, how we would approach the issue of standardization, and integrate with the legacy of database creation for archaeologists applying lead isotopic analysis.</p>
+<p>With the stage set, day 2 of the conference was divided into thematic presentations, focusing on the structure of the database, how to create a standardized platform, and the metadata which should be included. Important to this discussion was an overview of other, already existing, regional databases. GlobaLID’s vision is to create a link which would bind these databases together, integrating the nuance of regional specificity with the broad applicability and reach that a global database affords. Another seminal part of the discussion surrounded the issue of credit and how to ensure that researchers submitting data to GlobaLID would receive recognition for their efforts (and citations in future studies!). As a possible solution to this issue, Kirsten Elger gave an overview of data journals, which can host previously unpublished lead isotopic data with a report of the methods with which they were collected. Publication in these data journals allows the data to be fully citable and will generate a DOI. This ensures that any researcher submitting unpublished data would receive two benefits: 1) a publication that they could list on their CV, and 2) citations of this publication for any study making use of their data. Day 2 also included presentations from Patrick Degryse, Tzilla Eshel, Naama Yahalom-Mack, and Daniel Finn, who collectively summarized the statistical and visualization techniques that scholars routinely employ when evaluating the lead isotopic signature for archaeological artifacts. These presentations served both to discuss current approaches for this practice, as well as select methods that researchers would like to see as available tools on the front-end of the GlobaLID platform.</p>
+<p>Unlike days 1 and 2, day 3 was structured with multiple sessions operating in parallel, to discuss specific topics of interest to participants and establish the overall framework for GlobaLID in component parts. Thematic focus groups included: metadata, standardization, visualization and statistical tools (<a href="workshop-archive.qmd#many-lids-but-none-matching-the-vessel">full programme of the workshop</a>). For these break-out groups, participants outlined important components that should be instituted in each of these thematic topics before re-aggregating for the final discussion. One of the most important developments from these break-out groups was the creation of “regional editors” which are the focus of another <a href="../posts/20230820_RegEd.html">blog post</a>.</p>
+<p>We are two of the regional editors for GlobaLID, and for us, this conference was a great opportunity to meet and interact with colleagues applying lead isotopic analysis to various parts of the global archaeological record. It was also an important moment to set a benchmark for where we, as a community, see lead isotopic analysis going in the future. GlobaLID reflects this vision: it is compatible with the present, but forward looking. The team at GlobaLID is currently implementing points raised during this conference, and hopes to run a follow-up conference in 2025.</p>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20231102_Workshop.html</guid>
+  <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Regional Editors</title>
   <dc:creator>María Florencia Becerra</dc:creator>
@@ -35,12 +56,12 @@
 <li>North America:
 <ul>
 <li><a href="https://archaeometry.missouri.edu/profile(Virginie).html">Virginie Renson</a> <a href="https://orcid.org/0000-0002-5701-0985"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> (Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)</li>
-<li><a href="https://anthropology.arizona.edu/people/dave-killick">David Killick</a> <a href="https://orcid.org/0000-0002-8964-750X"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> ( School of Anthropology, University of Arizona, Tucson, AZ, USA)</li>
+<li><a href="https://anthropology.arizona.edu/people/dave-killick">David Killick</a> <a href="https://orcid.org/0000-0002-8964-750X"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> (School of Anthropology, University of Arizona, Tucson, AZ, USA)</li>
 </ul></li>
 <li>South America: <a href="https://www.conicet.gov.ar/new_scp/detalle.php?id=29835">María Florencia Becerra</a> <a href="https://orcid.org/0000-0001-6302-7452"><img src="https://archmetaldbm.github.io/globalid/posts/https:/info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" class="img-fluid"></a> (Facultad de Filosofía y Letras, Universidad de Buenos Aires, Instituto de Arqueología, CONICET, Buenos Aires, Argentina; Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)</li>
 </ul>
 <p>The first contribution from Jay Stephens on sub-Saharan Africa with 468 entries is already available online. María Florencia Becerra and Virginie Renson currently work on data from Southern and Northern America, respectively, which will successively be added to the publicly accessible revised database.</p>
-<p>GlobaLID is a community-driven and peer-curated project. Join our team [mail address Core Team] to contribute to GlobaLID and to help unleashing the power of FAIR data!</p>
+<p>GlobaLID is a community-driven and peer-curated project. <a href="globalid@bergbaumuseum.de">Get in touch</a> and join <a href="team.qmd">the team</a> to contribute to GlobaLID and to help unleashing the power of FAIR data!</p>
 
 
 
