@@ -17,7 +17,7 @@ GlobaLID consists of three products and more might be developed as the project e
 
 * Database ([most recent version](https://github.com/archmetalDBM/GlobaLID-database) | [archive](https://doi.org/10.5880/fidgeo.2021.031))
 * Web application ([live version](https://globalid.dmt-lb.de/) | [source code](https://github.com/archmetalDBM/GlobaLID-App))
-* Educational materials (in development as an [NFDI4Earth Educational Pilot](https://nfdi4earth.de/2participate/education-training?view=article&id=314&catid=15)).
+* Interactive textbook (in development, [preliminary version](https://archmetaldbm.github.io/GlobaLID-Edu/) | [source code](https://github.com/archmetalDBM/GlobaLID-Edu) | [archive](https://doi.org/10.5281/zenodo.10205820)) .
 
 ## Further information
 GlobaLID was officially presented to the public in the article "From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application" in the journal Archaeometry ([doi:10.1111/arcm.12762](https://doi.org/10.1111/arcm.12762)). The database was published as dataset with an extensive description of its structure in the repository of the GFZ Data Services ([doi:10.5880/fidgeo.2021.031](https://doi.org/10.5880/fidgeo.2021.031)). The features of the web application prototype are presented in our [video tutorial on YouTube](https://www.youtube.com/watch?v=qwKStMc-068). You can learn more about the different products and how to use them at their respective pages. 
