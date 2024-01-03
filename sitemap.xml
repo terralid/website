@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://archmetaldbm.github.io/globalid/workshop-current.html</loc>
-    <lastmod>2023-11-25T12:16:50.581Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/first post.html</loc>
-    <lastmod>2023-11-25T12:16:50.017Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/posts/20231102_Workshop.html</loc>
-    <lastmod>2023-11-25T12:16:49.393Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
-    <lastmod>2023-11-25T12:16:48.661Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/blog.html</loc>
-    <lastmod>2023-11-25T12:16:47.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/index.html</loc>
-    <lastmod>2023-11-25T12:16:46.941Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/workshop-archive.html</loc>
-    <lastmod>2023-11-25T12:16:48.389Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
-    <lastmod>2023-11-25T12:16:49.017Z</lastmod>
+    <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
+    <lastmod>2024-01-03T12:15:48.989Z</lastmod>
   </url>
   <url>
     <loc>https://archmetaldbm.github.io/globalid/posts/20230820_RegEd.html</loc>
-    <lastmod>2023-11-25T12:16:49.741Z</lastmod>
+    <lastmod>2024-01-03T12:15:48.313Z</lastmod>
   </url>
   <url>
-    <loc>https://archmetaldbm.github.io/globalid/events.html</loc>
-    <lastmod>2023-11-25T12:16:50.321Z</lastmod>
+    <loc>https://archmetaldbm.github.io/globalid/posts/first post.html</loc>
+    <lastmod>2024-01-03T12:15:47.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/index.html</loc>
+    <lastmod>2024-01-03T12:15:47.053Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/blog.html</loc>
+    <lastmod>2024-01-03T12:15:46.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/about.html</loc>
+    <lastmod>2024-01-03T12:15:45.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/workshop-archive.html</loc>
+    <lastmod>2024-01-03T12:15:46.737Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/workshop-current.html</loc>
+    <lastmod>2024-01-03T12:15:47.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/posts/20231102_Workshop.html</loc>
+    <lastmod>2024-01-03T12:15:47.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archmetaldbm.github.io/globalid/team.html</loc>
+    <lastmod>2024-01-03T12:15:48.677Z</lastmod>
   </url>
 </urlset>
