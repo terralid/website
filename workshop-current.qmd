@@ -2,6 +2,8 @@
 title: "Current"
 ---
 
-The GlobaLID Team organises workshops to involve the entire community in the process. 
+The GlobaLID Team organises workshops to involve the entire community in the process. You can read about past workshops in the [archive](workshop-archive.qmd).
 
 Upcoming workshops are not ready to be announced yet. Stay tuned by reading our [blog](blog.qmd). 
+
+
