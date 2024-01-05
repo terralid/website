@@ -9,13 +9,53 @@
 <link>https://archmetaldbm.github.io/globalid/blog.html</link>
 <atom:link href="https://archmetaldbm.github.io/globalid/blog.xml" rel="self" type="application/rss+xml"/>
 <description>The Global Lead Isotope Database project develops next-generation tools for working with lead isotope data in the archaeological sciences.</description>
-<image>
-<url>https://archmetaldbm.github.io/globalid/../assets/globalid-logo.svg</url>
-<title>GlobaLID</title>
-<link>https://archmetaldbm.github.io/globalid/blog.html</link>
-</image>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Thu, 02 Nov 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Jan 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New data online in 2023</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20240104_Data2023.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Thanks to the efforts of our <a href="">regional editors</a> and the <a href="">GlobaLID Core Team</a>, the amount of data in the GlobaLID database grew significantly: from 2700 data points at the end of 2022 to more than 4100 data points. Our spatial coverage also increased with data from Sub-Saharan Africa and South America. You can find a full list of countries for which data were added on the News page of the <a href="https://globalid.dmt-lb.de/">web application</a>.</p>
+<p>More data is currently reviewed and prepared – stay tuned!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://archmetaldbm.github.io/globalid/assets/Blog_Data2023.png" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Coverage of the GlobaLID database end of 2023.</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20240104_Data2023.html</guid>
+  <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://archmetaldbm.github.io/globalid/assets/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Interactive textbook online</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20231215_Textbook.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>For several months now, the GlobaLID Core Team has been working on “Lead Isotopes in Archaeology: An Interactive Textbook”. The aim is to provide an open educational resource about the lead isotope method and its application in archaeology as a textbook. In contrast to traditional textbooks, the format as a webpage allows the inclusion of interactive content and other multimedia elements. In addition, it makes it easy to update and expand the textbook over time. The textbook is designed as an edited volume to give appropriate credit to all contributors.</p>
+<p>We are delighted to announce the launch of its first version: <a href="https://archmetaldbm.github.io/GlobaLID-Edu/" class="uri">https://archmetaldbm.github.io/GlobaLID-Edu/</a></p>
+<p>This initial version was supported through an <a href="https://nfdi4earth.de/2participate/education-training?view=article&amp;id=314&amp;catid=15">NFDI4Earth Educational Pilot</a>.</p>
+<p>Admittedly, it is still in the very early stages with only a couple of chapters available but we already wanted to give you an idea about our approach. More chapters will become available in the next months.</p>
+<p>We are looking forward to your feedback! And please get in touch if you are interested in contributing or writing a chapter – we are happy to collaborate!</p>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20231215_Textbook.html</guid>
+  <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://archmetaldbm.github.io/globalid/assets/pxhere.com_799419_CCO.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Gathering the lead isotope community</title>
   <dc:creator>Jay Stephens</dc:creator>
@@ -36,6 +76,33 @@
  ]]></description>
   <guid>https://archmetaldbm.github.io/globalid/posts/20231102_Workshop.html</guid>
   <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>GlobaLID becomes funded by the DFG</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <dc:creator>Sabine Klein</dc:creator>
+  <dc:creator>Helge Wiethoff</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20230823_Funding.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>We are excited to announce that GlobaLID received a major grant from the Deutsche Forschungsgemeinschaft (DFG; German Research Foundation) for a three-year digital infrastructure project to turn the prototypes into a full version. The project will start in February 2024 and will include many opportunities for you to provide feedback and input to ensure that GlobaLID will meet your needs and expectations. In the major work packages, we will continue to work on</p>
+<ul>
+<li>An online database that stores lead isotope data in accordance with the FAIR principles, enhanced by workflows for the publication and curation of the data *A metadata scheme to provide sufficient context to the lead isotope data in a well-structured way</li>
+<li>A web application to access and work with the database and to carry out common tasks when working with lead isotope data</li>
+<li>An interactive textbook as a collection of open educational resources about all aspects of the lead isotope method</li>
+<li>Bringing the lead isotope community closer together and providing training through workshops</li>
+</ul>
+<p>More information will become available in early 2024 – stay tuned!</p>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20230823_Funding.html</guid>
+  <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://archmetaldbm.github.io/globalid/assets/pxhere.com_1058395_CCO.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Regional Editors</title>
@@ -69,6 +136,33 @@
   <guid>https://archmetaldbm.github.io/globalid/posts/20230820_RegEd.html</guid>
   <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
   <media:content url="https://archmetaldbm.github.io/globalid/assets/globalid-logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>GlobaLID at the NADAC summer school in Berkeley, CA (USA)</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20230730_NADAC.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Members of the GlobaLID Core Team are participating in the <a href="https://alexandriaarchive.org/nadac/">NEH Institute for Advanced Topics in the Digital Humanities “Networking Archaeological Data and Communities”</a>, a two-year programme of The Alexandria Archive Institute / Open Context. The institute teaches about the management of archaeological data in monthly online workshops and in-person summer schools.</p>
+<p>I was able to attend the <a href="https://alexandriaarchive.org/2023/08/23/icing-on-the-cake-lessons-from-the-2023-nadac-summer-workshop/">first summer school</a> in July 2023 at the Badè Museum of Archaeology on the campus of Pacific School of Religion in Berkeley, CA (USA). It was a very welcomed opportunity to meet the other participants in person after seeing them via Zoom and to get to know each other in real life. After short presentations of the current state of the participants’ projects, the summer school programme focused on data management plans and linked data.</p>
+<p>In preparation for the summer school, each project drafted a data management plan (if not already existing) which was then discussed in small groups. This allowed us to get deeper insights into some of the projects and especially how data are handled by them. The feedback provided a lot of helpful suggestions for the revision of the data management plan but also for the project itself.</p>
+<p>Linked data were only briefly touched upon in one of the online workshops and were now discussed in detail: How do they work? What are the benefits? But also, what are the challenges and risks of linked data? Inspiring presentations by the experts and brainstorming sessions on different aspects of linked data led to a much better understanding, many new ideas for the projects and an annotated collection of resources on this topic.</p>
+<p>Although everyone was happily busy working on the topics for the workshop, the programme left enough room to get to know each other, discuss our projects in more depth, and get a better understanding of current debates about the handling and preservation of cultural heritage and data gathered from and about it. A tasting of local wines organised by the staff of the Archaeological Research Facility of the University of California Berkeley, a walking tour of the architecture of North Berkeley’s “Holy Hill” neighbourhood, and a great selection of dinner places allowed getting a good impression of Berkeley and its surroundings.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://archmetaldbm.github.io/globalid/posts/https:/alexandriaarchive.org/wp-content/uploads/2023/08/Leigh_NADAC_11-scaled.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">The participants of the NADAC summer school in front of the Badè Museum of Archaeology (Photo credit: Alex Roman, used with permission by the NADAC team)</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20230730_NADAC.html</guid>
+  <pubDate>Sun, 30 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://alexandriaarchive.org/wp-content/uploads/2023/08/Leigh_NADAC_11-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Hello, world!</title>
