@@ -7,7 +7,7 @@ author:
     orcid: 0000-0002-5701-0985
 date: "2023-11-02"
 description: "Report of the GlobaLID workshop at the DBM in February 2023" 
-# image: "../assets/globalid-logo.svg"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg"
 
 ---
 

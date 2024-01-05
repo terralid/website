@@ -5,7 +5,7 @@ listing:
   sort: "date desc"
   type: default
   feed: true
-image: "../assets/globalid-logo.svg"
+  image-placeholder: "../assets/globalid-logo.svg"
 type: partial
   
 ---

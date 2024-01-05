@@ -1,0 +1,20 @@
+---
+title: "Interactive textbook online"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2023-12-15"
+description: "An Open Educational Resource"
+image: "../assets/pxhere.com_799419_CCO.jpg"
+---
+
+For several months now, the GlobaLID Core Team has been working on “Lead Isotopes in Archaeology: An Interactive Textbook”. The aim is to provide an open educational resource about the lead isotope method and its application in archaeology as a textbook. In contrast to traditional textbooks, the format as a webpage allows the inclusion of interactive content and other multimedia elements. In addition, it makes it easy to update and expand the textbook over time. The textbook is designed as an edited volume to give appropriate credit to all contributors. 
+
+We are delighted to announce the launch of its first version: <https://archmetaldbm.github.io/GlobaLID-Edu/> 
+
+This initial version was supported through an [NFDI4Earth Educational Pilot](https://nfdi4earth.de/2participate/education-training?view=article&id=314&catid=15).
+
+Admittedly, it is still in the very early stages with only a couple of chapters available but we already wanted to give you an idea about our approach. More chapters will become available in the next months. 
+
+We are looking forward to your feedback! And please get in touch if you are interested in contributing or writing a chapter – we are happy to collaborate! 

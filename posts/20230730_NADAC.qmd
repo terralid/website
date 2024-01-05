@@ -1,0 +1,22 @@
+---
+title: "GlobaLID at the NADAC summer school in Berkeley, CA (USA)"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2023-07-30"
+description: "A short report about the NADAC summer school"
+image: "https://alexandriaarchive.org/wp-content/uploads/2023/08/Leigh_NADAC_11-scaled.jpg"
+---
+
+Members of the GlobaLID Core Team are participating in the [NEH Institute for Advanced Topics in the Digital Humanities “Networking Archaeological Data and Communities”]( https://alexandriaarchive.org/nadac/), a two-year programme of The Alexandria Archive Institute / Open Context. The institute teaches about the management of archaeological data in monthly online workshops and in-person summer schools. 
+
+I was able to attend the [first summer school](https://alexandriaarchive.org/2023/08/23/icing-on-the-cake-lessons-from-the-2023-nadac-summer-workshop/) in July 2023 at the Badè Museum of Archaeology on the campus of Pacific School of Religion in Berkeley, CA (USA). It was a very welcomed opportunity to meet the other participants in person after seeing them via Zoom and to get to know each other in real life. After short presentations of the current state of the participants’ projects, the summer school programme focused on data management plans and linked data. 
+
+In preparation for the summer school, each project drafted a data management plan (if not already existing) which was then discussed in small groups. This allowed us to get deeper insights into some of the projects and especially how data are handled by them. The feedback provided a lot of helpful suggestions for the revision of the data management plan but also for the project itself. 
+
+Linked data were only briefly touched upon in one of the online workshops and were now discussed in detail: How do they work? What are the benefits? But also, what are the challenges and risks of linked data? Inspiring presentations by the experts and brainstorming sessions on different aspects of linked data led to a much better understanding, many new ideas for the projects and an annotated collection of resources on this topic. 
+
+Although everyone was happily busy working on the topics for the workshop, the programme left enough room to get to know each other, discuss our projects in more depth, and get a better understanding of current debates about the handling and preservation of cultural heritage and data gathered from and about it. A tasting of local wines organised by the staff of the Archaeological Research Facility of the University of California Berkeley, a walking tour of the architecture of North Berkeley’s “Holy Hill” neighbourhood, and a great selection of dinner places allowed getting a good impression of Berkeley and its surroundings. 
+
+![The participants of the NADAC summer school in front of the Badè Museum of Archaeology (Photo credit: Alex Roman, used with permission by the NADAC team)](https://alexandriaarchive.org/wp-content/uploads/2023/08/Leigh_NADAC_11-scaled.jpg)
