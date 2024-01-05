@@ -27,4 +27,4 @@ So far, six colleagues already joined the GlobaLID Team as [Regional Editors](..
 
 The first contribution from Jay Stephens on sub-Saharan Africa with 468 entries is already available online. María Florencia Becerra and Virginie Renson currently work on data from Southern and Northern America, respectively, which will successively be added to the publicly accessible revised database.
 
-GlobaLID is a community-driven and peer-curated project. [Get in touch](globalid@bergbaumuseum.de) and  join [the team](team.qmd) to contribute to GlobaLID and to help unleashing the power of FAIR data! 
+GlobaLID is a community-driven and peer-curated project. [Get in touch](globalid@bergbaumuseum.de) and  join [the team](../team.qmd) to contribute to GlobaLID and to help unleashing the power of FAIR data! 
