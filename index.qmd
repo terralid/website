@@ -14,7 +14,7 @@ Being an open project, we are always open for new members. If you are interested
 ## Our products
 GlobaLID consists of three products and more might be developed as the project evolves. 
 
-* Database ([most recent version](https://github.com/archmetalDBM/GlobaLID-database) | [archive](https://doi.org/10.5880/fidgeo.2021.031))
+* Database ([most recent version](https://github.com/archmetalDBM/GlobaLID-database) | [archive](https://doi.org/10.5880/fidgeo.2023.043))
 * Web application ([live version](https://globalid.dmt-lb.de/) | [source code](https://github.com/archmetalDBM/GlobaLID-App))
 * Interactive textbook (in development, [preliminary version](https://archmetaldbm.github.io/GlobaLID-Edu/) | [source code](https://github.com/archmetalDBM/GlobaLID-Edu) | [archive](https://doi.org/10.5281/zenodo.10205820)) .
 

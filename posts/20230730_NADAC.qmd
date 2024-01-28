@@ -9,7 +9,7 @@ description: "A short report about the NADAC summer school"
 image: "https://alexandriaarchive.org/wp-content/uploads/2023/08/Leigh_NADAC_11-scaled.jpg"
 ---
 
-Members of the GlobaLID Core Team are participating in the [NEH Institute for Advanced Topics in the Digital Humanities “Networking Archaeological Data and Communities”]( https://alexandriaarchive.org/nadac/), a two-year programme of The Alexandria Archive Institute / Open Context. The institute teaches about the management of archaeological data in monthly online workshops and in-person summer schools. 
+Members of the GlobaLID Core Team are participating in the [NEH Institute for Advanced Topics in the Digital Humanities “Networking Archaeological Data and Communities”](https://alexandriaarchive.org/nadac/), a two-year programme of The Alexandria Archive Institute / Open Context. The institute teaches about the management of archaeological data in monthly online workshops and in-person summer schools. 
 
 I was able to attend the [first summer school](https://alexandriaarchive.org/2023/08/23/icing-on-the-cake-lessons-from-the-2023-nadac-summer-workshop/) in July 2023 at the Badè Museum of Archaeology on the campus of Pacific School of Religion in Berkeley, CA (USA). It was a very welcomed opportunity to meet the other participants in person after seeing them via Zoom and to get to know each other in real life. After short presentations of the current state of the participants’ projects, the summer school programme focused on data management plans and linked data. 
 
