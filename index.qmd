@@ -20,3 +20,18 @@ GlobaLID consists of three products and more might be developed as the project e
 
 ## Further information
 GlobaLID was officially presented to the public in the article "From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application" in the journal Archaeometry ([doi:10.1111/arcm.12762](https://doi.org/10.1111/arcm.12762)). The database was published as dataset with an extensive description of its structure in the repository of the GFZ Data Services ([doi:10.5880/fidgeo.2023.043](https://doi.org/10.5880/fidgeo.2023.043)). The features of the web application prototype are presented in our [video tutorial on YouTube](https://www.youtube.com/watch?v=qwKStMc-068). You can learn more about the different products and how to use them at their respective pages. 
+
+## Funding
+
+::: {layout="[ 50 , 50 ]"}
+
+::: {#column-image}
+![](assets/dfg_logo.gif){fig-alt="DFG logo"}
+:::
+
+::: {#column-text}
+This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).
+:::
+
+:::
+
