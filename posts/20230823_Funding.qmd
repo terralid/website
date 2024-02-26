@@ -16,8 +16,8 @@ We are excited to announce that GlobaLID received a major grant from the Deutsch
 
 * An online database that stores lead isotope data in accordance with the FAIR principles, enhanced by workflows for the publication and curation of the data
 * A metadata scheme to provide sufficient context to the lead isotope data in a well-structured way
-*	A web application to access and work with the database and to carry out common tasks when working with lead isotope data
-*	An interactive textbook as a collection of open educational resources about all aspects of the lead isotope method
-*	Bringing the lead isotope community closer together and providing training through workshops 
+* A web application to access and work with the database and to carry out common tasks when working with lead isotope data
+* An interactive textbook as a collection of open educational resources about all aspects of the lead isotope method
+* Bringing the lead isotope community closer together and providing training through workshops 
 
 More information will become available in early 2024 – stay tuned!
