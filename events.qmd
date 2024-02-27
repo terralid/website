@@ -6,7 +6,9 @@ GlobaLID will be and was presented at the following meetings. For workshops orga
 
 ## Upcoming
 
+* Young Researchers in Archaeometry 2024
 * 30th Annual Meeting of the European Association of the Archaeologists (EAA)
+* European Mineralogical Conference 2024
 * Archaeometallurgy in Europe 2024
 * 89th Annual Meeting of the Society for American Archaeology
 
@@ -36,18 +38,3 @@ GlobaLID will be and was presented at the following meetings. For workshops orga
 * Historical Metallurgy Society: Research in Progress Meeting
 * 3^rd^ European Mineralogical Conference
 * Young Researchers in Archaeometry 4
-
-<!-- 
-* Rose T, Klein S, Westner KJ, Hsu Y-K (2022) Nine-tailed data monsters?: Lessons learnt in the compilation of GlobaLID. GeoMinKöln 2022, Köln
-* Rose T, Klein S, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: Towards a community-standard for lead isotope data in archaeology. Young Researchers in Archaeometry 5, online
-* Rose T, Klein S, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. 28th Annual Meeting of the European Association of the Archaeologists (EAA), Budapest
-* Rose T, Klein S, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. 16th PAA Congress, Zanzibar
-* Rose T, Klein S, Westner KJ, Hsu Y-K (2022) GlobaLID: Accessing and visualizing lead isotope data for the reproducible reconstruction of raw material provenance. poster. useR! 2022, online
-* Hsu Y-K, Klein S, Rose T, Westner KJ (2022) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. Advances in Isotope Ratio and related analyses for mapping migrations from Prehistory to the Viking Age (Joint Meeting of the Royal Society of Chemistry & Society of Antiquaries), London
-* Rose T, Klein S, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. poster. 43rd International Symposium on Archaeometry, Lisboa.
-* Rose T, Klein S, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. poster. ICAS-EMME 3, Nicosia.
-* Westner KJ, Klein S, Rose T, Hsu Y-K (2022) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. Le plomb et ses questions analytiques, Nantes.
-* Hsu Y-K, Klein S, Rose T, Westner KJ (2021) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. Historical Metallurgy Society: Research in Progress Meeting, online.
-* Klein S, Rose T, Westner KJ, Hsu Y-K (2021) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. 3rd European Mineralogical Conference, Krakau.
-* Rose T, Klein S, Westner KJ, Hsu Y-K (2021) From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App. Young Researchers in Archaeometry 4, Évora.
--->
