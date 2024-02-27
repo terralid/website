@@ -18,7 +18,7 @@
     "href": "events.html#upcoming",
     "title": "Events",
     "section": "Upcoming",
-    "text": "Upcoming\n\n30th Annual Meeting of the European Association of the Archaeologists (EAA)\nArchaeometallurgy in Europe 2024\n89th Annual Meeting of the Society for American Archaeology"
+    "text": "Upcoming\n\nYoung Researchers in Archaeometry 2024\n30th Annual Meeting of the European Association of the Archaeologists (EAA)\nEuropean Mineralogical Conference 2024\nArchaeometallurgy in Europe 2024\n89th Annual Meeting of the Society for American Archaeology"
   },
   {
     "objectID": "events.html#section",
@@ -175,11 +175,11 @@
     "text": "We are open to new members. If you are interested in joining us, please get in touch via mail or at a conference!"
   },
   {
-    "objectID": "team.html#core-team",
-    "href": "team.html#core-team",
+    "objectID": "team.html#project-team",
+    "href": "team.html#project-team",
     "title": "Team",
-    "section": "Core team",
-    "text": "Core team\n\nCoordinator: Sabine Klein  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany; Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany)\nProgramming: Thomas Rose  (Goethe-Universität Frankfurt, Institut für Geowissenschaften, Frankfurt, Germany; Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nDatabase: Katrin J. Westner  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nMetadata: Yiu-Kang Hsu  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)"
+    "section": "Project team",
+    "text": "Project team\n\nSabine Klein  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany; Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany)\nHelge Wiethoff (Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany)\nThomas Rose  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nTim Greifelt (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nKatrin J. Westner  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nYiu-Kang Hsu  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nAnnette Hornschuch (Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)"
   },
   {
     "objectID": "team.html#regional-editors",
@@ -196,17 +196,10 @@
     "text": "Contributors (Data)\n\nSabine Fischer-Lechner (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)"
   },
   {
-    "objectID": "team.html#contributors-programming",
-    "href": "team.html#contributors-programming",
-    "title": "Team",
-    "section": "Contributors (Programming)",
-    "text": "Contributors (Programming)\n\nDaniel Finn  (Institute of Archaeology, The Hebrew University of Jerusalem, Jerusalem, Israel)"
-  },
-  {
     "objectID": "team.html#partners",
     "href": "team.html#partners",
     "title": "Team",
     "section": "Partners",
-    "text": "Partners\n\nWeb Hosting: Deutsches Bergbau-Museum Bochum  The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.\nDMT-Gesellschaft für Lehre und Bildung mbH  DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990."
+    "text": "Partners\n\nDeutsches Bergbau-Museum Bochum  The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.\nDMT-Gesellschaft für Lehre und Bildung mbH  DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990."
   }
 ]
