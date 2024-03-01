@@ -1,5 +1,5 @@
 ---
-title: "GlobaLID becomes funded by the DFG"
+title: "GlobaLID gets funded by the DFG"
 
 author: 
   - name: Thomas Rose
