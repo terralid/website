@@ -1,0 +1,15 @@
+---
+title: "Let‘s get the project (really) started!"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2024-02-15"
+description: "Report from the internal Kick-Off Meeting"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg"
+---
+
+GlobaLID set out [on the journey towards becoming a full-fledged data infrastructe in into its funded phase](20230823_Funding.qmd) with an institution-internal kick-off meeting on 7 February. All stakeholders at the Deutsches Bergbau-Museum Bochum (DBM), Technische Hochschule Georg Agricola (THGA) and the DMT Society for Teaching and Education (DMT-LB) were informed about GlobaLID, our vision and the work programme of the DFG-funded project. Subsequently, discussions focussed on where GlobaLID positions itself regarding similar activities at the DBM and in Germany (esp., NFDI4Objects), the internal organisation of the project, on general strategies to implement the work programme, and on the organisation of our dissemination activities. 
+
+The public kick-off will take place on 14 May at 15:00 GMT via [Zoom](https://thga-de.zoom-x.de/j/67811470019?pwd=V1NyMDYvQ2J1c05sQzhuU2FaUGJqZz09). You are cordially invited to join! 
+
