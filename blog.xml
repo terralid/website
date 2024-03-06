@@ -9,7 +9,7 @@
 <link>https://archmetaldbm.github.io/globalid/blog.html</link>
 <atom:link href="https://archmetaldbm.github.io/globalid/blog.xml" rel="self" type="application/rss+xml"/>
 <description>The Global Lead Isotope Database project develops next-generation tools for working with lead isotope data in the archaeological sciences.</description>
-<generator>quarto-1.4.550</generator>
+<generator>quarto-1.4.551</generator>
 <lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>GlobaLID database v. 1.1 now available</title>
@@ -36,6 +36,25 @@
   <guid>https://archmetaldbm.github.io/globalid/posts/20240301_DataPub.html</guid>
   <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
   <media:content url="https://archmetaldbm.github.io/globalid/assets/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>Let‘s get the project (really) started!</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20240215_KickOff.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>GlobaLID set out <a href="../posts/20230823_Funding.html">on the journey towards becoming a full-fledged data infrastructe in into its funded phase</a> with an institution-internal kick-off meeting on 7 February. All stakeholders at the Deutsches Bergbau-Museum Bochum (DBM), Technische Hochschule Georg Agricola (THGA) and the DMT Society for Teaching and Education (DMT-LB) were informed about GlobaLID, our vision and the work programme of the DFG-funded project. Subsequently, discussions focussed on where GlobaLID positions itself regarding similar activities at the DBM and in Germany (esp., NFDI4Objects), the internal organisation of the project, on general strategies to implement the work programme, and on the organisation of our dissemination activities.</p>
+<p>The public kick-off will take place on 14 May at 15:00 GMT via <a href="https://thga-de.zoom-x.de/j/67811470019?pwd=V1NyMDYvQ2J1c05sQzhuU2FaUGJqZz09">Zoom</a>. You are cordially invited to join!</p>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20240215_KickOff.html</guid>
+  <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>New data online in 2023</title>
