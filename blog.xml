@@ -9,8 +9,29 @@
 <link>https://archmetaldbm.github.io/globalid/blog.html</link>
 <atom:link href="https://archmetaldbm.github.io/globalid/blog.xml" rel="self" type="application/rss+xml"/>
 <description>The Global Lead Isotope Database project develops next-generation tools for working with lead isotope data in the archaeological sciences.</description>
-<generator>quarto-1.4.554</generator>
-<lastBuildDate>Sun, 14 Apr 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.555</generator>
+<lastBuildDate>Thu, 06 Jun 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Community Kick-Off Meeting on 14 May</title>
+  <dc:creator>Tim Greifelt</dc:creator>
+  <link>https://archmetaldbm.github.io/globalid/posts/20240606_Kick-off.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The next step is done!</p>
+<p>On 14 May, our kick-off meeting took place online to present the progress and the name change from GlobaLID to TerraLID to the community. The offer to participate and exchange ideas was very well received by the up to 40 participants. The aim was to involve the community in the development of TerraLID and to find out what requirements the community has for TerraLID to be able to respond to them specifically in the further development. Thomas Rose presented the TerraLID roadmap in a very vivid presentation and then demonstrated the web app in a simulation. Last but not least, the individual regional editors presented themselves and their work.</p>
+<p>The meeting was a complete success and there was a lot of positive feedback. It was nice to see how much interest there is in TerraLID from the community.</p>
+<p>If you missed the kick-off meeting but would have liked to attend, <!-- you can watch the recorded meeting below --> the recording will become available here soon.</p>
+<p>If you have any questions and/or comments, please send us an <a href="mailto:terralid@bergbaumuseum.de">e-mail</a>… we look forward to hearing from you.</p>
+
+
+
+ ]]></description>
+  <guid>https://archmetaldbm.github.io/globalid/posts/20240606_Kick-off.html</guid>
+  <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>GlobaLID becomes TerraLID</title>
   <dc:creator>Thomas Rose</dc:creator>
