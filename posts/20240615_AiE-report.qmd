@@ -6,7 +6,7 @@ author:
     orcid: 0000-0002-8186-3566
 date: "2024-06-15"
 description: 'TerraLID at "Archaeometallurgy in Europe"'
-image: "../assets/AiE2024_poster.jpg"
+image: "../assets/AIE2024_poster.jpg"
 
 ---
 
