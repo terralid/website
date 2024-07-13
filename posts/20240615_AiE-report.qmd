@@ -19,7 +19,7 @@ The excellent side programme provided ample opportunities to continue these disc
 We were very happy to be part of this well-organised conference and to see that the interest and enthusiasm for TerraLID remained unchanged on a high level. See you next time, 2027 in Granada! 
 
 ::: {layout-ncol=2}
-![Conference participants discussing in front of the TerraLID poster (photo: Thomas Rose).](../assets/AiE2024_poster.jpg){fig-alt="Three persons standing in front of a poster wall discussing and ponting at the poster presenting TerraLID." group="my-gallery"}
+![Conference participants discussing in front of the TerraLID poster (photo: Thomas Rose).](../assets/AIE2024_poster.jpg){fig-alt="Three persons standing in front of a poster wall discussing and ponting at the poster presenting TerraLID." group="my-gallery"}
 
 ![View from the top of the slag heap with the [Lusthus in Österå near Falun]( https://maps.app.goo.gl/cZZi3mmwcrz2QU9p6) (photo: Sabine Klein).](../assets/AIE2024_landscape.jpg){fig-alt="View from a slag heap towards houses with a lake in the background and forested hills at the horizon under ragged clouds" group="my-gallery"}
 :::
