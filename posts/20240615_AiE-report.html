@@ -45,9 +45,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
-<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
-<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -219,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="../assets/AiE2024_poster.jpg" class="lightbox" data-gallery="my-gallery" title="Conference participants discussing in front of the TerraLID poster (photo: Thomas Rose)."><img src="../assets/AiE2024_poster.jpg" class="img-fluid figure-img" alt="Three persons standing in front of a poster wall discussing and ponting at the poster presenting TerraLID."></a></p>
+<p><img src="../assets/AiE2024_poster.jpg" class="img-fluid figure-img" data-group="my-gallery" alt="Three persons standing in front of a poster wall discussing and ponting at the poster presenting TerraLID."></p>
 <figcaption>Conference participants discussing in front of the TerraLID poster (photo: Thomas Rose).</figcaption>
 </figure>
 </div>
@@ -227,7 +224,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="../assets/AIE2024_landscape.jpg" class="lightbox" data-gallery="my-gallery" title="View from the top of the slag heap with the Lusthus in Österå near Falun (photo: Sabine Klein)."><img src="../assets/AIE2024_landscape.jpg" class="img-fluid figure-img" alt="View from a slag heap towards houses with a lake in the background and forested hills at the horizon under ragged clouds"></a></p>
+<p><img src="../assets/AIE2024_landscape.jpg" class="img-fluid figure-img" data-group="my-gallery" alt="View from a slag heap towards houses with a lake in the background and forested hills at the horizon under ragged clouds"></p>
 <figcaption>View from the top of the slag heap with the <a href="https://maps.app.goo.gl/cZZi3mmwcrz2QU9p6">Lusthus in Österå near Falun</a> (photo: Sabine Klein).</figcaption>
 </figure>
 </div>
@@ -808,38 +805,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","descPosition":"right","skin":"my-css-class","openEffect":"fade","loop":false,"closeEffect":"fade"});
-(function() {
-  let previousOnload = window.onload;
-  window.onload = () => {
-    if (previousOnload) {
-      previousOnload();
-    }
-    lightboxQuarto.on('slide_before_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      const href = trigger.getAttribute('href');
-      if (href !== null) {
-        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
-        if (imgEl !== null) {
-          const srcAttr = imgEl.getAttribute("src");
-          if (srcAttr && srcAttr.startsWith("data:")) {
-            slideConfig.href = srcAttr;
-          }
-        }
-      } 
-    });
-  
-    lightboxQuarto.on('slide_after_load', (data) => {
-      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(slideNode);
-      }
-    });
-  
-  };
-  
-})();
-          </script>
 
 
 

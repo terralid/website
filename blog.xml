@@ -32,7 +32,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="../assets/AiE2024_poster.jpg" class="lightbox" data-gallery="my-gallery" title="Conference participants discussing in front of the TerraLID poster (photo: Thomas Rose)."><img src="https://archmetaldbm.github.io/globalid/assets/AiE2024_poster.jpg" class="img-fluid figure-img" alt="Three persons standing in front of a poster wall discussing and ponting at the poster presenting TerraLID."></a></p>
+<p><img src="https://archmetaldbm.github.io/globalid/assets/AiE2024_poster.jpg" class="img-fluid figure-img" data-group="my-gallery" alt="Three persons standing in front of a poster wall discussing and ponting at the poster presenting TerraLID."></p>
 <figcaption>Conference participants discussing in front of the TerraLID poster (photo: Thomas Rose).</figcaption>
 </figure>
 </div>
@@ -40,7 +40,7 @@
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="../assets/AIE2024_landscape.jpg" class="lightbox" data-gallery="my-gallery" title="View from the top of the slag heap with the Lusthus in Österå near Falun (photo: Sabine Klein)."><img src="https://archmetaldbm.github.io/globalid/assets/AIE2024_landscape.jpg" class="img-fluid figure-img" alt="View from a slag heap towards houses with a lake in the background and forested hills at the horizon under ragged clouds"></a></p>
+<p><img src="https://archmetaldbm.github.io/globalid/assets/AIE2024_landscape.jpg" class="img-fluid figure-img" data-group="my-gallery" alt="View from a slag heap towards houses with a lake in the background and forested hills at the horizon under ragged clouds"></p>
 <figcaption>View from the top of the slag heap with the <a href="https://maps.app.goo.gl/cZZi3mmwcrz2QU9p6">Lusthus in Österå near Falun</a> (photo: Sabine Klein).</figcaption>
 </figure>
 </div>
