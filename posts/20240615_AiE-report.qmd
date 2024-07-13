@@ -1,0 +1,31 @@
+---
+title: "White nights, red houses and lots of slag"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2024-06-15"
+description: 'TerraLID at "Archaeometallurgy in Europe"'
+image: "../assets/AiE2024_poster.jpg"
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+  css-class: "my-css-class"
+  
+---
+
+The 6^th^ Archaeometallurgy in Europe conference (11 to 14 June 2024) took place in the old mining town Falun, the capital of Dalarnas region with its picturesque landscape. Known worldwide for its old open cast copper mine and Falun red – the typical red colour of Swedish houses –, Falun gave a very fitting environment for the European archaeometallurgy community to meet and discuss the latest news in the field. 
+
+Numerous presentations and posters informed, among others, about the latest state of the lead isotope method and new approaches on statistical methods and how to combine it with other analytical methods to increase its discriminatory power. The TerraLID team presented the scope and plans for TerraLID as a poster. The conference offered plenty of opportunities to make TerraLID more widely known in the community and to discuss its aims and strategies on how to move forward. Once more, it became clear that an infrastructure for easy access to and standardised documentation of lead isotope data and their context are urgently needed and that the community is full with anticipation for TerraLID. 
+
+The excellent side programme provided ample opportunities to continue these discussions in a more informal atmosphere and to get acquainted with the rich mining history and beautiful landscape of Dalarnas region. The size and number of slag heaps amidst beautiful forests and lakes around Falun are outstanding and still could give only a glimpse in how profoundly mining impacted the region in the past. After the tours, the white nights and nice bars set the perfect atmosphere to catch-up with friends and colleagues until the early mornings. 
+
+We were very happy to be part of this well-organised conference and to see that the interest and enthusiasm for TerraLID remained unchanged on a high level. See you next time, 2027 in Granada! 
+
+::: {layout-ncol=2}
+![Conference participants discussing in front of the TerraLID poster (photo: Thomas Rose).](../assets/AiE2024_poster.jpg){fig-alt="Three persons standing in front of a poster wall discussing and ponting at the poster presenting TerraLID." group="my-gallery"}
+
+![View from the top of the slag heap with the [Lusthus in Österå near Falun]( https://maps.app.goo.gl/cZZi3mmwcrz2QU9p6) (photo: Sabine Klein).](../assets/AIE2024_landscape.jpg){fig-alt="View from a slag heap towards houses with a lake in the background and forested hills at the horizon under ragged clouds" group="my-gallery"}
+:::
