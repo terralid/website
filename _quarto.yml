@@ -2,14 +2,13 @@ project:
   type: website
     
 website:
-  site-url: https://archmetaldbm.github.io/globalid
-  repo-url: https://github.com/archmetalDBM/GlobaLID
-  title: "GlobaLID"
-  description: "The Global Lead Isotope Database project develops next-generation tools for working with lead isotope data in the archaeological sciences."
-  favicon: favicon.png
+  site-url: https://www.terralid.org
+  repo-url: https://github.com/terralid/website
+  description: "TerraLID is a digital research data infrastructure for lead isotope data in archaeology and develops next-generation tools for the archaeological sciences."
+  favicon: 'assets/favicon/favicon.ico'
   navbar:
-    logo: assets/globalid-logo.svg
-    logo-alt: "GlobaLID logo"
+    logo: assets/TerraLID_logo_word_white.png
+    logo-alt: "TerraLID logo"
     left:
       - href: index.qmd
         text: "Home"
@@ -27,26 +26,25 @@ website:
       - icon: box-arrow-up-right
         href: https://github.com/archmetalDBM/GlobaLID-database
         text: "Database"
-    right: 
-      - about.qmd
     tools:
       - icon: envelope-fill
-        href: mailto:globalid@bergbaumuseum.de?subject=GlobaLID
+        href: mailto:terralid@bergbaumuseum.de?subject=TerraLID
       - icon: github
-        href: https://github.com/archmetalDBM
+        href: https://github.com/terralid
       - icon: rss
         href: blog.xml
-    
+  page-footer: 
+    left: "Test"
+    right: 
+      - text: "Legal information"
+        href: about.qmd
+  
 
 format:
   html:
     theme: 
-      light: 
-        - flatly
-        - custom.scss
-      dark: 
-        - darkly
-        - custom.scss
+      - sandstone
+      - custom.scss
     css: styles.css
     toc: true
     toc-location: left

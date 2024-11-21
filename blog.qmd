@@ -4,8 +4,11 @@ listing:
   contents: posts
   sort: "date desc"
   type: default
-  feed: true
-  image-placeholder: "assets/globalid-logo.svg"
+  feed: 
+      title: "TerraLID Blog"
+      type: partial
+#      description: 
+  image-placeholder: "assets/TerraLID_logo_word.png"
 type: partial
   
 ---
