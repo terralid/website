@@ -1,10 +1,10 @@
 ---
-title: "About"
+title: "Legal Notice & Privacy Statement"
 ---
 
 ## Legal Notice
 
-The Deutsche Bergbau-Museum Bochum is a dependent facility of the
+The Deutsche Bergbau-Museum Bochum is a dependent facility of the  
 DMT-Gesellschaft für Lehre und Bildung mbH.
 
 Provider according to § 5 TMG is therefore:  
@@ -25,4 +25,4 @@ Nordrhein Westfalen
 
 ## Privacy
 
-This webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by [GitHub Inc.](https://github.com/){target="_blank"} using [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages){target="_blank"}. The privacy statement of Github is available [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement){target="_blank"}. 
+This webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by [GitHub Inc.](https://github.com/) using [GitHub pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages). The privacy statement of Github is available [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement). 

@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "TerraLID News"
 listing: 
   contents: posts
   sort: "date desc"
@@ -7,10 +7,10 @@ listing:
   feed: 
       title: "TerraLID Blog"
       type: partial
-#      description: 
+      description: "This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology."
   image-placeholder: "assets/TerraLID_logo_word.png"
 type: partial
   
 ---
 
-News from the GlobaLID project. Subscribe to the [rss feed](blog.xml) to get automatic updates.
+Here you can find news from the TerraLID project and its predecessor, GlobaLID. Subscribe to our [rss feed](blog.xml) makes it easy to follow up on new articles. 

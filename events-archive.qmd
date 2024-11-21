@@ -2,12 +2,21 @@
 title: "Archive"
 ---
 
+## TerraLID-Community Kick-Off
+Thanks to the acquisition of funding in early 2024, the prototypes announced to the community as [GlobaLID](https://archmetaldbm.github.io/Globalid/) will be turned into full versions. This event informed about the development of GlobaLID, the planned activities during the funded phase and the vision of TerraLID. Several [Regional Editors](team.qmd#regional-editors) presented their view on GlobaLID/TerraLID and motivation to contribute. 
+
+Date: 14 May 2024  
+Location: Zoom
+
+The recording of the meeting will be available soon. 
+
+
 ## Many LIDs, but none matching the vessel 
 
 Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- A brainstorming workshop 
 
 Date: 08--10 February 2023  
-Location: German Mining Museum Bochum
+Location: [Deutsches Bergbau-Museum Bochum](https://www.bergbaumuseum.de/)
 
 ### Programme
 

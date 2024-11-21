@@ -1,0 +1,9 @@
+---
+title: "Current"
+---
+
+The TerraLID Team organises events and workshops to involve the entire community in the process. You can read about past events in the [archive](events-archive.qmd).
+
+A new event will be announced soon. Stay tuned by reading our [blog](blog.qmd) or subscribing to our [newsletter](https://www.listserv.dfn.de/sympa/subscribe/terralid-news). 
+
+

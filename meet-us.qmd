@@ -1,17 +1,18 @@
 ---
-title: "Events"
+title: "Where you can meet us"
 ---
 
-GlobaLID will be and was presented at the following meetings. For workshops organised by the GlobaLID Team, please see our [workshop page](workshop-current.qmd). 
+We are presenting TerraLID at numerous meetings. So, if you want to meet the people behind TerraLID and have a chat, have a look in the list below to see where you can find us and which we attended in the past. For events organised and hosted by us, please have a look at the [events page](events-current.qmd). 
 
 ## Upcoming
 
-* Scientific Forum Entangling Geosciences and Chemistry in Cameroon
-* Young Researchers in Archaeometry 2024
+* [Archäometrie & Denkmalpflege](https://archaeometrie-tagung.de/)
 
 ## 2024
 
-* 84^th^ Verbandstagung des Nordwestdeutschen Verbands für Altertumsforschung
+* Scientific Forum Entangling Geosciences and Chemistry in Cameroon
+* Young Researchers in Archaeometry 2024
+* 84. Verbandstagung des Nordwestdeutschen Verbands für Altertumsforschung
 * 30^th^ Annual Meeting of the European Association of Archaeologists (EAA)
 * European Mineralogical Conference 2024
 * Archaeometallurgy in Europe 2024

@@ -13,19 +13,35 @@ website:
       - href: index.qmd
         text: "Home"
       - blog.qmd
-      - href: team.qmd
-        text: "Team"
-      - text: "Workshops"
+      - team.qmd
+      - vision.qmd
+      - network.qmd
+      - resources.qmd
+      - text: "  "
+      - text: "Events"
         menu: 
-          - workshop-current.qmd
-          - workshop-archive.qmd
-      - events.qmd
-      - icon: box-arrow-up-right
-        href: https://globalid.dmt-lb.de/
-        text: "Web App"
-      - icon: box-arrow-up-right
-        href: https://github.com/archmetalDBM/GlobaLID-database
-        text: "Database"
+          - events-current.qmd
+          - events-archive.qmd
+      - text: "Meet us"
+        href: meet-us.qmd
+      - text: "  "
+      - text: "GlobaLID"
+        menu: 
+          - icon: box-arrow-up-right
+            href: https://archmetaldbm.github.io/Globalid/
+            text: "Webpage"
+          - icon: box-arrow-up-right
+            href: https://globalid.dmt-lb.de/
+            text: "Web App"
+          - icon: box-arrow-up-right
+            href: https://github.com/archmetalDBM/GlobaLID-database
+            text: "Database"
+#    right: 
+#      - icon: box-arrow-up-right
+#        href: https://edu.terralid.org
+#        text: "Textbook"
+#      - text: "  "
+#      - text: "  "
     tools:
       - icon: envelope-fill
         href: mailto:terralid@bergbaumuseum.de?subject=TerraLID
