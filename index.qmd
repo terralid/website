@@ -1,79 +1,13 @@
 ---
-pagetitle: "GlobaLID"
+pagetitle: "TerraLID"
 ---
 
-# Welcome to GlobaLID
+<!-- include mailing list prominently -->
+
+# Welcome to TerraLID
 
 ## Our aim
-The GlobaLID (**Globa**l **L**ead **I**sotope **D**atabase) project aims to develop next-generation tools for working with lead isotope data in the archaeological sciences. The primary aim is to create an infrastructure for the submission and provision of lead isotope reference data that makes it easy to submit data to the database, minimises data curation efforts by automatised checks and enrichment of metadata from other sources, and by providing easy access to the data through a web application or the database API. Data will be handled in accordance with the [FAIR principles](https://www.go-fair.org/) to maximise their findability, accessibility, interoperability and reusability. 
-
-``` {r}
-#| code-copy: true
-a <- 1+1 # <1>
-b <- "test183" #<2>
-
-c(a,b)
-```
-
-1. Take `a as a vairable`to create sum,
-2. some other `crazy` stuff. 
-
-| test | test | 
-|----|----|
-|eeafsvfnaäpgvbjaMNVBÄP ÄPDJV AÄDSÜPB OJAEB VMÄAÜPR EO | PÖEGJngävWÜPREBVJAnöäbvp|
-
-::: {.panel-tabset}
-
-## tab 1
-Some content
-
-## tab 2
-Some content
-
-:::
-
-```
-a <- 1+1 
-b <- "test183"
-```
-
-> This is a note. 
-
-
-:::{.callout-note}
-Note that there are five types of callouts, including: 
-`note`, `tip`, `warning`, `caution`, and `important`.
-:::
-
-:::{.callout-tip}
-Note that there are five types of callouts, including: 
-`note`, `tip`, `warning`, `caution`, and `important`.
-:::
-
-:::{.callout-warning}
-Note that there are five types of callouts, including: 
-`note`, `tip`, `warning`, `caution`, and `important`.
-:::
-
-:::{.callout-caution}
-Note that there are five types of callouts, including: 
-`note`, `tip`, `warning`, `caution`, and `important`.
-:::
-
-:::{.callout-important}
-Note that there are five types of callouts, including: 
-`note`, `tip`, `warning`, `caution`, and `important`.
-:::
-
-::: {.border}
-This content can be styled with a border
-:::
-
-test
-
-A cheeeky footnote[^1]
-
-[^1]: Content of the cheeky footnote
+TerraLID aims to develop next-generation tools for working with lead isotope data in the archaeological sciences. The primary aim is to create an infrastructure for the submission and provision of lead isotope reference data that makes it easy to submit data to the database, minimises data curation efforts by automatised checks and enrichment of metadata from other sources, and by providing easy access to the data through a web application or the database API. Data will be handled in accordance with the [FAIR principles](https://www.go-fair.org/) to maximise their findability, accessibility, interoperability and reusability. 
 
 Development of this infrastructure is done in close discussion with and active support from the community to ensure that the products are close to the community's needs. Prototypes of the database and web application were released in 2021 and the project presented to the public in 2022. Implementation of the full infrastructure will start in 2024. The next big step will be the development of a FAIR metadata scheme for lead isotope data in the archaeological sciences. This will not only massively improve the compatibility of lead isotope data but will also serve as data model for the full version of the database. In parallel it is aimed to increase the coverage of the database and to improve the web application. 
 
