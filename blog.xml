@@ -9,7 +9,7 @@
 <link>https://www.terralid.org/blog.html</link>
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.6.43</generator>
 <lastBuildDate>Sat, 15 Jun 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>White nights, red houses and lots of slag</title>
@@ -18,7 +18,7 @@
   <description><![CDATA[ TerraLID at “Archaeometallurgy in Europe” ]]></description>
   <guid>https://www.terralid.org/posts/20240615_AiE-report.html</guid>
   <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/AIE2024_poster.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/AIE2024_poster.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Community Kick-Off Meeting on 14 May</title>
@@ -43,7 +43,7 @@
   <description><![CDATA[ New version of the database published at GFZ Data Services ]]></description>
   <guid>https://www.terralid.org/posts/20240301_DataPub.html</guid>
   <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
+  <media:content url="https://www.terralid.org/assets/blog/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 <item>
   <title>Let‘s get the project (really) started!</title>
@@ -61,7 +61,7 @@
   <description><![CDATA[ Growth of the GlobaLID database in 2023 ]]></description>
   <guid>https://www.terralid.org/posts/20240104_Data2023.html</guid>
   <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
+  <media:content url="https://www.terralid.org/assets/blog/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
 <item>
   <title>Interactive textbook online</title>
@@ -70,7 +70,7 @@
   <description><![CDATA[ An Open Educational Resource ]]></description>
   <guid>https://www.terralid.org/posts/20231215_Textbook.html</guid>
   <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/pxhere.com_799419_CCO.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/pxhere.com_799419_CCO.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Gathering the lead isotope community</title>
@@ -91,7 +91,7 @@
   <description><![CDATA[ It’s time to turn the prototypes into a full version ]]></description>
   <guid>https://www.terralid.org/posts/20230823_Funding.html</guid>
   <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/pxhere.com_1058395_CCO.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/pxhere.com_1058395_CCO.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Regional Editors</title>
@@ -101,7 +101,7 @@
   <description><![CDATA[ Our first regional editors joined GlobaLID! ]]></description>
   <guid>https://www.terralid.org/posts/20230820_RegEd.html</guid>
   <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/globalid-logo.svg" medium="image" type="image/svg+xml"/>
+  <media:content url="https://www.terralid.org/assets/blog/globalid-logo.svg" medium="image" type="image/svg+xml"/>
 </item>
 <item>
   <title>GlobaLID at the NADAC summer school in Berkeley, CA (USA)</title>
@@ -119,7 +119,7 @@
   <description><![CDATA[ New project webpage online ]]></description>
   <guid>https://www.terralid.org/posts/first post.html</guid>
   <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/globalid-logo.svg" medium="image" type="image/svg+xml"/>
+  <media:content url="https://www.terralid.org/assets/blog/globalid-logo.svg" medium="image" type="image/svg+xml"/>
 </item>
 </channel>
 </rss>
