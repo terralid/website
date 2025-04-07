@@ -5,11 +5,8 @@ title: "Team"
 ```{r setup, include=FALSE, warning=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-library(kableExtra)
-library(icons)
-
 add_Link <- function(link, icon, font) {
-  paste0("<a href=\"", link, "\" target=\"_blank\">", as.character(if (font == "ai") {academicons(icon)} else {fontawesome(icon)}), "</a>")
+  paste0("<a href=\"", link, "\" target=\"_blank\">", as.character(paste("{{<", font, icon, ">}}", sep = " ")), "</a>")
 }
 
 ```
@@ -35,7 +32,8 @@ FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankf
 cat(
   add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
   add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein", "globe", "fa"), 
-  add_Link("https://www.researchgate.net/profile/Sabine-Klein-3", "researchgate", "ai"),sep = "&nbsp;&nbsp;"
+  add_Link("https://www.researchgate.net/profile/Sabine-Klein-3", "researchgate", "ai"),
+  sep = "&nbsp;&nbsp;"
 )
                  
 ```
@@ -58,7 +56,7 @@ Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany
 ```{r echo=FALSE, results='asis'}
 cat(
   add_Link("mailto:helge.wiethoff@thga.de?subject=GlobaLID", "envelope", "fa"),
-  add_Link("https://github.com/derhelge/", "github", "fa"),
+  add_Link("https://github.com/derhelge/", "github", "fa brands"),
   sep = "&nbsp;&nbsp;"
 )
                  
@@ -85,9 +83,9 @@ cat(
   add_Link("https://copper-smelting.com/", "globe", "fa"), 
   add_Link("https://bergbaumuseum.academia.edu/ThomasRose", "academia", "ai"),
   add_Link("https://www.researchgate.net/profile/Thomas-Rose-2", "researchgate", "ai"),
-  add_Link("https://www.linkedin.com/in/thomas-rose-4200ba175", "linkedin", "fa"),
-  add_Link("https://github.com/archaeothommy/", "github", "fa"),
-  add_Link("https://gitlab.com/archaeothommy", "gitlab", "fa"),
+  add_Link("https://www.linkedin.com/in/thomas-rose-4200ba175", "linkedin", "fa brands"),
+  add_Link("https://github.com/archaeothommy/", "github", "fa brands"),
+  add_Link("https://gitlab.com/archaeothommy", "gitlab", "fa brands"),
   add_Link("https://scholar.google.de/citations?user=mmsAHBgAAAAJ", "google-scholar", "ai"), 
   sep = "&nbsp;&nbsp;"
 )
