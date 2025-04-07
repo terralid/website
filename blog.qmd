@@ -8,7 +8,7 @@ listing:
       title: "TerraLID Blog"
       type: partial
       description: "This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology."
-  image-placeholder: "assets/TerraLID_logo_word.png"
+  image-placeholder: "../assets/TerraLID_logo_word.png"
 type: partial
   
 ---
