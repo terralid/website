@@ -6,7 +6,7 @@ author:
     orcid: 0000-0002-8186-3566
 date: "2023-03-20"
 description: "New project webpage online"
-image: "../assets/globalid-logo.svg"
+image: "../assets/blog/globalid-logo.svg"
 ---
 
 GlobaLID is constantly growing but until now there was no single point of access for all resources of GlobaLID. Moreover, the web application as the most important product so far does look nice on small screens and mobile devices. Therefore, this page was set up. Have a look around and explore what GlobaLID already has to offer, what is planned and how you can become part of it. 

@@ -6,7 +6,7 @@ author:
     orcid: 0000-0002-8186-3566
 date: "2023-12-15"
 description: "An Open Educational Resource"
-image: "../assets/pxhere.com_799419_CCO.jpg"
+image: "../assets/blog/pxhere.com_799419_CCO.jpg"
 ---
 
 For several months now, the GlobaLID Core Team has been working on “Lead Isotopes in Archaeology: An Interactive Textbook”. The aim is to provide an open educational resource about the lead isotope method and its application in archaeology as a textbook. In contrast to traditional textbooks, the format as a webpage allows the inclusion of interactive content and other multimedia elements. In addition, it makes it easy to update and expand the textbook over time. The textbook is designed as an edited volume to give appropriate credit to all contributors. 

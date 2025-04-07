@@ -9,7 +9,7 @@ author:
   - name: Helge Wiethoff
 date: "2023-08-23"
 description: "It's time to turn the prototypes into a full version"
-image: "../assets/pxhere.com_1058395_CCO.jpg"
+image: "../assets/blog/pxhere.com_1058395_CCO.jpg"
 ---
 
 We are excited to announce that GlobaLID received a major grant from the Deutsche Forschungsgemeinschaft (DFG; German Research Foundation) for a three-year digital infrastructure project to turn the prototypes into a full version. The project will start in February 2024 and will include many opportunities for you to provide feedback and input to ensure that GlobaLID will meet your needs and expectations. In the major work packages, we will continue to work on 

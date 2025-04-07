@@ -6,11 +6,11 @@ author:
     orcid: 0000-0002-8186-3566
 date: "2024-01-04"
 description: "Growth of the GlobaLID database in 2023"
-image: "../assets/Blog_Data2023.png"
+image: "../assets/blog/Blog_Data2023.png"
 ---
 
 Thanks to the efforts of our [regional editors](../team.qmd#regional-editors) and the [GlobaLID Core Team](../team.qmd#core-team), the amount of data in the GlobaLID database grew significantly: from 2700 data points at the end of 2022 to more than 4100 data points. Our spatial coverage also increased with data from Sub-Saharan Africa and South America. You can find a full list of countries for which data were added on the News page of the [web application](https://globalid.dmt-lb.de/). 
 
 More data is currently reviewed and prepared – stay tuned! 
 
-![Coverage of the GlobaLID database end of 2023.](../assets/Blog_Data2023.png)
+![Coverage of the GlobaLID database end of 2023.](../assets/blog/Blog_Data2023.png)
