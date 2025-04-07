@@ -2,17 +2,197 @@
 title: "Team"
 ---
 
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(kableExtra)
+library(icons)
+
+add_Link <- function(link, icon, font) {
+  paste0("<a href=\"", link, "\" target=\"_blank\">", as.character(if (font == "ai") {academicons(icon)} else {fontawesome(icon)}), "</a>")
+}
+
+```
+
 We are open to new members. If you are interested in joining us, please get in touch via [mail](mailto:globalid@bergbaumuseum.de?subject=GlobaLID) or at a [conference](events.qmd)! 
 
 ## Project team
 
-* [Sabine Klein](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany; Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany; FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany)
-* Helge Wiethoff (Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany)
-* [Thomas Rose](https://copper-smelting.com/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* [Tim Greifelt](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt)[![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0007-9701-8547) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* [Katrin J. Westner](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/dr-katrin-julia-westner) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* [Yiu-Kang Hsu](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* [Annette Hornschuch](https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/annette-hornschuch) (Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+### Sabine Klein [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/team/SKlein.png)
+:::
+
+::: {#column-text}
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany  
+Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany  
+FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein", "globe", "fa"), 
+  add_Link("https://www.researchgate.net/profile/Sabine-Klein-3", "researchgate", "ai"),sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+:::
+
+:::
+
+### Helge Wiethoff 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:helge.wiethoff@thga.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://github.com/derhelge/", "github", "fa"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+:::
+
+:::
+
+### Thomas Rose [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8186-3566)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/team/TRose.png)
+:::
+
+::: {#column-text}
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://copper-smelting.com/", "globe", "fa"), 
+  add_Link("https://bergbaumuseum.academia.edu/ThomasRose", "academia", "ai"),
+  add_Link("https://www.researchgate.net/profile/Thomas-Rose-2", "researchgate", "ai"),
+  add_Link("https://www.linkedin.com/in/thomas-rose-4200ba175", "linkedin", "fa"),
+  add_Link("https://github.com/archaeothommy/", "github", "fa"),
+  add_Link("https://gitlab.com/archaeothommy", "gitlab", "fa"),
+  add_Link("https://scholar.google.de/citations?user=mmsAHBgAAAAJ", "google-scholar", "ai"), 
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+:::
+
+:::
+
+### Tim Greifelt [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0007-9701-8547)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/team/TGreifelt.png)
+:::
+
+::: {#column-text}
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Tim.Greifelt@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt", "globe", "fa"), 
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+:::
+
+:::
+
+### Katrin J. Westner [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-5529-1165)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/team/KWestner.png)
+:::
+
+::: {#column-text}
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:katrin.westner@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/dr-katrin-julia-westner", "globe", "fa"),
+  add_Link("https://bergbaumuseum.academia.edu/KatrinWestner", "academia", "ai"),
+  add_Link("https://www.researchgate.net/profile/Katrin-Westner", "researchgate", "ai"),
+  sep = "&nbsp;&nbsp;"
+)
+```
+
+:::
+
+:::
+
+### Yiu-Kang (Gary) Hsu [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/team/Y-KHsu.png)
+:::
+
+::: {#column-text}
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu", "globe", "fa"), 
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+:::
+
+:::
+
+### Annette Hornschuch 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Annette.Hornschuch@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/annette-hornschuch", "globe", "fa"), sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+:::
+
+:::
 
 ## Regional editors
 * China: [Siran Liu](https://enihmm.ustb.edu.cn/Staff/Academic_Senior_Research_Staff/bde24d0cde654407b9c56f78a81490a9.htm) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9250-4561) (Institute for Cultural Heritage and History of Science & Technology, University of Science and Technology Beijing, China)

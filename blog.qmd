@@ -1,5 +1,5 @@
 ---
-title: "TerraLID News"
+title: "News"
 listing: 
   contents: posts
   sort: "date desc"

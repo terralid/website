@@ -11,6 +11,6 @@ description: "Invitation to our online kick-off event on 14 May at 2 pm UTC"
 
 We cordially invite you to the webinar that kicks-off the transformation of GlobaLID into TerraLID on Tuesday, 14 May at 4 pm CEST (= 2 pm UTC) via [Zoom](https://thga-de.zoom-x.de/j/67811470019?pwd=V1NyMDYvQ2J1c05sQzhuU2FaUGJqZz09).  
 
-The kick-off event showcases the current features of GlobaLID with a [small sample dataset](../assets/Kick-off_Example.csv). Subsequently, we will present the vision and planned features of TerraLID and how you can shape its development. Moreover, our [regional editors](../team.qmd#regional-editors) will share some impressions from their work on the data infrastructure. There will be ample time for questions and discussions.  
+The kick-off event showcases the current features of GlobaLID with a [small sample dataset](../assets/blog/Kick-off_Example.csv). Subsequently, we will present the vision and planned features of TerraLID and how you can shape its development. Moreover, our [regional editors](../team.qmd#regional-editors) will share some impressions from their work on the data infrastructure. There will be ample time for questions and discussions.  
 
 Our aim is to develop TerraLID as close to the needs of the community as possible. Therefore, this event will be the first in a series of virtual open events, where we will ask for your feedback on crucial parts in the design of TerraLID. We will announce them here and through the usual channels in due time – stay tuned! 

@@ -6,7 +6,7 @@ author:
     orcid: 0000-0002-8186-3566
 date: "2024-03-01"
 description: "New version of the database published at GFZ Data Services"
-image: "../assets/Blog_Data2023.png"
+image: "../assets/blog/Blog_Data2023.png"
 ---
 
 Version 1.1 of the GlobaLID database is now published at GFZ Data Services under its DOI [10.5880/fidgeo.2023.043](https://doi.org/10.5880/fidgeo.2023.043). 
@@ -15,4 +15,4 @@ This version contains the 2255 new data points added since the publication of [v
 
 See a full list of the changes in the [changelog of the version 1.1 data description](https://datapub.gfz-potsdam.de/download/10.5880.FIDGEO.2023.043-NcaeIBF/GlobaLID_Data_Description_v1-1.pdf).
 
-![Location of data points covered in the GlobaLID database v 1.1.](../assets/Blog_Data2023.png)
+![Location of data points covered in the GlobaLID database v 1.1.](../assets/blog/Blog_Data2023.png)
