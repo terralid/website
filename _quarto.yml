@@ -25,7 +25,7 @@ website:
       - text: "Meet us"
         href: meet-us.qmd
       - text: "  "
-      - text: "GlobaLID"
+      - text: "Prototypes (GlobaLID)"
         menu: 
           - icon: box-arrow-up-right
             href: https://archmetaldbm.github.io/Globalid/

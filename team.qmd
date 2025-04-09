@@ -111,6 +111,8 @@ Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessource
 cat(
   add_Link("mailto:Tim.Greifelt@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
   add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt", "globe", "fa"), 
+  add_Link("https://independent.academia.edu/TimGreifelt", "academia", "ai"),
+  add_Link("https://www.researchgate.net/profile/Tim-Greifelt", "researchgate", "ai"),
   sep = "&nbsp;&nbsp;"
 )
                  
