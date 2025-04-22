@@ -1,2 +1,2 @@
-# GlobaLID
-Hosting repository for the Landing page of the GlobaLID project. 
+# TerraLID webpage
+Hosting repository for the webpage the TerraLID project. 
