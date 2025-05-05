@@ -52,5 +52,5 @@ $nav-tabs-border-color:             $light !default;
 $nav-tabs-link-hover-border-color:  $light !default;
 
 // set font
-
-$font-family-sans-serif: "Nunito Sans",  Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$web-font-path: false; // disable Google Fonts
+$font-family-sans-serif: "Nunito Sans" !default;
