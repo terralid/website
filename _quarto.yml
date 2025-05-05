@@ -50,12 +50,15 @@ website:
       - icon: rss
         href: blog.xml
   page-footer: 
-    left: 
-      - text: "Built with <a href='https://quarto.org/'>Quarto</a>. <br> Last updated: {{< meta date >}}"
+    left: |
+      Last updated: {{< meta date >}} <br> 
+      [Legal information](about.qmd) <br> 
+      <br>
+      Built with <a href='https://quarto.org/'>Quarto</a>.
     center: | 
-      Coordinated and hosted by: 
+      Coordinated and hosted by:
       
-      ::: {layout="[ 70 , 30 ]"}
+      ::: {width=800 layout="[ 70 , 30 ]"}
       ::: {#column-empty}
       
       ![](https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg)
@@ -68,10 +71,14 @@ website:
       :::
       :::
     
-    right: 
-      - text: "Legal information"
-        href: about.qmd
-  
+    right: |
+      
+      ::: {style="text-align: center"}
+      Funded by:  
+      
+      ![](assets/dfg_logo_footer.gif){height=69px}
+      :::
+
 
 format:
   html:
