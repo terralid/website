@@ -7,32 +7,32 @@
     "text": "The TerraLID Team organises events and workshops to involve the entire community in the process. You can read about past events in the archive.\nA new event will be announced soon. Stay tuned by reading our blog or subscribing to our newsletter."
   },
   {
-    "objectID": "index.html#our-aim",
-    "href": "index.html#our-aim",
-    "title": "Welcome to TerraLID",
-    "section": "Our aim",
-    "text": "Our aim\nTerraLID aims to develop next-generation tools for working with lead isotope data in the archaeological sciences. The primary aim is to create an infrastructure for the submission and provision of lead isotope reference data that makes it easy to submit data to the database, minimises data curation efforts by automatised checks and enrichment of metadata from other sources, and by providing easy access to the data through a web application or the database API. Data will be handled in accordance with the FAIR principles to maximise their findability, accessibility, interoperability and reusability.\nDevelopment of this infrastructure is done in close discussion with and active support from the community to ensure that the products are close to the community’s needs. Prototypes of the database and web application were released in 2021 and the project presented to the public in 2022. Implementation of the full infrastructure will start in 2024. The next big step will be the development of a FAIR metadata scheme for lead isotope data in the archaeological sciences. This will not only massively improve the compatibility of lead isotope data but will also serve as data model for the full version of the database. In parallel it is aimed to increase the coverage of the database and to improve the web application.\nBeing an open project, we are always open for new members. If you are interested in helping GlobaLID to develop and make our vision come true, please reach out to the core team via mail (globalid at bergbaumuseum dot de?subject=GlobaLID)."
+    "objectID": "index.html#a-research-data-infrastructure-for-pb-isotope-data",
+    "href": "index.html#a-research-data-infrastructure-for-pb-isotope-data",
+    "title": "The TerraLID project",
+    "section": "A research data infrastructure for Pb isotope data",
+    "text": "A research data infrastructure for Pb isotope data\nTerraLID develops a community-driven digital research data infrastructure for lead isotope data in archaeology that makes is easy to publish, access and work with lead isotope data. It intends to maximise their findability, accessibility, interoperability and reusability, i.e., making the data FAIR by the development of a suitable database while trying to implement the CARE Principles for Indigenous Data Governance as much as possible. A web application provides the interface for submitting, accessing and working with lead isotope data. In addition, data curation will be minimsed through automated checks and enrichment of metadata from others sources, making it easy to submit data to TerraLID and to maintain it. All other tools will be collected in a software toolbox to make them available to the community outside of TerraLID. Open Educational Resources provide information about all aspects of lead isotope data and their application in archaeology as well as how to use TerraLID. TerraLID and all materials therein will be made available to the public under open licenses, meaning that its code will be open source, materials will be open access, and data in the database will be open access by default with reasonable access restrictions if necessary.\nUltimately, TerraLID aims towards transforming the scientific community in how they handle lead isotope data and to increase the reliability and reproducibility of these data and interpretations derived from them. Learn more about the motivation and vision of TerraLID…"
   },
   {
-    "objectID": "index.html#our-products",
-    "href": "index.html#our-products",
-    "title": "Welcome to TerraLID",
-    "section": "Our products",
-    "text": "Our products\nGlobaLID consists of three products and more might be developed as the project evolves.\n\nDatabase (most recent version | archive)\nWeb application (live version | source code)\nInteractive textbook (in development, preliminary version | source code | archive) ."
+    "objectID": "index.html#community-driven-development",
+    "href": "index.html#community-driven-development",
+    "title": "The TerraLID project",
+    "section": "Community-driven development",
+    "text": "Community-driven development\nTerraLID will only be widely used by the community, if it is meeting the community’s needs and expectations. Consequently, involving the community is an integral part of the development process. The TerraLID editors are internationally renowned community representatives and provide their expertise for specific regions or materials to make sure that a first draft of, e.g., the metadata profile meets already most needs of the scientific community. Afterwards, the draft will be shared with the entire community to gather their feedback and is accordingly revised. The TerraLID Core Team coordinates this process and is responsible for the technical implementation of the developed materials.\nAll members of the scientific community are invited to get involved in the development of TerraLID and the Core Team values any contributions and every contribution will be duly acknowledged. If you are interested, please get in touch either by mail (terralid at bergbaumuseum dot de?subject=Joining%20TerraLID) or by contacting a team member.\nIn addition to individual researchers, our partners ensure that TerraLID will be operative for at least 10 years. We teamed up with GFZ Data Services to ensure that any unpublished data submitted to TerraLID will be published as data publication first so that they are citable and credits are given to the respective authors when their data is used.\nTerraLID is of course not a solitary endeavour but one of many efforts that shapes a better data future. Members of the Core Team are therefore active in several other initiatives on the national and international level that aim to increase the FAIRness of data. Learn more about our network…"
   },
   {
-    "objectID": "index.html#further-information",
-    "href": "index.html#further-information",
-    "title": "Welcome to TerraLID",
-    "section": "Further information",
-    "text": "Further information\nGlobaLID was officially presented to the public in the article “From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application” in the journal Archaeometry (doi:10.1111/arcm.12762). The database was published as dataset with an extensive description of its structure in the repository of the GFZ Data Services (doi:10.5880/fidgeo.2023.043). The features of the web application prototype are presented in our video tutorial on YouTube. You can learn more about the different products and how to use them at their respective pages."
+    "objectID": "index.html#history",
+    "href": "index.html#history",
+    "title": "The TerraLID project",
+    "section": "History",
+    "text": "History\nWork initially started already in 2018 as an effort within the research area Archaeometallurgy of the Deutsches Bergbau-Museum Bochum to create an unified lead isotope database. As work progressed, the idea was born to extend this initiative to the entire community. In 2021 and 2022, prototypes were launched as GlobaLID. TerraLID continues this work by extending GlobaLID and turning it into a sustainable research data infrastructure that is deeply embedded in the international scientific community. Please find the links to the respective web pages and the GlobaLID web application in the menu bar at the top of the page."
   },
   {
-    "objectID": "index.html#funding",
-    "href": "index.html#funding",
-    "title": "Welcome to TerraLID",
-    "section": "Funding",
-    "text": "Funding\n\n\n\n\n\n\nThis work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825)."
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "The TerraLID project",
+    "section": "Publications",
+    "text": "Publications\nTechnical documentation and publications featuring TerraLID and GlobaLID are listed under resources. We are looking forward to meeting you and presenting to you TerraLID on a conference."
   },
   {
     "objectID": "about.html#legal-notice",
@@ -135,42 +135,49 @@
   {
     "objectID": "meet-us.html",
     "href": "meet-us.html",
-    "title": "Where you can meet us",
+    "title": "Meet us at…",
     "section": "",
-    "text": "We are presenting TerraLID at numerous meetings. So, if you want to meet the people behind TerraLID and have a chat, have a look in the list below to see where you can find us and which we attended in the past. For events organised and hosted by us, please have a look at the events page."
+    "text": "We are joining the meetings listed below, usually with a presentation about TerraLID. We are looking forward to meeting you there and chat with you!\nEvents organised and hosted by the TerraLID team are listed on our events page."
   },
   {
     "objectID": "meet-us.html#upcoming",
     "href": "meet-us.html#upcoming",
-    "title": "Where you can meet us",
+    "title": "Meet us at…",
     "section": "Upcoming",
-    "text": "Upcoming\n\nArchäometrie & Denkmalpflege"
+    "text": "Upcoming\n\nInternational Symposium on the Metallurgy of the European Iron Age II (SMEIA II)\nYoung Researchers in Archaeometry 2025\nNFDI4Objects: 3rd Community Meeting\nGeo4Göttingen\n31st Annual Meeting of the European Association of Archaeologists (EAA)\nGoldschmidt 2025"
   },
   {
     "objectID": "meet-us.html#section",
     "href": "meet-us.html#section",
-    "title": "Where you can meet us",
-    "section": "2024",
-    "text": "2024\n\nScientific Forum Entangling Geosciences and Chemistry in Cameroon\nYoung Researchers in Archaeometry 2024\n\nVerbandstagung des Nordwestdeutschen Verbands für Altertumsforschung\n\n30th Annual Meeting of the European Association of Archaeologists (EAA)\nEuropean Mineralogical Conference 2024\nArchaeometallurgy in Europe 2024\n89th Annual Meeting of the Society for American Archaeology"
+    "title": "Meet us at…",
+    "section": "2025",
+    "text": "2025\n\nArchäometrie & Denkmalpflege"
   },
   {
     "objectID": "meet-us.html#section-1",
     "href": "meet-us.html#section-1",
-    "title": "Where you can meet us",
-    "section": "2023",
-    "text": "2023\n\nResearch in Progress Meeting 2023-2 of the Historical Metallurgy Society\nYoung Researchers in Archaeometry 2023\n1st Conference on Research Data Infrastructure (CoRDI)\n29th Annual Meeting of the European Association of the Archaeologists (EAA)\nNFDI4Earth Plenary\nArchäometrie & Denkmalpflege"
+    "title": "Meet us at…",
+    "section": "2024",
+    "text": "2024\n\nScientific Forum Entangling Geosciences and Chemistry in Cameroon\nYoung Researchers in Archaeometry 2024\n\nVerbandstagung des Nordwestdeutschen Verbands für Altertumsforschung\n\n30th Annual Meeting of the European Association of Archaeologists (EAA)\nEuropean Mineralogical Conference 2024\nArchaeometallurgy in Europe 2024\n89th Annual Meeting of the Society for American Archaeology"
   },
   {
     "objectID": "meet-us.html#section-2",
     "href": "meet-us.html#section-2",
-    "title": "Where you can meet us",
-    "section": "2022",
-    "text": "2022\n\nGeoMinKöln\nYoung Researchers in Archaeometry 5\n28th Annual Meeting of the European Association of the Archaeologists (EAA)\n16th PAA (PanAfrican Archaeological Association) Congress\nuseR! 2022\nAdvances in Isotope Ratio and related analyses for mapping migrations from Prehistory to the Viking Age (Joint Meeting of the Royal Society of Chemistry & Society of Antiquaries)\n43rd International Symposium on Archaeometry\n3rd International Congress on Archaeological Sciences in the Eastern Mediterranean and the Middle East (ICAS-EMME 3)\nLe plomb et ses questions analytiques"
+    "title": "Meet us at…",
+    "section": "2023",
+    "text": "2023\n\nResearch in Progress Meeting 2023-2 of the Historical Metallurgy Society\nYoung Researchers in Archaeometry 2023\n1st Conference on Research Data Infrastructure (CoRDI)\n29th Annual Meeting of the European Association of the Archaeologists (EAA)\nNFDI4Earth Plenary\nArchäometrie & Denkmalpflege"
   },
   {
     "objectID": "meet-us.html#section-3",
     "href": "meet-us.html#section-3",
-    "title": "Where you can meet us",
+    "title": "Meet us at…",
+    "section": "2022",
+    "text": "2022\n\nGeoMinKöln\nYoung Researchers in Archaeometry 5\n28th Annual Meeting of the European Association of the Archaeologists (EAA)\n16th PAA (PanAfrican Archaeological Association) Congress\nuseR! 2022\nAdvances in Isotope Ratio and related analyses for mapping migrations from Prehistory to the Viking Age (Joint Meeting of the Royal Society of Chemistry & Society of Antiquaries)\n43rd International Symposium on Archaeometry\n3rd International Congress on Archaeological Sciences in the Eastern Mediterranean and the Middle East (ICAS-EMME 3)\nLe plomb et ses questions analytiques"
+  },
+  {
+    "objectID": "meet-us.html#section-4",
+    "href": "meet-us.html#section-4",
+    "title": "Meet us at…",
     "section": "2021",
     "text": "2021\n\nHistorical Metallurgy Society: Research in Progress Meeting\n3rd European Mineralogical Conference\nYoung Researchers in Archaeometry 4"
   },
@@ -270,14 +277,14 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "We are open to new members. If you are interested in joining us, please get in touch via mail (globalid at bergbaumuseum dot de?subject=GlobaLID) or at a conference!"
+    "text": "We are welcoming new members anytime. If you are interested in getting involved, please get in touch via mail (terralid at bergbaumuseum dot de?subject=Joining%20TerraLID) or at a conference!"
   },
   {
-    "objectID": "team.html#project-team",
-    "href": "team.html#project-team",
+    "objectID": "team.html#core-team",
+    "href": "team.html#core-team",
     "title": "Team",
-    "section": "Project team",
-    "text": "Project team\n\nSabine Klein \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\nInstitut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany\nFIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany\n    \n\n\n\n\n\nHelge Wiethoff\n\n\n\n\n\n\nRechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany\n  \n\n\n\n\n\nThomas Rose \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\n              \n\n\n\n\n\nTim Greifelt \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\n      \n\n\n\n\n\nKatrin J. Westner \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\n      \n\n\n\n\n\nYiu-Kang (Gary) Hsu \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\n  \n\n\n\n\n\nAnnette Hornschuch\n\n\n\n\n\n\nForschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany"
+    "section": "Core team",
+    "text": "Core team\n\nSabine Klein \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\nInstitut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany\nFIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany\n    \n\n\n\n\n\nHelge Wiethoff\n\n\n\n\n\n\nRechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany\n  \n\n\n\n\n\nThomas Rose \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\n              \n\n\n\n\n\nTim Greifelt \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\n      \n\n\n\n\n\nKatrin J. Westner \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\n      \n\n\n\n\n\nYiu-Kang (Gary) Hsu \n\n\n\n\n\n\nForschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany\n  \n\n\n\n\n\nAnnette Hornschuch\n\n\n\n\n\n\nForschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany"
   },
   {
     "objectID": "team.html#regional-editors",
@@ -291,7 +298,7 @@
     "href": "team.html#material-editors",
     "title": "Team",
     "section": "Material editors",
-    "text": "Material editors\n\nGlass:\n\nLaure Dussubieux  (Field Museum, Chicago, IL, USA)\nAlicia Van Ham-Meert  (FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium)\nThomas R. Fenn  (Department of Anthropology, University of Oklahoma, Norman, OK, USA)\n\nCopper items:\n\nFrederik Rademakers  (Department of Scientific Research, British Museum, London, United Kingdom)\nT. O. Pryce  (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)\n\nCoins: David Wigg-Wolf  (Römisch-Germanische Kommission des Deutschen Archäologischen Instituts, Frankfurt, Germany)\nLead items: Maxime L’Héritier  (University of Paris 8, Paris, France)\nPigments: Alexandra Rodler-Rørbo  (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)\nArchaeological materials: Grzegorz Żabiński  (Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Poland)"
+    "text": "Material editors\n\nGlass:\n\nLaure Dussubieux  (Field Museum, Chicago, IL, USA)\nAlicia Van Ham-Meert  (FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium)\nThomas R. Fenn  (Department of Anthropology, University of Oklahoma, Norman, OK, USA)\n\nCopper items:\n\nFrederik Rademakers  (Department of Scientific Research, British Museum, London, United Kingdom)\nT. O. Pryce  (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)\n\nCoins: David Wigg-Wolf  (Römisch-Germanische Kommission des Deutschen Archäologischen Instituts, Frankfurt, Germany)\nLead items: Maxime L’Héritier  (University of Paris 8, Paris, France)\nPigments:\n\nAlexandra Rodler-Rørbo  (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)\nAndrea Acevedo Mejía  (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)\n\nArchaeological materials: Grzegorz Żabiński  (Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Poland)"
   },
   {
     "objectID": "team.html#contributors-data",
@@ -305,7 +312,35 @@
     "href": "team.html#partners",
     "title": "Team",
     "section": "Partners",
-    "text": "Partners\n\nDeutsches Bergbau-Museum Bochum  The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.\nDMT-Gesellschaft für Lehre und Bildung mbH  DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990."
+    "text": "Partners\n\nDeutsches Bergbau-Museum Bochum\n\n\n\n\n\n\nThe Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.\n\n\n\n\n\nDMT-Gesellschaft für Lehre und Bildung mbH\n\n\n\n\n\n\nThe DMT-Gesellschaft für Lehre und Bildung mbH, based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990."
+  },
+  {
+    "objectID": "team.html#funding",
+    "href": "team.html#funding",
+    "title": "Team",
+    "section": "Funding",
+    "text": "Funding\n\n\n\n\n\n\nThis work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825)."
+  },
+  {
+    "objectID": "resources.html#publications",
+    "href": "resources.html#publications",
+    "title": "Resources",
+    "section": "Publications",
+    "text": "Publications\n\nRose T, Greifelt T, Westner KJ, Hsu Y-K, Klein S (2024) Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID: ein Erfahrungsbericht. Archäologische Informationen 47:177-190. https://doi.org/10.11588/ai.2024.1.110402"
+  },
+  {
+    "objectID": "resources.html#outreach",
+    "href": "resources.html#outreach",
+    "title": "Resources",
+    "section": "Outreach",
+    "text": "Outreach\n\nGreifelt T (2025) Was ist Terra LID? Eine Datenbank für Bleiisotopendaten… aber was ist das? [Blog article]. https://unterirdis.ch/wordpress/2025/04/04/was-ist-terra-lid-eine-datenbank-fuer-bleiisotopendaten-aber-was-ist-das/\nBleiisotopie: Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID, DGFU Newsletter 129, https://dguf.de/newsletter/newsletter-lesen/dguf-newsletter-nr-129-vom-18-03-2025#_Toc193134464"
+  },
+  {
+    "objectID": "resources.html#prototypes-globalid",
+    "href": "resources.html#prototypes-globalid",
+    "title": "Resources",
+    "section": "Prototypes (GlobaLID)",
+    "text": "Prototypes (GlobaLID)\n\nGlobaLID database\n\nMost recent version: https://github.com/archmetalDBM/GlobaLID-database\nWestner KJ, Rose T, Klein S, Hsu Y-K, Becerra MF, Nezafati N, Renson V, Stephens JA (2023) GlobaLID – Global Lead Isotope Database V. 1.1. https://doi.org/10.5880/fidgeo.2023.043\nWestner KJ, Rose T, Klein S, Hsu Y-K (2021) GlobaLID – Global Lead Isotope Database: V. 1.0. https://doi.org/10.5880/fidgeo.2021.031\n\n\n\nGlobaLID web application\n\nGlobaLID Core Team (2021) GlobaLID web application: V. 1.0, database status: 04 March 2025. (live version | source code)\nVideo tutorial for the web application: Watch on YouTube\n\n\n\nTextbook\n\nInteractive textbook, preliminary version (live | source code | archive).\n\n\n\nPublications\n\nKlein S, Rose T, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry 64:935–950. https://doi.org/10.1111/arcm.12762\nRose T, Klein S, Hsu Y-K, Westner KJ (2022) GlobaLID: A new database and interactive web tool for provenancing archaeological metals. Archeomatica 13:10–12. https://ojs.mediageo.it/index.php/archeomatica/article/view/1861"
   },
   {
     "objectID": "blog.html",

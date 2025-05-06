@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-05-05">
+<meta name="dcterms.date" content="2025-05-06">
 
 <title>TerraLID</title>
 <style>
@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b694e615650a753a94b68a9e5bd63e18.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-bb9163d10cf2750051c0a25e92f9fc89.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -92,8 +92,29 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+    <span class="nav-link">
+<span class="menu-text">  </span>
+    </span>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-products" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Products</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-products">    
+        <li>
+    <a class="dropdown-item" href="https://metadata.terralid.org">
+ <span class="dropdown-text">Metadata profile</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://edu.terralid.org">
+ <span class="dropdown-text">Textbook</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">  </span>
+    </span>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blog.html"> 
@@ -184,19 +205,66 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome-to-terralid" id="toc-welcome-to-terralid" class="nav-link active" data-scroll-target="#welcome-to-terralid">Welcome to TerraLID</a>
+  <li><a href="#the-terralid-project" id="toc-the-terralid-project" class="nav-link active" data-scroll-target="#the-terralid-project">The TerraLID project</a>
   <ul class="collapse">
-  <li><a href="#our-aim" id="toc-our-aim" class="nav-link" data-scroll-target="#our-aim">Our aim</a></li>
-  <li><a href="#our-products" id="toc-our-products" class="nav-link" data-scroll-target="#our-products">Our products</a></li>
-  <li><a href="#further-information" id="toc-further-information" class="nav-link" data-scroll-target="#further-information">Further information</a></li>
-  <li><a href="#funding" id="toc-funding" class="nav-link" data-scroll-target="#funding">Funding</a></li>
+  <li><a href="#a-research-data-infrastructure-for-pb-isotope-data" id="toc-a-research-data-infrastructure-for-pb-isotope-data" class="nav-link" data-scroll-target="#a-research-data-infrastructure-for-pb-isotope-data">A research data infrastructure for Pb isotope data</a></li>
+  <li><a href="#community-driven-development" id="toc-community-driven-development" class="nav-link" data-scroll-target="#community-driven-development">Community-driven development</a></li>
+  <li><a href="#history" id="toc-history" class="nav-link" data-scroll-target="#history">History</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
   </ul></li>
   </ul>
 </nav>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<div class="callout callout-style-default callout-tip no-icon callout-titled" title="TerraLID Mailling list">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+TerraLID Mailling list
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You want to receive about quarterly updates on TerraLID and related topics?<br>
+<a href="https://www.listserv.dfn.de/sympa/subscribe/terralid-news">Subscribe to our mailing list!</a></p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip no-icon callout-titled" title="Contact">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Contact
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Questions about TerraLID? <script type="text/javascript">
+<!--
+h='&#98;&#x65;&#114;&#x67;&#98;&#x61;&#x75;&#x6d;&#x75;&#x73;&#x65;&#x75;&#x6d;&#46;&#100;&#x65;&#x3f;&#x73;&#x75;&#98;&#106;&#x65;&#x63;&#116;&#x3d;&#x49;&#110;&#102;&#x6f;&#x25;&#50;&#48;&#x61;&#98;&#x6f;&#x75;&#116;&#x25;&#50;&#48;&#84;&#x65;&#114;&#114;&#x61;&#76;&#x49;&#68;';a='&#64;';n='&#116;&#x65;&#114;&#114;&#x61;&#108;&#x69;&#100;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#84;&#x65;&#114;&#114;&#x61;&#76;&#x49;&#68;&#32;&#x5b;&#x61;&#116;&#x5d;&#32;&#98;&#x65;&#114;&#x67;&#98;&#x61;&#x75;&#x6d;&#x75;&#x73;&#x65;&#x75;&#x6d;&#46;&#100;&#x65;'+'<\/'+'a'+'>');
+// -->
+</script><noscript>TerraLID [at] bergbaumuseum.de (terralid at bergbaumuseum dot de?subject=Info%20about%20TerraLID)</noscript></p>
+</div>
+</div>
+<div class="callout callout-style-default callout-warning no-icon callout-titled" title="Quicklinks">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Quicklinks
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="">Metadata profile</a><br>
+<a href="">Textbook</a></p>
+</div>
+</div>
+</div></div>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
@@ -206,45 +274,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<!-- include mailing list prominently -->
-<section id="welcome-to-terralid" class="level1">
-<h1>Welcome to TerraLID</h1>
-<section id="our-aim" class="level2">
-<h2 class="anchored" data-anchor-id="our-aim">Our aim</h2>
-<p>TerraLID aims to develop next-generation tools for working with lead isotope data in the archaeological sciences. The primary aim is to create an infrastructure for the submission and provision of lead isotope reference data that makes it easy to submit data to the database, minimises data curation efforts by automatised checks and enrichment of metadata from other sources, and by providing easy access to the data through a web application or the database API. Data will be handled in accordance with the <a href="https://www.go-fair.org/">FAIR principles</a> to maximise their findability, accessibility, interoperability and reusability.</p>
-<p>Development of this infrastructure is done in close discussion with and active support from the community to ensure that the products are close to the community’s needs. Prototypes of the database and web application were released in 2021 and the project presented to the public in 2022. Implementation of the full infrastructure will start in 2024. The next big step will be the development of a FAIR metadata scheme for lead isotope data in the archaeological sciences. This will not only massively improve the compatibility of lead isotope data but will also serve as data model for the full version of the database. In parallel it is aimed to increase the coverage of the database and to improve the web application.</p>
-<p>Being an open project, we are always open for new members. If you are interested in helping GlobaLID to develop and make our vision come true, please reach out to the core team via <script type="text/javascript">
+<section id="the-terralid-project" class="level1">
+<h1>The TerraLID project</h1>
+<section id="a-research-data-infrastructure-for-pb-isotope-data" class="level2">
+<h2 class="anchored" data-anchor-id="a-research-data-infrastructure-for-pb-isotope-data">A research data infrastructure for Pb isotope data</h2>
+<p>TerraLID develops a community-driven digital research data infrastructure for lead isotope data in archaeology that makes is easy to publish, access and work with lead isotope data. It intends to maximise their findability, accessibility, interoperability and reusability, i.e., making the data <a href="https://www.go-fair.org/fair-principles/">FAIR</a> by the development of a suitable <strong>database</strong> while trying to implement the <a href="https://www.gida-global.org/care">CARE Principles for Indigenous Data Governance</a> as much as possible. A <strong>web application</strong> provides the interface for submitting, accessing and working with lead isotope data. In addition, data curation will be minimsed through automated checks and enrichment of metadata from others sources, making it easy to submit data to TerraLID and to maintain it. All other tools will be collected in a <strong>software toolbox</strong> to make them available to the community outside of TerraLID. <strong>Open Educational Resources</strong> provide information about all aspects of lead isotope data and their application in archaeology as well as how to use TerraLID. TerraLID and all materials therein will be made available to the public under open licenses, meaning that its code will be open source, materials will be open access, and data in the database will be open access by default with reasonable access restrictions if necessary.</p>
+<p>Ultimately, TerraLID aims towards <strong>transforming the scientific community</strong> in how they handle lead isotope data and to increase the reliability and reproducibility of these data and interpretations derived from them. <a href="./vision.html">Learn more about the motivation and vision of TerraLID…</a></p>
+</section>
+<section id="community-driven-development" class="level2">
+<h2 class="anchored" data-anchor-id="community-driven-development">Community-driven development</h2>
+<p>TerraLID will only be widely used by the community, if it is meeting the community’s needs and expectations. Consequently, involving the community is an integral part of the development process. The <a href="./team.html#regional-editors">TerraLID editors</a> are internationally renowned community representatives and provide their expertise for specific regions or materials to make sure that a first draft of, e.g., the metadata profile meets already most needs of the scientific community. Afterwards, the draft will be shared with the entire community to gather their feedback and is accordingly revised. The <a href="./team.html#core-team">TerraLID Core Team</a> coordinates this process and is responsible for the technical implementation of the developed materials.</p>
+<p>All members of the scientific community are invited to get involved in the development of TerraLID and the Core Team values any contributions and every contribution will be duly acknowledged. If you are interested, please get in touch either by <script type="text/javascript">
 <!--
-h='&#98;&#x65;&#114;&#x67;&#98;&#x61;&#x75;&#x6d;&#x75;&#x73;&#x65;&#x75;&#x6d;&#46;&#100;&#x65;&#x3f;&#x73;&#x75;&#98;&#106;&#x65;&#x63;&#116;&#x3d;&#x47;&#108;&#x6f;&#98;&#x61;&#76;&#x49;&#68;';a='&#64;';n='&#x67;&#108;&#x6f;&#98;&#x61;&#108;&#x69;&#100;';e=n+a+h;
+h='&#98;&#x65;&#114;&#x67;&#98;&#x61;&#x75;&#x6d;&#x75;&#x73;&#x65;&#x75;&#x6d;&#46;&#100;&#x65;&#x3f;&#x73;&#x75;&#98;&#106;&#x65;&#x63;&#116;&#x3d;&#74;&#x6f;&#x69;&#110;&#x69;&#110;&#x67;&#x25;&#50;&#48;&#84;&#x65;&#114;&#114;&#x61;&#76;&#x49;&#68;';a='&#64;';n='&#116;&#x65;&#114;&#114;&#x61;&#108;&#x69;&#100;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#x6d;&#x61;&#x69;&#108;'+'<\/'+'a'+'>');
 // -->
-</script><noscript>mail (globalid at bergbaumuseum dot de?subject=GlobaLID)</noscript>.</p>
+</script><noscript>mail (terralid at bergbaumuseum dot de?subject=Joining%20TerraLID)</noscript> or by contacting a <a href="./team.html">team member</a>.</p>
+<p>In addition to individual researchers, our <a href="./team.html#partners">partners</a> ensure that TerraLID will be operative for at least 10 years. We teamed up with GFZ Data Services to ensure that any unpublished data submitted to TerraLID will be published as data publication first so that they are citable and credits are given to the respective authors when their data is used.</p>
+<p>TerraLID is of course not a solitary endeavour but one of many efforts that shapes a better data future. Members of the Core Team are therefore active in several other initiatives on the national and international level that aim to increase the <a href="https://www.go-fair.org/fair-principles/">FAIR</a>ness of data. <a href="./network.html">Learn more about our network…</a></p>
 </section>
-<section id="our-products" class="level2">
-<h2 class="anchored" data-anchor-id="our-products">Our products</h2>
-<p>GlobaLID consists of three products and more might be developed as the project evolves.</p>
-<ul>
-<li>Database (<a href="https://github.com/archmetalDBM/GlobaLID-database">most recent version</a> | <a href="https://doi.org/10.5880/fidgeo.2023.043">archive</a>)</li>
-<li>Web application (<a href="https://globalid.dmt-lb.de/">live version</a> | <a href="https://github.com/archmetalDBM/GlobaLID-App">source code</a>)</li>
-<li>Interactive textbook (in development, <a href="https://archmetaldbm.github.io/GlobaLID-Edu/">preliminary version</a> | <a href="https://github.com/archmetalDBM/GlobaLID-Edu">source code</a> | <a href="https://doi.org/10.5281/zenodo.10205820">archive</a>) .</li>
-</ul>
+<section id="history" class="level2">
+<h2 class="anchored" data-anchor-id="history">History</h2>
+<p>Work initially started already in 2018 as an effort within the research area Archaeometallurgy of the Deutsches Bergbau-Museum Bochum to create an unified lead isotope database. As work progressed, the idea was born to extend this initiative to the entire community. In 2021 and 2022, prototypes were launched as GlobaLID. TerraLID continues this work by extending GlobaLID and turning it into a sustainable research data infrastructure that is deeply embedded in the international scientific community. Please find the links to the respective web pages and the GlobaLID web application in the menu bar at the top of the page.</p>
 </section>
-<section id="further-information" class="level2">
-<h2 class="anchored" data-anchor-id="further-information">Further information</h2>
-<p>GlobaLID was officially presented to the public in the article “From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application” in the journal Archaeometry (<a href="https://doi.org/10.1111/arcm.12762">doi:10.1111/arcm.12762</a>). The database was published as dataset with an extensive description of its structure in the repository of the GFZ Data Services (<a href="https://doi.org/10.5880/fidgeo.2023.043">doi:10.5880/fidgeo.2023.043</a>). The features of the web application prototype are presented in our <a href="https://www.youtube.com/watch?v=qwKStMc-068">video tutorial on YouTube</a>. You can learn more about the different products and how to use them at their respective pages.</p>
-</section>
-<section id="funding" class="level2">
-<h2 class="anchored" data-anchor-id="funding">Funding</h2>
-<div class="quarto-layout-panel" data-layout="[ 50 , 50 ]">
-<div class="quarto-layout-row">
-<div id="column-image" class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="assets/dfg_logo.gif" class="img-fluid" alt="DFG logo"></p>
-</div>
-<div id="column-text" class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<p>This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).</p>
-</div>
-</div>
-</div>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<p>Technical documentation and publications featuring TerraLID and GlobaLID are listed under <a href="./resources.html">resources</a>. We are looking forward to meeting you and presenting to you TerraLID <a href="./meet-us.html">on a conference</a>.</p>
 
 
 </section>
@@ -659,17 +714,17 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#x6
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Last updated: May 5, 2025 <br> <a href="./about.html">Legal information</a> <br> <br> Built with <a href="https://quarto.org/">Quarto</a>.</p>
+<p>Last updated: May 6, 2025 <br> <a href="./about.html">Legal information</a> <br> <br> Built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>   
     <div class="nav-footer-center">
 <p>Coordinated and hosted by:</p>
 <div class="quarto-layout-panel" width="800" data-layout="[ 70 , 30 ]">
 <div class="quarto-layout-row">
 <div id="column-empty" class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
-<p><img src="https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg" class="img-fluid"></p>
+<p><img src="https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg" class="img-fluid" alt="Logo of the Deutsches Bergbau-Museum Bochum"></p>
 </div>
 <div id="column-empty" class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<p><img src="https://www.bergbaumuseum.de/fileadmin/files/footer/Logos/DMT.svg" class="img-fluid"></p>
+<p><img src="https://www.bergbaumuseum.de/fileadmin/files/footer/Logos/DMT.svg" class="img-fluid" alt="Logo of the DMT-LB"></p>
 </div>
 </div>
 </div>
@@ -677,7 +732,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#x6
     <div class="nav-footer-right">
 <div style="text-align: center">
 <p>Funded by:</p>
-<p><img src="assets/dfg_logo_footer.gif" height="69"></p>
+<p><img src="assets/dfg_logo_footer.gif" alt="Logo of the German Research Foundation" height="69"></p>
 </div>
 </div>
   </div>
