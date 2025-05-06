@@ -1,12 +1,22 @@
 ---
-title: "Where you can meet us"
+title: "Meet us at... "
 ---
 
-We are presenting TerraLID at numerous meetings. So, if you want to meet the people behind TerraLID and have a chat, have a look in the list below to see where you can find us and which we attended in the past. For events organised and hosted by us, please have a look at the [events page](events-current.qmd). 
+We are joining the meetings listed below, usually with a presentation about TerraLID. We are looking forward to meeting you there and chat with you!
+
+Events organised and hosted by the TerraLID team are listed on our [events page](events-current.qmd). 
 
 ## Upcoming
 
-* [Archäometrie & Denkmalpflege](https://archaeometrie-tagung.de/)
+* [International Symposium on the Metallurgy of the European Iron Age II (SMEIA II)](https://www.leiza.de/forschung/forschungsfelder/zusammenleben-in-komplexer-werdenden-sozialen-gefuegen/international-symposium-on-the-metallurgy-of-the-european-iron-age-ii-smeia-ii)
+* [Young Researchers in Archaeometry 2025](https://www.yra-ecr.org/current.html)
+* [NFDI4Objects: 3rd Community Meeting](https://www.nfdi4objects.net/news/n4o_news_20241212-0837/)
+* [Geo4Göttingen](https://www.geo4goettingen2025.de/)
+* [31^st^ Annual Meeting of the European Association of Archaeologists (EAA)](https://www.e-a-a.org/eaa2025/)
+* [Goldschmidt 2025](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi)
+
+## 2025
+* Archäometrie & Denkmalpflege
 
 ## 2024
 

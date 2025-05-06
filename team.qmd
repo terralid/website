@@ -11,9 +11,9 @@ add_Link <- function(link, icon, font) {
 
 ```
 
-We are open to new members. If you are interested in joining us, please get in touch via [mail](mailto:globalid@bergbaumuseum.de?subject=GlobaLID) or at a [conference](events.qmd)! 
+We are welcoming new members anytime. If you are interested in getting involved, please get in touch via [mail](mailto:terralid@bergbaumuseum.de?subject=Joining TerraLID) or at a [conference](meet-us.qmd)! 
 
-## Project team
+## Core team
 
 ### Sabine Klein [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3939-4428)
 
@@ -30,7 +30,7 @@ FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankf
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Sabine.Klein@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/prof-dr-sabine-klein", "globe", "fa"), 
   add_Link("https://www.researchgate.net/profile/Sabine-Klein-3", "researchgate", "ai"),
   sep = "&nbsp;&nbsp;"
@@ -55,7 +55,7 @@ Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:helge.wiethoff@thga.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:helge.wiethoff@thga.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://github.com/derhelge/", "github", "fa brands"),
   sep = "&nbsp;&nbsp;"
 )
@@ -79,7 +79,7 @@ Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessource
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Thomas.Rose@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Thomas.Rose@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://copper-smelting.com/", "globe", "fa"), 
   add_Link("https://bergbaumuseum.academia.edu/ThomasRose", "academia", "ai"),
   add_Link("https://www.researchgate.net/profile/Thomas-Rose-2", "researchgate", "ai"),
@@ -109,7 +109,7 @@ Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessource
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Tim.Greifelt@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Tim.Greifelt@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/tim-greifelt", "globe", "fa"), 
   add_Link("https://independent.academia.edu/TimGreifelt", "academia", "ai"),
   add_Link("https://www.researchgate.net/profile/Tim-Greifelt", "researchgate", "ai"),
@@ -135,7 +135,7 @@ Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessource
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:katrin.westner@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:katrin.westner@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/dr-katrin-julia-westner", "globe", "fa"),
   add_Link("https://bergbaumuseum.academia.edu/KatrinWestner", "academia", "ai"),
   add_Link("https://www.researchgate.net/profile/Katrin-Westner", "researchgate", "ai"),
@@ -160,7 +160,7 @@ Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessource
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu", "globe", "fa"), 
   sep = "&nbsp;&nbsp;"
 )
@@ -184,7 +184,7 @@ Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessource
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Annette.Hornschuch@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Annette.Hornschuch@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.bergbaumuseum.de/museum/mitarbeitende/kontakt-detailseite/annette-hornschuch", "globe", "fa"), sep = "&nbsp;&nbsp;"
 )
                  
@@ -216,7 +216,9 @@ cat(
   * [T. O. Pryce](https://iramat.cnrs.fr/user/oliver.pryce/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
 * Coins: [David Wigg-Wolf](https://www.dainst.org/wer-wir-sind/mitarbeitende/noslug/574) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8604-544X) (Römisch-Germanische Kommission des Deutschen Archäologischen Instituts, Frankfurt, Germany)
 * Lead items: [Maxime L'Héritier](https://arscan.parisnanterre.fr/membre/maxime-lheritier/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3428-2977) (University of Paris 8, Paris, France)
-* Pigments: [Alexandra Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160) (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)
+* Pigments: 
+  * [Alexandra Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160) (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)
+  * [Andrea Acevedo Mejía](https://www.oeaw.ac.at/en/oeai/institute/team/person/andrea-acevedo-mejia) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-7441-1737) (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)
 * Archaeological materials: [Grzegorz Żabiński](https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3091-1035) (Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Poland)
 
 ## Contributors (Data)
@@ -224,6 +226,45 @@ cat(
 * Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
 
 ## Partners
-* [Deutsches Bergbau-Museum Bochum](https://www.bergbaumuseum.de/) <br> The Deutsches Bergbau-Museum Bochum – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.
-* [DMT-Gesellschaft für Lehre und Bildung mbH](https://www.dmt-lb.de/) <br>
-DMT-Gesellschaft für Lehre und Bildung mbH (DMT-LB), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990. 
+
+### Deutsches Bergbau-Museum Bochum
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+[![](assets/team/Logo_DBM.png)](https://www.bergbaumuseum.de/)
+:::
+
+::: {#column-text}
+The [Deutsches Bergbau-Museum Bochum](https://www.bergbaumuseum.de/) – founded in 1930 – is one of eight research museums belonging to the Leibniz Association. It researches, teaches and preserves the history of the mining, processing and use of geo-resources across all of the relevant time periods. Its research areas include: archaeometallurgy, mining history, materials science, and mining archaeology, together with the research laboratory, and the Montanhistorische Dokumentationszentrum.
+:::
+
+:::
+
+### DMT-Gesellschaft für Lehre und Bildung mbH
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+[![](assets/team/Logo_DMT.svg){width=102.55}](https://www.dmt-lb.de/)
+:::
+
+::: {#column-text}
+The [DMT-Gesellschaft für Lehre und Bildung mbH](https://www.dmt-lb.de/), based in Bochum, is a collective association of the German coal mining industry and acts as the funding organisation of Deutsches Bergbau-Museum Bochum (German Mining Museum) and Technische Hochschule Georg Agricola. It was established as the Westfälische Berggewerkschaftskasse (WBK) in 1864 and merged with the Steinkohlen-Bergbau-Verein (Stbv) and Bergbau Forschung GmbH under the auspices of DeutscheMontanTechnologie e.V. (DMT) in 1990. 
+:::
+
+:::
+
+## Funding
+
+::: {layout="[ 50 , 50 ]"}
+
+::: {#column-image}
+![](assets/dfg_logo.gif){fig-alt="DFG logo"}
+:::
+
+::: {#column-text}
+This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).
+:::
+
+:::

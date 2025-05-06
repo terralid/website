@@ -10,8 +10,14 @@ website:
     logo: assets/TerraLID_logo_word_white.png
     logo-alt: "TerraLID logo"
     left:
-      - href: index.qmd
-        text: "Home"
+      - text: "  "
+      - text: "Products"
+        menu:
+          - href: https://metadata.terralid.org
+            text: "Metadata profile"
+          - href: https://edu.terralid.org
+            text: "Textbook"
+      - text: "  "  
       - blog.qmd
       - team.qmd
       - vision.qmd
@@ -52,7 +58,7 @@ website:
   page-footer: 
     left: |
       Last updated: {{< meta date >}} <br> 
-      [Legal information](about.qmd) <br> 
+      [Legal information](/about.qmd) <br> 
       <br>
       Built with <a href='https://quarto.org/'>Quarto</a>.
     center: | 
@@ -61,12 +67,12 @@ website:
       ::: {width=800 layout="[ 70 , 30 ]"}
       ::: {#column-empty}
       
-      ![](https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg)
+      ![](https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg){fig-alt="Logo of the Deutsches Bergbau-Museum Bochum"}
       
       :::
       :::  {#column-empty}
       
-      ![](https://www.bergbaumuseum.de/fileadmin/files/footer/Logos/DMT.svg)
+      ![](https://www.bergbaumuseum.de/fileadmin/files/footer/Logos/DMT.svg){fig-alt="Logo of the DMT-LB"}
       
       :::
       :::
@@ -76,7 +82,7 @@ website:
       ::: {style="text-align: center"}
       Funded by:  
       
-      ![](assets/dfg_logo_footer.gif){height=69px}
+      ![](assets/dfg_logo_footer.gif){height=69px fig-alt="Logo of the German Research Foundation"}
       :::
 
 
@@ -93,6 +99,18 @@ format:
     email-obfuscation: javascript
     template-partials:
       - title-block.html
+    margin-header: |
+      ::: {.callout-tip title="TerraLID Mailling list" icon=false}
+      You want to receive about quarterly updates on TerraLID and related topics?  
+      [Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/terralid-news)
+      :::
+      ::: {.callout-tip title="Contact" icon=false}
+      Questions about TerraLID? [TerraLID [at] bergbaumuseum.de](mailto:terralid@bergbaumuseum.de?subject=Info about TerraLID)
+      :::
+      ::: {.callout-warning title="Quicklinks" icon=false}
+      [Metadata profile]()  
+      [Textbook]()
+      :::
 
 resources:
   - CNAME

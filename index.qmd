@@ -2,38 +2,24 @@
 pagetitle: "TerraLID"
 ---
 
-<!-- include mailing list prominently -->
+# The TerraLID project
 
-# Welcome to TerraLID
+## A research data infrastructure for Pb isotope data
+TerraLID develops a community-driven digital research data infrastructure for lead isotope data in archaeology that makes is easy to publish, access and work with lead isotope data. It intends to maximise their findability, accessibility, interoperability and reusability, i.e., making the data [FAIR](https://www.go-fair.org/fair-principles/) by the development of a suitable **database** while trying to implement the [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care) as much as possible. A **web application** provides the interface for submitting, accessing and working with lead isotope data. In addition, data curation will be minimsed through automated checks and enrichment of metadata from others sources, making it easy to submit data to TerraLID and to maintain it. All other tools will be collected in a **software toolbox** to make them available to the community outside of TerraLID. **Open Educational Resources** provide information about all aspects of lead isotope data and their application in archaeology as well as how to use TerraLID. TerraLID and all materials therein will be made available to the public under open licenses, meaning that its code will be open source, materials will be open access, and data in the database will be open access by default with reasonable access restrictions if necessary.   
 
-## Our aim
-TerraLID aims to develop next-generation tools for working with lead isotope data in the archaeological sciences. The primary aim is to create an infrastructure for the submission and provision of lead isotope reference data that makes it easy to submit data to the database, minimises data curation efforts by automatised checks and enrichment of metadata from other sources, and by providing easy access to the data through a web application or the database API. Data will be handled in accordance with the [FAIR principles](https://www.go-fair.org/) to maximise their findability, accessibility, interoperability and reusability. 
+Ultimately, TerraLID aims towards **transforming the scientific community** in how they handle lead isotope data and to increase the reliability and reproducibility of these data and interpretations derived from them. [Learn more about the motivation and vision of TerraLID...](vision.qmd) 
 
-Development of this infrastructure is done in close discussion with and active support from the community to ensure that the products are close to the community's needs. Prototypes of the database and web application were released in 2021 and the project presented to the public in 2022. Implementation of the full infrastructure will start in 2024. The next big step will be the development of a FAIR metadata scheme for lead isotope data in the archaeological sciences. This will not only massively improve the compatibility of lead isotope data but will also serve as data model for the full version of the database. In parallel it is aimed to increase the coverage of the database and to improve the web application. 
+## Community-driven development
+TerraLID will only be widely used by the community, if it is meeting the community's needs and expectations. Consequently, involving the community is an integral part of the development process. The [TerraLID editors](team.qmd#regional-editors) are internationally renowned community representatives and provide their expertise for specific regions or materials to make sure that a first draft of, e.g., the metadata profile meets already most needs of the scientific community. Afterwards, the draft will be shared with the entire community to gather their feedback and is accordingly revised. The [TerraLID Core Team](team.qmd#core-team) coordinates this process and is responsible for the technical implementation of the developed materials.
 
-Being an open project, we are always open for new members. If you are interested in helping GlobaLID to develop and make our vision come true, please reach out to the core team via [mail](mailto:globalid@bergbaumuseum.de?subject=GlobaLID). 
+All members of the scientific community are invited to get involved in the development of TerraLID and the Core Team values any contributions and every contribution will be duly acknowledged. If you are interested, please get in touch either by [mail](mailto:terralid@bergbaumuseum.de?subject=Joining TerraLID) or by contacting a [team member](team.qmd). 
 
-## Our products
-GlobaLID consists of three products and more might be developed as the project evolves. 
+In addition to individual researchers, our [partners](team.qmd#partners) ensure that TerraLID will be operative for at least 10 years. We teamed up with GFZ Data Services to ensure that any unpublished data submitted to TerraLID will be published as data publication first so that they are citable and credits are given to the respective authors when their data is used. 
 
-* Database ([most recent version](https://github.com/archmetalDBM/GlobaLID-database) | [archive](https://doi.org/10.5880/fidgeo.2023.043))
-* Web application ([live version](https://globalid.dmt-lb.de/) | [source code](https://github.com/archmetalDBM/GlobaLID-App))
-* Interactive textbook (in development, [preliminary version](https://archmetaldbm.github.io/GlobaLID-Edu/) | [source code](https://github.com/archmetalDBM/GlobaLID-Edu) | [archive](https://doi.org/10.5281/zenodo.10205820)) .
+TerraLID is of course not a solitary endeavour but one of many efforts that shapes a better data future. Members of the Core Team are therefore active in several other initiatives on the national and international level that aim to increase the [FAIR](https://www.go-fair.org/fair-principles/)ness of data. [Learn more about our network...](network.qmd) 
 
-## Further information
-GlobaLID was officially presented to the public in the article "From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application" in the journal Archaeometry ([doi:10.1111/arcm.12762](https://doi.org/10.1111/arcm.12762)). The database was published as dataset with an extensive description of its structure in the repository of the GFZ Data Services ([doi:10.5880/fidgeo.2023.043](https://doi.org/10.5880/fidgeo.2023.043)). The features of the web application prototype are presented in our [video tutorial on YouTube](https://www.youtube.com/watch?v=qwKStMc-068). You can learn more about the different products and how to use them at their respective pages. 
+## History
+Work initially started already in 2018 as an effort within the research area Archaeometallurgy of the Deutsches Bergbau-Museum Bochum to create an unified lead isotope database. As work progressed, the idea was born to extend this initiative to the entire community. In 2021 and 2022, prototypes were launched as GlobaLID. TerraLID continues this work by extending GlobaLID and turning it into a sustainable research data infrastructure that is deeply embedded in the international scientific community. Please find the links to the respective web pages and the GlobaLID web application in the menu bar at the top of the page. 
 
-## Funding
-
-::: {layout="[ 50 , 50 ]"}
-
-::: {#column-image}
-![](assets/dfg_logo.gif){fig-alt="DFG logo"}
-:::
-
-::: {#column-text}
-This work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825).
-:::
-
-:::
-
+## Publications
+Technical documentation and publications featuring TerraLID and GlobaLID are listed under [resources](resources.qmd). We are looking forward to meeting you and presenting to you TerraLID [on a conference](meet-us.qmd).
