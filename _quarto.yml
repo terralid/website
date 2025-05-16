@@ -20,7 +20,8 @@ website:
       - text: "  "  
       - blog.qmd
       - team.qmd
-      - vision.qmd
+      - text: "Vision"
+        href: vision.qmd
       - network.qmd
       - resources.qmd
       - text: "  "
@@ -64,7 +65,7 @@ website:
     center: | 
       Coordinated and hosted by:
       
-      ::: {width=800 layout="[ 70 , 30 ]"}
+      ::: {layout="[ 70 , 30 ]"}
       ::: {#column-empty}
       
       ![](https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg){fig-alt="Logo of the Deutsches Bergbau-Museum Bochum"}
@@ -92,6 +93,7 @@ format:
       - sandstone
       - custom.scss
     css: styles.css
+    lightbox: true
     toc: true
     toc-location: left
     link-external-newwindow: true
