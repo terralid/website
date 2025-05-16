@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.30">
+<meta name="generator" content="quarto-1.7.31">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -41,10 +41,13 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-cffd2273ddba45ff84b2ec17319e8070.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-bb9163d10cf2750051c0a25e92f9fc89.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -686,13 +689,13 @@ Quicklinks
 </div>   
     <div class="nav-footer-center">
 <p>Coordinated and hosted by:</p>
-<div class="quarto-layout-panel" data-layout="[ 70 , 30 ]" width="800">
+<div class="quarto-layout-panel" data-layout="[ 70 , 30 ]">
 <div class="quarto-layout-row">
 <div id="column-empty" class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: center;">
-<p><img src="https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg" class="img-fluid" alt="Logo of the Deutsches Bergbau-Museum Bochum"></p>
+<p><a href="https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://www.bergbaumuseum.de/fileadmin/files/header/Logo_Bergbaumuseum_4c.svg" class="img-fluid" alt="Logo of the Deutsches Bergbau-Museum Bochum"></a></p>
 </div>
 <div id="column-empty" class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: center;">
-<p><img src="https://www.bergbaumuseum.de/fileadmin/files/footer/Logos/DMT.svg" class="img-fluid" alt="Logo of the DMT-LB"></p>
+<p><a href="https://www.bergbaumuseum.de/fileadmin/files/footer/Logos/DMT.svg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://www.bergbaumuseum.de/fileadmin/files/footer/Logos/DMT.svg" class="img-fluid" alt="Logo of the DMT-LB"></a></p>
 </div>
 </div>
 </div>
@@ -700,11 +703,43 @@ Quicklinks
     <div class="nav-footer-right">
 <div style="text-align: center">
 <p>Funded by:</p>
-<p><img src="assets/dfg_logo_footer.gif" alt="Logo of the German Research Foundation" height="69"></p>
+<p><a href="assets/dfg_logo_footer.gif" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="assets/dfg_logo_footer.gif" alt="Logo of the German Research Foundation" height="69"></a></p>
 </div>
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

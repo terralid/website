@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "vision.html",
+    "href": "vision.html",
+    "title": "Vision and mission",
+    "section": "",
+    "text": "TerraLID envisions a scientific community in which as many data as possible are freely available for all. In this community, TerraLID serves as the central hub for lead isotope data maintained by the community and well-connected to other research data infrastructures. TerraLID significantly facilitates handling lead isotope data, and helps to improve the quality of published data, the richness of metadata, and the reproducibility of interpretations based on lead isotope data. To turn this vision into reality, several challenges must be overcome."
+  },
+  {
+    "objectID": "vision.html#data-handling",
+    "href": "vision.html#data-handling",
+    "title": "Vision and mission",
+    "section": "Data handling",
+    "text": "Data handling\nOn the data level, these are the large variety in the reported metadata (incl. their reportinng formats) and the manual data compilation from different sources by each researcher or group. The former is tackled by the TerraLID metadata profile, which allows to uniformly describe lead isotope data and their contextual information. The metadata profile uniformly structures the large variety of reported metadata, ensures a consistent level of detail, and guarantees that each metadatum is clearly defined. It resolves ambiguities in, e.g., transliterated site names by using persistent identifiers to augment the information stored in the TerraLID database with metadata records from other data infrastructures. By doing so, the TerraLID metadata profile provides a common ground for reporting lead isotope data and ensures that sufficient contextual information for their reuse. Reporting data according to the metadata profile will make the combination of data from different sources easy, saving a lot of time for individual researchers. In addition, the metadata profile increases transparency and reproducibility of data treatment processes because it eliminates individual decisions in the compilation process of data arising from insufficient definitions and/or only partial overlap of metadata in different data sources."
+  },
+  {
+    "objectID": "vision.html#data-curation",
+    "href": "vision.html#data-curation",
+    "title": "Vision and mission",
+    "section": "Data curation",
+    "text": "Data curation\nProviding a central hub for the storage of uniformly structured lead isotope data accelerates and facilitates data compilation even further. The coherent data curation workflows of such a hub ensure a level of consistency that can rarely be achieved by individual researchers, especially in the long-term. Data published through TerraLID will experience the same scrutiny to optimally prepare them for re-use independent from their initial research questions and any interpretations derived from them. At the same time, collecting data in such a central hub makes searching across datasets and fine-tuning selections of reference data for a given research question very easy."
+  },
+  {
+    "objectID": "vision.html#diversity-in-academic-backgrounds",
+    "href": "vision.html#diversity-in-academic-backgrounds",
+    "title": "Vision and mission",
+    "section": "Diversity in academic backgrounds",
+    "text": "Diversity in academic backgrounds\nAnother challenge is the diverse academic background of the community. Enabling all users to carry out such fine-tuned searches requires access to the database and its content through a well-designed graphical user interface. In addition, intuitively usable tools which enforce a basic level of scientific quality are necessary to enable researchers without in-depth background in lead isotope geochemistry to properly handle the data and to critically assess interpretations based on them. This will be realised through the TerraLID web application as intuitive user interface to the database and collection of the most common tools for handling lead isotope data. For the latter, own data can be temporarily uploaded and the results downloaded together with all necessary additional information (e.g., full reference list, publication-quality plots, important statistical parameters). Open education materials provide a starting point for training in the lead isotope method for everyone new to the method or interested in refreshing their knowledge."
+  },
+  {
+    "objectID": "vision.html#data-sharing",
+    "href": "vision.html#data-sharing",
+    "title": "Vision and mission",
+    "section": "Data sharing",
+    "text": "Data sharing\nUltimately, TerraLID contributes to changing the academic culture towards open research practices with a particular focus on data sharing practices. This effort is guided by the principle “as open as possible, as closed as necessary”. Being machine-generated data, lead isotope data are usually not copyrightable1. Moreover, openly sharing data raises trust in research outcomes because it increases transparency and reproducibility. Moreover, it helps to overcome global disparities in data access. The TerraLID team is nevertheless fully aware that data should sometimes not shared openly because this might, e.g., impact indigenous groups negatively, and these reasons must and will be respected."
+  },
+  {
+    "objectID": "vision.html#adding-value-to-the-community",
+    "href": "vision.html#adding-value-to-the-community",
+    "title": "Vision and mission",
+    "section": "Adding value to the community",
+    "text": "Adding value to the community\nThe team is fully aware that the integration of TerraLID in everyday research practices and active support from the scientific community will ultimately depend on its ease of use. Providing the information for the metadata profile will require additional effort compared to current practices and so will feeding data into TerraLID. Therefore, TerraLID will develop intuitive and efficient templates and tools that guide researchers through data entry and it will try to automatically fill in as much information as possible from other sources. Likewise, data integrity checks and data curation workflows will be automated as much as possible to minimise the effort necessary for maintaining TerraLID."
+  },
+  {
+    "objectID": "vision.html#giving-proper-credit",
+    "href": "vision.html#giving-proper-credit",
+    "title": "Vision and mission",
+    "section": "Giving proper credit",
+    "text": "Giving proper credit\nData compilations such as the ones derived from TerraLID eventually result in a long list of references and these should include citation of TerraLID as well. Only then, the authors of the data get appropriate credit for their work (e.g., number of citations) while the impact of TerraLID on the community can be monitored (essential for acquiring future funding). TerraLID will offer convenient ways to properly cite all relevant publications for their data subset by e.g. easy import of reference lists into common reference manager software. On a more general level, the requirement for citation directly clashes with the length restrictions of most publication formats. This is a challenge many research data infrastructures face and technical solutions are currently under development2. TerraLID will adopt them as soon as they are available."
+  },
+  {
+    "objectID": "vision.html#footnotes",
+    "href": "vision.html#footnotes",
+    "title": "Vision and mission",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nFurther information in, e.g., the Joint statement by CETAF, SPNHC and BHL on DATA within scientific publications: clarification of [non]copyrightability.↩︎\nSee the Recommendations of the RDA Complex Citation Working Group on Zenodo.↩︎"
+  },
+  {
     "objectID": "events-current.html",
     "href": "events-current.html",
     "title": "Current",
@@ -7,109 +63,46 @@
     "text": "The TerraLID Team organises events and workshops to involve the entire community in the process. You can read about past events in the archive.\nA new event will be announced soon. Stay tuned by reading our blog or subscribing to our newsletter."
   },
   {
-    "objectID": "events-archive.html#terralid-community-kick-off",
-    "href": "events-archive.html#terralid-community-kick-off",
-    "title": "Archive",
-    "section": "TerraLID-Community Kick-Off",
-    "text": "TerraLID-Community Kick-Off\nThanks to the acquisition of funding in early 2024, the prototypes announced to the community as GlobaLID will be turned into full versions. This event informed about the development of GlobaLID, the planned activities during the funded phase and the vision of TerraLID. Several Regional Editors presented their view on GlobaLID/TerraLID and motivation to contribute.\nDate: 14 May 2024\nLocation: Zoom\nThe recording of the meeting will be available soon."
-  },
-  {
-    "objectID": "events-archive.html#many-lids-but-none-matching-the-vessel",
-    "href": "events-archive.html#many-lids-but-none-matching-the-vessel",
-    "title": "Archive",
-    "section": "Many LIDs, but none matching the vessel",
-    "text": "Many LIDs, but none matching the vessel\nDeveloping a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences – A brainstorming workshop\nDate: 08–10 February 2023\nLocation: Deutsches Bergbau-Museum Bochum\n\nProgramme\n\nDay 1Day 2Day 3\n\n\n\n\n\n\n\n\n\n9:00\nKey talks\n\n\n\n\n9:00\nS. Klein (Bochum): Welcome\n\n\n9:15\nS. Klein (Bochum), Th. Rose (Frankfurt), K. Westner (Bochum), Y.-K. Hsu (Bochum): GlobaLID – Vision of the core team, introduction to the app and discovered challenges\n\n\n9:45\nZ. Stos-Gale (Gothenburg): Crossing boundaries: 40 years of lead isotope research in archaeology\n\n\n10:15\nF. Albarède (Lyon): Geological/geochemical pitfalls\n\n\n10:45\nCoffee break\n\n\n11:15\nG. Artioli (Padua): Existing lead isotope databases I\n\n\n11:45\nS. García di Madinabeitia, J. I. Gil Ibargichi, J. F. Santos (Bilbao): Existing lead isotope databases II\n\n\n12:15\nD. Killick (Tuscon, AZ), V. Renson (Columbia, MO), J. Stephens (Columbia, MO): Lead Isotopes on Archaeological Materials in North American Laboratories\n\n\n12:45\nD. Berger (Mannheim): Lead isotopes in tin ingots\n\n\n13:15\nR. Liu (London): Understanding the social roles of metal in early Chinese Bronze Age: a perspective from highly radiogenic lead\n\n\n13:45\nLunch break\n\n\n15:00\nD. Wigg-Wolf (Frankfurt a.M.): Application of lead isotopes for provenance studies in numismatics\n\n\n15:30–17:00\nPlenary: Current methodological challenges for lead isotopyExisting approaches to a community standardPro and cons of a community standard\n\n\n\n\n\nRound table 1: Which data and meta-information is crucial?\n\nIntroductory talk by I. Villa (Bern): Pb from the millimeter to the planet: what else is usually forgotten?\nTopics:\n\nAnalytical data\nGeological materials\nArtefacts – and which ones are suitable as reference data?\nBy-products (e.g., slags, prills, ores from excavation sites)\n\n\nRound table 2: Standardization of databases\n\nIntroductory talk by K. Elger (Potsdam): t.b.a.\nTopics:\n\nInterconnectivity between different databases: Each group deploys their own data online and develops an API to link other databases. Alternatively, each contributes data to a central database (like GlobaLID) so that all data can be accessed at once?\nUnique resource identifier (URI) and controlled vocabularies and terminologies; Adoption of unique identifiers, such as the IGSN for samples. Use of thesauri, ontologies, standardized mineral abbreviations, geological period information from e.g., USGS, EarthChem databases; geological time periods vs. orogenic events.\n\n\nRound table 3: Statistics and visualization\n\nIntroductory talk by P. Degryse (Leuven): Perspectives on data dots, biplots, ellipses and model ages\nAdditional presentation by T. Eshel (Haifa) and N Yahalom-Mack/D. Finn (Jerusalem)\nTopics:\n\nVisualization, statistic and processing tools, methods – what is really useful and needed by the community? What is required, what would be nice-to-have?\nReporting – What is proper reporting?\n\n\n\n\n9:00–13:00: Morning session\n\nImpulse talk by Chr. Keller (Berlin): NFDI4Objects\nPresentation of the round table discussions and discussion of their results\nReturn to the round tables: Define the discussed standards, taking into account the feedback from the plenary\n\n13:00: Lunch break\n14:30 – 16:00: Afternoon session, final plenary\n\nSummary of the second round of round tables\nDiscussion about how to proceed, e.g.,\n\nFollow-up meetings\nRoadmap to the publication and establishment of the community standard\nExtension to other methods and materials\n\n\n16:00: Closing of the workshop, take-aways and farewell"
-  },
-  {
     "objectID": "index.html#a-research-data-infrastructure-for-pb-isotope-data",
     "href": "index.html#a-research-data-infrastructure-for-pb-isotope-data",
     "title": "The TerraLID project",
     "section": "A research data infrastructure for Pb isotope data",
-    "text": "A research data infrastructure for Pb isotope data\nTerraLID develops a community-driven digital research data infrastructure for lead isotope data in archaeology that makes is easy to publish, access and work with lead isotope data. It intends to maximise their findability, accessibility, interoperability and reusability, i.e., making the data FAIR by the development of a suitable database while trying to implement the CARE Principles for Indigenous Data Governance as much as possible. A web application provides the interface for submitting, accessing and working with lead isotope data. In addition, data curation will be minimsed through automated checks and enrichment of metadata from others sources, making it easy to submit data to TerraLID and to maintain it. All other tools will be collected in a software toolbox to make them available to the community outside of TerraLID. Open Educational Resources provide information about all aspects of lead isotope data and their application in archaeology as well as how to use TerraLID. TerraLID and all materials therein will be made available to the public under open licenses, meaning that its code will be open source, materials will be open access, and data in the database will be open access by default with reasonable access restrictions if necessary.\nUltimately, TerraLID aims towards transforming the scientific community in how they handle lead isotope data and to increase the reliability and reproducibility of these data and interpretations derived from them. Learn more about the motivation and vision of TerraLID…"
+    "text": "A research data infrastructure for Pb isotope data\nTerraLID develops a community-driven digital research data infrastructure for lead isotope data in archaeology that makes is easy to publish, access and work with lead isotope data. It intends to maximise their findability, accessibility, interoperability and reusability, i.e., making the data FAIR with the development of a suitable database while trying to implement the CARE Principles for Indigenous Data Governance as much as possible. A web application provides the interface for submitting, accessing, and working with lead isotope data. In addition, data curation will be minimsed through automated checks and enrichment of metadata from others sources, making it easy to submit data to TerraLID and to maintain it. All other tools will be collected in a software toolbox to make them available to the community outside of TerraLID. Open Educational Resources provide information about all aspects of lead isotope data and their application in archaeology as well as about how to use TerraLID. TerraLID and all materials therein will be made available to the public under open licenses, meaning that software code will be open source, materials open access, and data in the database open access by default with reasonable access restrictions if necessary.\nUltimately, TerraLID aims towards transforming the scientific community in how it handles lead isotope data and to increase the reliability and reproducibility of these data and interpretations derived from them. Learn more about the motivation and vision of TerraLID…"
   },
   {
     "objectID": "index.html#community-driven-development",
     "href": "index.html#community-driven-development",
     "title": "The TerraLID project",
     "section": "Community-driven development",
-    "text": "Community-driven development\nTerraLID will only be widely used by the community, if it is meeting the community’s needs and expectations. Consequently, involving the community is an integral part of the development process. The TerraLID editors are internationally renowned community representatives and provide their expertise for specific regions or materials to make sure that a first draft of, e.g., the metadata profile meets already most needs of the scientific community. Afterwards, the draft will be shared with the entire community to gather their feedback and is accordingly revised. The TerraLID Core Team coordinates this process and is responsible for the technical implementation of the developed materials.\nAll members of the scientific community are invited to get involved in the development of TerraLID and the Core Team values any contributions and every contribution will be duly acknowledged. If you are interested, please get in touch either by mail (terralid at bergbaumuseum dot de?subject=Joining%20TerraLID) or by contacting a team member.\nIn addition to individual researchers, our partners ensure that TerraLID will be operative for at least 10 years. We teamed up with GFZ Data Services to ensure that any unpublished data submitted to TerraLID will be published as data publication first so that they are citable and credits are given to the respective authors when their data is used.\nTerraLID is of course not a solitary endeavour but one of many efforts that shapes a better data future. Members of the Core Team are therefore active in several other initiatives on the national and international level that aim to increase the FAIRness of data. Learn more about our network…"
+    "text": "Community-driven development\nTerraLID will only be widely used by the community if it is meeting the community’s needs and expectations. Consequently, involving the community is an integral part of the development process. The TerraLID editors are internationally renowned community representatives and provide their expertise for specific regions or materials to make sure that a first draft of, e.g., the metadata profile meets already most needs of the scientific community. Afterwards, the draft will be shared with the entire community to gather their feedback and is accordingly revised. The TerraLID Core Team coordinates this process and is responsible for the technical implementation of the developed materials as well as for initiating the cycle for the creation of a revised version.\n\n\n\nSchematic visualisation of the communit-driven process implemented in TerraLID. All icons taken from Font Awesome Free, owned by Fonticons, Inc. and licensed under CC-BY 4.0 International.\n\n\nAll members of the scientific community are invited to get involved in the development of TerraLID. The Core Team values all contributions and they will be duly acknowledged. If you are interested, please get in touch either by mail (terralid at bergbaumuseum dot de?subject=Joining%20TerraLID) or by contacting a team member.\nIn addition to individual researchers, our partners ensure that TerraLID will be operative for at least 10 years. We teamed up with GFZ Data Services to ensure that any unpublished data submitted to TerraLID will be published as data publication first so that they are citable and credits are given to the respective authors when their data is used.\nTerraLID is of course not a solitary endeavour but one of many efforts that shapes a better data future. Members of the Core Team are therefore active in several other initiatives on the national and international level that aim to increase the FAIRness of data. Learn more about our network…"
   },
   {
     "objectID": "index.html#history",
     "href": "index.html#history",
     "title": "The TerraLID project",
     "section": "History",
-    "text": "History\nWork initially started already in 2018 as an effort within the research area Archaeometallurgy of the Deutsches Bergbau-Museum Bochum to create an unified lead isotope database. As work progressed, the idea was born to extend this initiative to the entire community. In 2021 and 2022, prototypes were launched as GlobaLID. TerraLID continues this work by extending GlobaLID and turning it into a sustainable research data infrastructure that is deeply embedded in the international scientific community. Please find the links to the respective web pages and the GlobaLID web application in the menu bar at the top of the page."
+    "text": "History\nWork initially started in 2018 as an effort within the research area Archaeometallurgy of the Deutsches Bergbau-Museum Bochum to create an unified lead isotope database. As work progressed, the idea was born to extend this initiative to the entire community. In 2021 and 2022, prototypes were launched as GlobaLID. TerraLID continues this work by extending GlobaLID and turning it into a sustainable research data infrastructure that is deeply embedded in the international scientific community. Please find the links to the GlobaLID prototypes, including the web application, in the menu bar at the top of the page."
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
     "title": "The TerraLID project",
     "section": "Publications",
-    "text": "Publications\nTechnical documentation and publications featuring TerraLID and GlobaLID are listed under resources. We are looking forward to meeting you and presenting to you TerraLID on a conference."
+    "text": "Publications\nYou can find technical documentation and publications featuring TerraLID and GlobaLID under resources. We are looking forward to meeting you and presenting TerraLID to you on a conference."
   },
   {
-    "objectID": "posts/20250206_Metadata.html",
-    "href": "posts/20250206_Metadata.html",
-    "title": "",
-    "section": "",
-    "text": "Metadata profile: metadata set, work on vocabs started"
+    "objectID": "about.html#legal-notice",
+    "href": "about.html#legal-notice",
+    "title": "Legal Notice & Privacy Statement",
+    "section": "Legal Notice",
+    "text": "Legal Notice\nThe Deutsche Bergbau-Museum Bochum is a dependent facility of the\nDMT-Gesellschaft für Lehre und Bildung mbH.\nProvider according to § 5 TMG is therefore:\nDMT-Gesellschaft für Lehre und Bildung mbH\nAm Bergbaumuseum 28\n44791 Bochum\nPhone +49 234 5877-0\nE-Mail: info@bergbaumuseum.de\nManaging Director: Prof. Susanne Lengyel (chairman), Prof. Dr. Sunhild Kleingärtner, Ulrich Wessel\ncommercial register: Amtsgericht Bochum, HRB 4052\nVAT identification number according to § 27 UStG: DE124091698\nRegulatory body: Ministerium für Kultur und Wissenschaft des Landes Nordrhein Westfalen"
   },
   {
-    "objectID": "posts/20230820_RegEd.html",
-    "href": "posts/20230820_RegEd.html",
-    "title": "Regional Editors",
-    "section": "",
-    "text": "The workshop in February 2023 featured insightful and thought-provoking keynotes as well as intense and fruitful discussion rounds, which yielded several stimulating impulses for the future development and further growth of GlobaLID.\nOne of the prepositions jointly worked out in the discussions was to establish Regional Editors, who will curate the data for specific geographical regions. In practice, they will use their expertise when quality-checking data and metadata from (local) publications concerning the regions they are responsible for, and, with support from contributors, they will add data from their regions to GlobaLID’s database. The Core Team will carry out the final checks of the enriched data before they will become publicly available.\nSo far, six colleagues already joined the GlobaLID Team as Regional Editors:\n\nSoutheast Asia: T. O. Pryce  (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)\nIran: Nima Nezafati  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nAfrica: Jay Stephens  (School of Anthropology, University of Arizona, Tucson, AZ, USA; Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)\nNorth America:\n\nVirginie Renson  (Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)\nDavid Killick  (School of Anthropology, University of Arizona, Tucson, AZ, USA)\n\nSouth America: María Florencia Becerra  (Facultad de Filosofía y Letras, Universidad de Buenos Aires, Instituto de Arqueología, CONICET, Buenos Aires, Argentina; Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\n\nThe first contribution from Jay Stephens on sub-Saharan Africa with 468 entries is already available online. María Florencia Becerra and Virginie Renson currently work on data from Southern and Northern America, respectively, which will successively be added to the publicly accessible revised database.\nGlobaLID is a community-driven and peer-curated project. Get in touch and join the team to contribute to GlobaLID and to help unleashing the power of FAIR data!"
-  },
-  {
-    "objectID": "posts/20240215_KickOff.html",
-    "href": "posts/20240215_KickOff.html",
-    "title": "Let‘s get the project (really) started!",
-    "section": "",
-    "text": "GlobaLID set out on the journey towards becoming a full-fledged data infrastructe in into its funded phase with an institution-internal kick-off meeting on 7 February. All stakeholders at the Deutsches Bergbau-Museum Bochum (DBM), Technische Hochschule Georg Agricola (THGA) and the DMT Society for Teaching and Education (DMT-LB) were informed about GlobaLID, our vision and the work programme of the DFG-funded project. Subsequently, discussions focussed on where GlobaLID positions itself regarding similar activities at the DBM and in Germany (esp., NFDI4Objects), the internal organisation of the project, on general strategies to implement the work programme, and on the organisation of our dissemination activities.\nThe public kick-off will take place on 14 May at 15:00 GMT via Zoom. You are cordially invited to join!"
-  },
-  {
-    "objectID": "posts/20250322_ArchDenk.html",
-    "href": "posts/20250322_ArchDenk.html",
-    "title": "",
-    "section": "",
-    "text": "Report AuD"
-  },
-  {
-    "objectID": "posts/20240104_Data2023.html",
-    "href": "posts/20240104_Data2023.html",
-    "title": "New data online in 2023",
-    "section": "",
-    "text": "Thanks to the efforts of our regional editors and the GlobaLID Core Team, the amount of data in the GlobaLID database grew significantly: from 2700 data points at the end of 2022 to more than 4100 data points. Our spatial coverage also increased with data from Sub-Saharan Africa and South America. You can find a full list of countries for which data were added on the News page of the web application.\nMore data is currently reviewed and prepared – stay tuned!\n\n\n\nCoverage of the GlobaLID database end of 2023."
-  },
-  {
-    "objectID": "posts/20240927_RSE-SummerSchool.html",
-    "href": "posts/20240927_RSE-SummerSchool.html",
-    "title": "",
-    "section": "",
-    "text": "Report RSE Summer School"
-  },
-  {
-    "objectID": "posts/20240615_AiE-report.html",
-    "href": "posts/20240615_AiE-report.html",
-    "title": "White nights, red houses and lots of slag",
-    "section": "",
-    "text": "The 6th Archaeometallurgy in Europe conference (11 to 14 June 2024) took place in the old mining town Falun, the capital of Dalarnas region with its picturesque landscape. Known worldwide for its old open cast copper mine and Falun red – the typical red colour of Swedish houses –, Falun gave a very fitting environment for the European archaeometallurgy community to meet and discuss the latest news in the field.\nNumerous presentations and posters informed, among others, about the latest state of the lead isotope method and new approaches on statistical methods and how to combine it with other analytical methods to increase its discriminatory power. The TerraLID team presented the scope and plans for TerraLID as a poster. The conference offered plenty of opportunities to make TerraLID more widely known in the community and to discuss its aims and strategies on how to move forward. Once more, it became clear that an infrastructure for easy access to and standardised documentation of lead isotope data and their context are urgently needed and that the community is full with anticipation for TerraLID.\nThe excellent side programme provided ample opportunities to continue these discussions in a more informal atmosphere and to get acquainted with the rich mining history and beautiful landscape of Dalarnas region. The size and number of slag heaps amidst beautiful forests and lakes around Falun are outstanding and still could give only a glimpse in how profoundly mining impacted the region in the past. After the tours, the white nights and nice bars set the perfect atmosphere to catch-up with friends and colleagues until the early mornings.\nWe were very happy to be part of this well-organised conference and to see that the interest and enthusiasm for TerraLID remained unchanged on a high level. See you next time, 2027 in Granada!\n\n\n\n\n\n\nConference participants discussing in front of the TerraLID poster (photo: Thomas Rose).\n\n\n\n\n\n\n\nView from the top of the slag heap with the Lusthus in Österå near Falun (photo: Sabine Klein)."
-  },
-  {
-    "objectID": "posts/20241010_VABochum.html",
-    "href": "posts/20241010_VABochum.html",
-    "title": "",
-    "section": "",
-    "text": "Report Verbandstagung Bochum"
-  },
-  {
-    "objectID": "posts/20240606_Kick-off.html",
-    "href": "posts/20240606_Kick-off.html",
-    "title": "Community Kick-Off Meeting on 14 May",
-    "section": "",
-    "text": "The next step is done!\nOn 14 May, our kick-off meeting took place online to present the progress and the name change from GlobaLID to TerraLID to the community. The offer to participate and exchange ideas was very well received by the up to 40 participants. The aim was to involve the community in the development of TerraLID and to find out what requirements the community has for TerraLID to be able to respond to them specifically in the further development. Thomas Rose presented the TerraLID roadmap in a very vivid presentation and then demonstrated the web app in a simulation. Last but not least, the individual regional editors presented themselves and their work.\nThe meeting was a complete success and there was a lot of positive feedback. It was nice to see how much interest there is in TerraLID from the community.\nIf you missed the kick-off meeting but would have liked to attend,  the recording will become available here soon.\nIf you have any questions and/or comments, please send us an e-mail (terralid at bergbaumuseum dot de). We look forward to hearing from you."
+    "objectID": "about.html#privacy",
+    "href": "about.html#privacy",
+    "title": "Legal Notice & Privacy Statement",
+    "section": "Privacy",
+    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
   },
   {
     "objectID": "posts/20240715_CoPArchaeology.html",
@@ -119,11 +112,32 @@
     "text": "CoP Archaeology"
   },
   {
+    "objectID": "posts/20240606_Kick-off.html",
+    "href": "posts/20240606_Kick-off.html",
+    "title": "Community Kick-Off Meeting on 14 May",
+    "section": "",
+    "text": "The next step is done!\nOn 14 May, our kick-off meeting took place online to present the progress and the name change from GlobaLID to TerraLID to the community. The offer to participate and exchange ideas was very well received by the up to 40 participants. The aim was to involve the community in the development of TerraLID and to find out what requirements the community has for TerraLID to be able to respond to them specifically in the further development. Thomas Rose presented the TerraLID roadmap in a very vivid presentation and then demonstrated the web app in a simulation. Last but not least, the individual regional editors presented themselves and their work.\nThe meeting was a complete success and there was a lot of positive feedback. It was nice to see how much interest there is in TerraLID from the community.\nIf you missed the kick-off meeting but would have liked to attend,  the recording will become available here soon.\nIf you have any questions and/or comments, please send us an e-mail (terralid at bergbaumuseum dot de). We look forward to hearing from you."
+  },
+  {
+    "objectID": "posts/20250322_ArchDenk.html",
+    "href": "posts/20250322_ArchDenk.html",
+    "title": "",
+    "section": "",
+    "text": "Report AuD"
+  },
+  {
     "objectID": "posts/20240901_EAA.html",
     "href": "posts/20240901_EAA.html",
     "title": "",
     "section": "",
     "text": "Report EAA"
+  },
+  {
+    "objectID": "posts/20250206_Metadata.html",
+    "href": "posts/20250206_Metadata.html",
+    "title": "",
+    "section": "",
+    "text": "Metadata profile: metadata set, work on vocabs started"
   },
   {
     "objectID": "posts/20230823_Funding.html",
@@ -133,18 +147,11 @@
     "text": "We are excited to announce that GlobaLID received a major grant from the Deutsche Forschungsgemeinschaft (DFG; German Research Foundation) for a three-year digital infrastructure project to turn the prototypes into a full version. The project will start in February 2024 and will include many opportunities for you to provide feedback and input to ensure that GlobaLID will meet your needs and expectations. In the major work packages, we will continue to work on\n\nAn online database that stores lead isotope data in accordance with the FAIR principles, enhanced by workflows for the publication and curation of the data\nA metadata scheme to provide sufficient context to the lead isotope data in a well-structured way\nA web application to access and work with the database and to carry out common tasks when working with lead isotope data\nAn interactive textbook as a collection of open educational resources about all aspects of the lead isotope method\nBringing the lead isotope community closer together and providing training through workshops\n\nMore information will become available in early 2024 – stay tuned!"
   },
   {
-    "objectID": "posts/first post.html",
-    "href": "posts/first post.html",
-    "title": "Hello, world!",
+    "objectID": "posts/20240615_AiE-report.html",
+    "href": "posts/20240615_AiE-report.html",
+    "title": "White nights, red houses and lots of slag",
     "section": "",
-    "text": "GlobaLID is constantly growing but until now there was no single point of access for all resources of GlobaLID. Moreover, the web application as the most important product so far does look nice on small screens and mobile devices. Therefore, this page was set up. Have a look around and explore what GlobaLID already has to offer, what is planned and how you can become part of it."
-  },
-  {
-    "objectID": "posts/20241027_EGC-Cameroon.html",
-    "href": "posts/20241027_EGC-Cameroon.html",
-    "title": "",
-    "section": "",
-    "text": "Report Cameroon"
+    "text": "The 6th Archaeometallurgy in Europe conference (11 to 14 June 2024) took place in the old mining town Falun, the capital of Dalarnas region with its picturesque landscape. Known worldwide for its old open cast copper mine and Falun red – the typical red colour of Swedish houses –, Falun gave a very fitting environment for the European archaeometallurgy community to meet and discuss the latest news in the field.\nNumerous presentations and posters informed, among others, about the latest state of the lead isotope method and new approaches on statistical methods and how to combine it with other analytical methods to increase its discriminatory power. The TerraLID team presented the scope and plans for TerraLID as a poster. The conference offered plenty of opportunities to make TerraLID more widely known in the community and to discuss its aims and strategies on how to move forward. Once more, it became clear that an infrastructure for easy access to and standardised documentation of lead isotope data and their context are urgently needed and that the community is full with anticipation for TerraLID.\nThe excellent side programme provided ample opportunities to continue these discussions in a more informal atmosphere and to get acquainted with the rich mining history and beautiful landscape of Dalarnas region. The size and number of slag heaps amidst beautiful forests and lakes around Falun are outstanding and still could give only a glimpse in how profoundly mining impacted the region in the past. After the tours, the white nights and nice bars set the perfect atmosphere to catch-up with friends and colleagues until the early mornings.\nWe were very happy to be part of this well-organised conference and to see that the interest and enthusiasm for TerraLID remained unchanged on a high level. See you next time, 2027 in Granada!\n\n\n\n\n\n\nConference participants discussing in front of the TerraLID poster (photo: Thomas Rose).\n\n\n\n\n\n\n\nView from the top of the slag heap with the Lusthus in Österå near Falun (photo: Sabine Klein)."
   },
   {
     "objectID": "posts/20240414_Kick-off.html",
@@ -154,11 +161,25 @@
     "text": "We cordially invite you to the webinar that kicks-off the transformation of GlobaLID into TerraLID on Tuesday, 14 May at 4 pm CEST (= 2 pm UTC) via Zoom.\nThe kick-off event showcases the current features of GlobaLID with a small sample dataset. Subsequently, we will present the vision and planned features of TerraLID and how you can shape its development. Moreover, our regional editors will share some impressions from their work on the data infrastructure. There will be ample time for questions and discussions.\nOur aim is to develop TerraLID as close to the needs of the community as possible. Therefore, this event will be the first in a series of virtual open events, where we will ask for your feedback on crucial parts in the design of TerraLID. We will announce them here and through the usual channels in due time – stay tuned!"
   },
   {
-    "objectID": "posts/20241018_YRA.html",
-    "href": "posts/20241018_YRA.html",
+    "objectID": "posts/20241010_VABochum.html",
+    "href": "posts/20241010_VABochum.html",
     "title": "",
     "section": "",
-    "text": "Report YRA2024"
+    "text": "Report Verbandstagung Bochum"
+  },
+  {
+    "objectID": "posts/20240927_RSE-SummerSchool.html",
+    "href": "posts/20240927_RSE-SummerSchool.html",
+    "title": "",
+    "section": "",
+    "text": "Report RSE Summer School"
+  },
+  {
+    "objectID": "posts/20230820_RegEd.html",
+    "href": "posts/20230820_RegEd.html",
+    "title": "Regional Editors",
+    "section": "",
+    "text": "The workshop in February 2023 featured insightful and thought-provoking keynotes as well as intense and fruitful discussion rounds, which yielded several stimulating impulses for the future development and further growth of GlobaLID.\nOne of the prepositions jointly worked out in the discussions was to establish Regional Editors, who will curate the data for specific geographical regions. In practice, they will use their expertise when quality-checking data and metadata from (local) publications concerning the regions they are responsible for, and, with support from contributors, they will add data from their regions to GlobaLID’s database. The Core Team will carry out the final checks of the enriched data before they will become publicly available.\nSo far, six colleagues already joined the GlobaLID Team as Regional Editors:\n\nSoutheast Asia: T. O. Pryce  (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)\nIran: Nima Nezafati  (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\nAfrica: Jay Stephens  (School of Anthropology, University of Arizona, Tucson, AZ, USA; Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)\nNorth America:\n\nVirginie Renson  (Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)\nDavid Killick  (School of Anthropology, University of Arizona, Tucson, AZ, USA)\n\nSouth America: María Florencia Becerra  (Facultad de Filosofía y Letras, Universidad de Buenos Aires, Instituto de Arqueología, CONICET, Buenos Aires, Argentina; Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)\n\nThe first contribution from Jay Stephens on sub-Saharan Africa with 468 entries is already available online. María Florencia Becerra and Virginie Renson currently work on data from Southern and Northern America, respectively, which will successively be added to the publicly accessible revised database.\nGlobaLID is a community-driven and peer-curated project. Get in touch and join the team to contribute to GlobaLID and to help unleashing the power of FAIR data!"
   },
   {
     "objectID": "posts/20230730_NADAC.html",
@@ -166,69 +187,6 @@
     "title": "GlobaLID at the NADAC summer school in Berkeley, CA (USA)",
     "section": "",
     "text": "Members of the GlobaLID Core Team are participating in the NEH Institute for Advanced Topics in the Digital Humanities “Networking Archaeological Data and Communities”, a two-year programme of The Alexandria Archive Institute / Open Context. The institute teaches about the management of archaeological data in monthly online workshops and in-person summer schools.\nI was able to attend the first summer school in July 2023 at the Badè Museum of Archaeology on the campus of Pacific School of Religion in Berkeley, CA (USA). It was a very welcomed opportunity to meet the other participants in person after seeing them via Zoom and to get to know each other in real life. After short presentations of the current state of the participants’ projects, the summer school programme focused on data management plans and linked data.\nIn preparation for the summer school, each project drafted a data management plan (if not already existing) which was then discussed in small groups. This allowed us to get deeper insights into some of the projects and especially how data are handled by them. The feedback provided a lot of helpful suggestions for the revision of the data management plan but also for the project itself.\nLinked data were only briefly touched upon in one of the online workshops and were now discussed in detail: How do they work? What are the benefits? But also, what are the challenges and risks of linked data? Inspiring presentations by the experts and brainstorming sessions on different aspects of linked data led to a much better understanding, many new ideas for the projects and an annotated collection of resources on this topic.\nAlthough everyone was happily busy working on the topics for the workshop, the programme left enough room to get to know each other, discuss our projects in more depth, and get a better understanding of current debates about the handling and preservation of cultural heritage and data gathered from and about it. A tasting of local wines organised by the staff of the Archaeological Research Facility of the University of California Berkeley, a walking tour of the architecture of North Berkeley’s “Holy Hill” neighbourhood, and a great selection of dinner places allowed getting a good impression of Berkeley and its surroundings.\n\n\n\nThe participants of the NADAC summer school in front of the Badè Museum of Archaeology (Photo credit: Alex Roman, used with permission by the NADAC team)"
-  },
-  {
-    "objectID": "posts/20250305_UpdateDatabase.html",
-    "href": "posts/20250305_UpdateDatabase.html",
-    "title": "",
-    "section": "",
-    "text": "Update Current State GlobaLID Database"
-  },
-  {
-    "objectID": "posts/20250307_ArchInf.html",
-    "href": "posts/20250307_ArchInf.html",
-    "title": "",
-    "section": "",
-    "text": "Report publication ArchInf"
-  },
-  {
-    "objectID": "posts/20240301_DataPub.html",
-    "href": "posts/20240301_DataPub.html",
-    "title": "GlobaLID database v. 1.1 now available",
-    "section": "",
-    "text": "Version 1.1 of the GlobaLID database is now published at GFZ Data Services under its DOI 10.5880/fidgeo.2023.043.\nThis version contains the 2255 new data points added since the publication of version 1.0 and extends the metadata included in the database. Most importantly, the analytical uncertainties of the Pb isotope ratios can now be included, as well as the mineralisation style and whether the Pb isotope datum was measured on a sample from a deposit relevant for archaeological research.\nSee a full list of the changes in the changelog of the version 1.1 data description.\n\n\n\nLocation of data points covered in the GlobaLID database v 1.1."
-  },
-  {
-    "objectID": "posts/20231102_Workshop.html",
-    "href": "posts/20231102_Workshop.html",
-    "title": "Gathering the lead isotope community",
-    "section": "",
-    "text": "When GlobaLID was announced, there was general enthusiasm for a standardized repository of geological lead isotopic data (ourselves included - no more sharing of excel documents!), but it quickly became clear that such a large endeavor would require a community to operate and maintain. One of the crucial points raised in this initial phase of the database was how to design a system of standards that both ensures its applicability to global contexts, while also integrating with the research of scholars who are already successfully applying the method. Because of these nuances, GlobaLID, in partnership with the Deutsches Bergbau Museum Bochum and the Ruhr University of Bochum, invited scholars from all over the world to a conference in Bochum, Germany in February, 2023 in order to discuss their ideas for creating such a database: from the back-end structure, to establishing standard protocols data evaluation, formatting mechanisms for data submission and tools for interpretation, educational materials, and overall goals of the project.\nBeyond the usual introductions and reconnections, day 1 of the conference was focused on the research of conference participants in order to better understand the variety of ways in which current projects interact with lead isotopic data and databases. These talks seeded an already fertile soil for discussions on how users would interact with the GlobaLID database, how we would approach the issue of standardization, and integrate with the legacy of database creation for archaeologists applying lead isotopic analysis.\nWith the stage set, day 2 of the conference was divided into thematic presentations, focusing on the structure of the database, how to create a standardized platform, and the metadata which should be included. Important to this discussion was an overview of other, already existing, regional databases. GlobaLID’s vision is to create a link which would bind these databases together, integrating the nuance of regional specificity with the broad applicability and reach that a global database affords. Another seminal part of the discussion surrounded the issue of credit and how to ensure that researchers submitting data to GlobaLID would receive recognition for their efforts (and citations in future studies!). As a possible solution to this issue, Kirsten Elger gave an overview of data journals, which can host previously unpublished lead isotopic data with a report of the methods with which they were collected. Publication in these data journals allows the data to be fully citable and will generate a DOI. This ensures that any researcher submitting unpublished data would receive two benefits: 1) a publication that they could list on their CV, and 2) citations of this publication for any study making use of their data. Day 2 also included presentations from Patrick Degryse, Tzilla Eshel, Naama Yahalom-Mack, and Daniel Finn, who collectively summarized the statistical and visualization techniques that scholars routinely employ when evaluating the lead isotopic signature for archaeological artifacts. These presentations served both to discuss current approaches for this practice, as well as select methods that researchers would like to see as available tools on the front-end of the GlobaLID platform.\nUnlike days 1 and 2, day 3 was structured with multiple sessions operating in parallel, to discuss specific topics of interest to participants and establish the overall framework for GlobaLID in component parts. Thematic focus groups included: metadata, standardization, visualization and statistical tools (full programme of the workshop). For these break-out groups, participants outlined important components that should be instituted in each of these thematic topics before re-aggregating for the final discussion. One of the most important developments from these break-out groups was the creation of “regional editors” which are the focus of another blog post.\nWe are two of the regional editors for GlobaLID, and for us, this conference was a great opportunity to meet and interact with colleagues applying lead isotopic analysis to various parts of the global archaeological record. It was also an important moment to set a benchmark for where we, as a community, see lead isotopic analysis going in the future. GlobaLID reflects this vision: it is compatible with the present, but forward looking. The team at GlobaLID is currently implementing points raised during this conference, and hopes to run a follow-up conference in 2025."
-  },
-  {
-    "objectID": "posts/20240823_EMC.html",
-    "href": "posts/20240823_EMC.html",
-    "title": "",
-    "section": "",
-    "text": "Report EMC"
-  },
-  {
-    "objectID": "posts/20231215_Textbook.html",
-    "href": "posts/20231215_Textbook.html",
-    "title": "Interactive textbook online",
-    "section": "",
-    "text": "For several months now, the GlobaLID Core Team has been working on “Lead Isotopes in Archaeology: An Interactive Textbook”. The aim is to provide an open educational resource about the lead isotope method and its application in archaeology as a textbook. In contrast to traditional textbooks, the format as a webpage allows the inclusion of interactive content and other multimedia elements. In addition, it makes it easy to update and expand the textbook over time. The textbook is designed as an edited volume to give appropriate credit to all contributors.\nWe are delighted to announce the launch of its first version: https://archmetaldbm.github.io/GlobaLID-Edu/\nThis initial version was supported through an NFDI4Earth Educational Pilot.\nAdmittedly, it is still in the very early stages with only a couple of chapters available but we already wanted to give you an idea about our approach. More chapters will become available in the next months.\nWe are looking forward to your feedback! And please get in touch if you are interested in contributing or writing a chapter – we are happy to collaborate!"
-  },
-  {
-    "objectID": "resources.html#publications",
-    "href": "resources.html#publications",
-    "title": "Resources",
-    "section": "Publications",
-    "text": "Publications\n\nRose T, Greifelt T, Westner KJ, Hsu Y-K, Klein S (2024) Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID: ein Erfahrungsbericht. Archäologische Informationen 47:177-190. https://doi.org/10.11588/ai.2024.1.110402"
-  },
-  {
-    "objectID": "resources.html#outreach",
-    "href": "resources.html#outreach",
-    "title": "Resources",
-    "section": "Outreach",
-    "text": "Outreach\n\nGreifelt T (2025) Was ist Terra LID? Eine Datenbank für Bleiisotopendaten… aber was ist das? [Blog article]. https://unterirdis.ch/wordpress/2025/04/04/was-ist-terra-lid-eine-datenbank-fuer-bleiisotopendaten-aber-was-ist-das/\nBleiisotopie: Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID, DGFU Newsletter 129, https://dguf.de/newsletter/newsletter-lesen/dguf-newsletter-nr-129-vom-18-03-2025#_Toc193134464"
-  },
-  {
-    "objectID": "resources.html#prototypes-globalid",
-    "href": "resources.html#prototypes-globalid",
-    "title": "Resources",
-    "section": "Prototypes (GlobaLID)",
-    "text": "Prototypes (GlobaLID)\n\nGlobaLID database\n\nMost recent version: https://github.com/archmetalDBM/GlobaLID-database\nWestner KJ, Rose T, Klein S, Hsu Y-K, Becerra MF, Nezafati N, Renson V, Stephens JA (2023) GlobaLID – Global Lead Isotope Database V. 1.1. https://doi.org/10.5880/fidgeo.2023.043\nWestner KJ, Rose T, Klein S, Hsu Y-K (2021) GlobaLID – Global Lead Isotope Database: V. 1.0. https://doi.org/10.5880/fidgeo.2021.031\n\n\n\nGlobaLID web application\n\nGlobaLID Core Team (2021) GlobaLID web application: V. 1.0, database status: 04 March 2025. (live version | source code)\nVideo tutorial for the web application: Watch on YouTube\n\n\n\nTextbook\n\nInteractive textbook, preliminary version (live | source code | archive).\n\n\n\nPublications\n\nKlein S, Rose T, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry 64:935–950. https://doi.org/10.1111/arcm.12762\nRose T, Klein S, Hsu Y-K, Westner KJ (2022) GlobaLID: A new database and interactive web tool for provenancing archaeological metals. Archeomatica 13:10–12. https://ojs.mediageo.it/index.php/archeomatica/article/view/1861"
   },
   {
     "objectID": "meet-us.html",
@@ -280,6 +238,97 @@
     "text": "2021\n\nHistorical Metallurgy Society: Research in Progress Meeting\n3rd European Mineralogical Conference\nYoung Researchers in Archaeometry 4"
   },
   {
+    "objectID": "events-archive.html#terralid-community-kick-off",
+    "href": "events-archive.html#terralid-community-kick-off",
+    "title": "Archive",
+    "section": "TerraLID-Community Kick-Off",
+    "text": "TerraLID-Community Kick-Off\nThanks to the acquisition of funding in early 2024, the prototypes announced to the community as GlobaLID will be turned into full versions. This event informed about the development of GlobaLID, the planned activities during the funded phase and the vision of TerraLID. Several Regional Editors presented their view on GlobaLID/TerraLID and motivation to contribute.\nDate: 14 May 2024\nLocation: Zoom\nThe recording of the meeting will be available soon."
+  },
+  {
+    "objectID": "events-archive.html#many-lids-but-none-matching-the-vessel",
+    "href": "events-archive.html#many-lids-but-none-matching-the-vessel",
+    "title": "Archive",
+    "section": "Many LIDs, but none matching the vessel",
+    "text": "Many LIDs, but none matching the vessel\nDeveloping a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences – A brainstorming workshop\nDate: 08–10 February 2023\nLocation: Deutsches Bergbau-Museum Bochum\n\nProgramme\n\nDay 1Day 2Day 3\n\n\n\n\n\n\n\n\n\n9:00\nKey talks\n\n\n\n\n9:00\nS. Klein (Bochum): Welcome\n\n\n9:15\nS. Klein (Bochum), Th. Rose (Frankfurt), K. Westner (Bochum), Y.-K. Hsu (Bochum): GlobaLID – Vision of the core team, introduction to the app and discovered challenges\n\n\n9:45\nZ. Stos-Gale (Gothenburg): Crossing boundaries: 40 years of lead isotope research in archaeology\n\n\n10:15\nF. Albarède (Lyon): Geological/geochemical pitfalls\n\n\n10:45\nCoffee break\n\n\n11:15\nG. Artioli (Padua): Existing lead isotope databases I\n\n\n11:45\nS. García di Madinabeitia, J. I. Gil Ibargichi, J. F. Santos (Bilbao): Existing lead isotope databases II\n\n\n12:15\nD. Killick (Tuscon, AZ), V. Renson (Columbia, MO), J. Stephens (Columbia, MO): Lead Isotopes on Archaeological Materials in North American Laboratories\n\n\n12:45\nD. Berger (Mannheim): Lead isotopes in tin ingots\n\n\n13:15\nR. Liu (London): Understanding the social roles of metal in early Chinese Bronze Age: a perspective from highly radiogenic lead\n\n\n13:45\nLunch break\n\n\n15:00\nD. Wigg-Wolf (Frankfurt a.M.): Application of lead isotopes for provenance studies in numismatics\n\n\n15:30–17:00\nPlenary: Current methodological challenges for lead isotopyExisting approaches to a community standardPro and cons of a community standard\n\n\n\n\n\nRound table 1: Which data and meta-information is crucial?\n\nIntroductory talk by I. Villa (Bern): Pb from the millimeter to the planet: what else is usually forgotten?\nTopics:\n\nAnalytical data\nGeological materials\nArtefacts – and which ones are suitable as reference data?\nBy-products (e.g., slags, prills, ores from excavation sites)\n\n\nRound table 2: Standardization of databases\n\nIntroductory talk by K. Elger (Potsdam): t.b.a.\nTopics:\n\nInterconnectivity between different databases: Each group deploys their own data online and develops an API to link other databases. Alternatively, each contributes data to a central database (like GlobaLID) so that all data can be accessed at once?\nUnique resource identifier (URI) and controlled vocabularies and terminologies; Adoption of unique identifiers, such as the IGSN for samples. Use of thesauri, ontologies, standardized mineral abbreviations, geological period information from e.g., USGS, EarthChem databases; geological time periods vs. orogenic events.\n\n\nRound table 3: Statistics and visualization\n\nIntroductory talk by P. Degryse (Leuven): Perspectives on data dots, biplots, ellipses and model ages\nAdditional presentation by T. Eshel (Haifa) and N Yahalom-Mack/D. Finn (Jerusalem)\nTopics:\n\nVisualization, statistic and processing tools, methods – what is really useful and needed by the community? What is required, what would be nice-to-have?\nReporting – What is proper reporting?\n\n\n\n\n9:00–13:00: Morning session\n\nImpulse talk by Chr. Keller (Berlin): NFDI4Objects\nPresentation of the round table discussions and discussion of their results\nReturn to the round tables: Define the discussed standards, taking into account the feedback from the plenary\n\n13:00: Lunch break\n14:30 – 16:00: Afternoon session, final plenary\n\nSummary of the second round of round tables\nDiscussion about how to proceed, e.g.,\n\nFollow-up meetings\nRoadmap to the publication and establishment of the community standard\nExtension to other methods and materials\n\n\n16:00: Closing of the workshop, take-aways and farewell"
+  },
+  {
+    "objectID": "posts/20250307_ArchInf.html",
+    "href": "posts/20250307_ArchInf.html",
+    "title": "",
+    "section": "",
+    "text": "Report publication ArchInf"
+  },
+  {
+    "objectID": "posts/20241018_YRA.html",
+    "href": "posts/20241018_YRA.html",
+    "title": "",
+    "section": "",
+    "text": "Report YRA2024"
+  },
+  {
+    "objectID": "posts/20240215_KickOff.html",
+    "href": "posts/20240215_KickOff.html",
+    "title": "Let‘s get the project (really) started!",
+    "section": "",
+    "text": "GlobaLID set out on the journey towards becoming a full-fledged data infrastructe in into its funded phase with an institution-internal kick-off meeting on 7 February. All stakeholders at the Deutsches Bergbau-Museum Bochum (DBM), Technische Hochschule Georg Agricola (THGA) and the DMT Society for Teaching and Education (DMT-LB) were informed about GlobaLID, our vision and the work programme of the DFG-funded project. Subsequently, discussions focussed on where GlobaLID positions itself regarding similar activities at the DBM and in Germany (esp., NFDI4Objects), the internal organisation of the project, on general strategies to implement the work programme, and on the organisation of our dissemination activities.\nThe public kick-off will take place on 14 May at 15:00 GMT via Zoom. You are cordially invited to join!"
+  },
+  {
+    "objectID": "posts/20241027_EGC-Cameroon.html",
+    "href": "posts/20241027_EGC-Cameroon.html",
+    "title": "",
+    "section": "",
+    "text": "Report Cameroon"
+  },
+  {
+    "objectID": "posts/20231102_Workshop.html",
+    "href": "posts/20231102_Workshop.html",
+    "title": "Gathering the lead isotope community",
+    "section": "",
+    "text": "When GlobaLID was announced, there was general enthusiasm for a standardized repository of geological lead isotopic data (ourselves included - no more sharing of excel documents!), but it quickly became clear that such a large endeavor would require a community to operate and maintain. One of the crucial points raised in this initial phase of the database was how to design a system of standards that both ensures its applicability to global contexts, while also integrating with the research of scholars who are already successfully applying the method. Because of these nuances, GlobaLID, in partnership with the Deutsches Bergbau Museum Bochum and the Ruhr University of Bochum, invited scholars from all over the world to a conference in Bochum, Germany in February, 2023 in order to discuss their ideas for creating such a database: from the back-end structure, to establishing standard protocols data evaluation, formatting mechanisms for data submission and tools for interpretation, educational materials, and overall goals of the project.\nBeyond the usual introductions and reconnections, day 1 of the conference was focused on the research of conference participants in order to better understand the variety of ways in which current projects interact with lead isotopic data and databases. These talks seeded an already fertile soil for discussions on how users would interact with the GlobaLID database, how we would approach the issue of standardization, and integrate with the legacy of database creation for archaeologists applying lead isotopic analysis.\nWith the stage set, day 2 of the conference was divided into thematic presentations, focusing on the structure of the database, how to create a standardized platform, and the metadata which should be included. Important to this discussion was an overview of other, already existing, regional databases. GlobaLID’s vision is to create a link which would bind these databases together, integrating the nuance of regional specificity with the broad applicability and reach that a global database affords. Another seminal part of the discussion surrounded the issue of credit and how to ensure that researchers submitting data to GlobaLID would receive recognition for their efforts (and citations in future studies!). As a possible solution to this issue, Kirsten Elger gave an overview of data journals, which can host previously unpublished lead isotopic data with a report of the methods with which they were collected. Publication in these data journals allows the data to be fully citable and will generate a DOI. This ensures that any researcher submitting unpublished data would receive two benefits: 1) a publication that they could list on their CV, and 2) citations of this publication for any study making use of their data. Day 2 also included presentations from Patrick Degryse, Tzilla Eshel, Naama Yahalom-Mack, and Daniel Finn, who collectively summarized the statistical and visualization techniques that scholars routinely employ when evaluating the lead isotopic signature for archaeological artifacts. These presentations served both to discuss current approaches for this practice, as well as select methods that researchers would like to see as available tools on the front-end of the GlobaLID platform.\nUnlike days 1 and 2, day 3 was structured with multiple sessions operating in parallel, to discuss specific topics of interest to participants and establish the overall framework for GlobaLID in component parts. Thematic focus groups included: metadata, standardization, visualization and statistical tools (full programme of the workshop). For these break-out groups, participants outlined important components that should be instituted in each of these thematic topics before re-aggregating for the final discussion. One of the most important developments from these break-out groups was the creation of “regional editors” which are the focus of another blog post.\nWe are two of the regional editors for GlobaLID, and for us, this conference was a great opportunity to meet and interact with colleagues applying lead isotopic analysis to various parts of the global archaeological record. It was also an important moment to set a benchmark for where we, as a community, see lead isotopic analysis going in the future. GlobaLID reflects this vision: it is compatible with the present, but forward looking. The team at GlobaLID is currently implementing points raised during this conference, and hopes to run a follow-up conference in 2025."
+  },
+  {
+    "objectID": "posts/20240104_Data2023.html",
+    "href": "posts/20240104_Data2023.html",
+    "title": "New data online in 2023",
+    "section": "",
+    "text": "Thanks to the efforts of our regional editors and the GlobaLID Core Team, the amount of data in the GlobaLID database grew significantly: from 2700 data points at the end of 2022 to more than 4100 data points. Our spatial coverage also increased with data from Sub-Saharan Africa and South America. You can find a full list of countries for which data were added on the News page of the web application.\nMore data is currently reviewed and prepared – stay tuned!\n\n\n\nCoverage of the GlobaLID database end of 2023."
+  },
+  {
+    "objectID": "posts/20240301_DataPub.html",
+    "href": "posts/20240301_DataPub.html",
+    "title": "GlobaLID database v. 1.1 now available",
+    "section": "",
+    "text": "Version 1.1 of the GlobaLID database is now published at GFZ Data Services under its DOI 10.5880/fidgeo.2023.043.\nThis version contains the 2255 new data points added since the publication of version 1.0 and extends the metadata included in the database. Most importantly, the analytical uncertainties of the Pb isotope ratios can now be included, as well as the mineralisation style and whether the Pb isotope datum was measured on a sample from a deposit relevant for archaeological research.\nSee a full list of the changes in the changelog of the version 1.1 data description.\n\n\n\nLocation of data points covered in the GlobaLID database v 1.1."
+  },
+  {
+    "objectID": "posts/20250305_UpdateDatabase.html",
+    "href": "posts/20250305_UpdateDatabase.html",
+    "title": "",
+    "section": "",
+    "text": "Update Current State GlobaLID Database"
+  },
+  {
+    "objectID": "posts/20240823_EMC.html",
+    "href": "posts/20240823_EMC.html",
+    "title": "",
+    "section": "",
+    "text": "Report EMC"
+  },
+  {
+    "objectID": "posts/first post.html",
+    "href": "posts/first post.html",
+    "title": "Hello, world!",
+    "section": "",
+    "text": "GlobaLID is constantly growing but until now there was no single point of access for all resources of GlobaLID. Moreover, the web application as the most important product so far does look nice on small screens and mobile devices. Therefore, this page was set up. Have a look around and explore what GlobaLID already has to offer, what is planned and how you can become part of it."
+  },
+  {
+    "objectID": "posts/20231215_Textbook.html",
+    "href": "posts/20231215_Textbook.html",
+    "title": "Interactive textbook online",
+    "section": "",
+    "text": "For several months now, the GlobaLID Core Team has been working on “Lead Isotopes in Archaeology: An Interactive Textbook”. The aim is to provide an open educational resource about the lead isotope method and its application in archaeology as a textbook. In contrast to traditional textbooks, the format as a webpage allows the inclusion of interactive content and other multimedia elements. In addition, it makes it easy to update and expand the textbook over time. The textbook is designed as an edited volume to give appropriate credit to all contributors.\nWe are delighted to announce the launch of its first version: https://archmetaldbm.github.io/GlobaLID-Edu/\nThis initial version was supported through an NFDI4Earth Educational Pilot.\nAdmittedly, it is still in the very early stages with only a couple of chapters available but we already wanted to give you an idea about our approach. More chapters will become available in the next months.\nWe are looking forward to your feedback! And please get in touch if you are interested in contributing or writing a chapter – we are happy to collaborate!"
+  },
+  {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team",
@@ -329,18 +378,60 @@
     "text": "Funding\n\n\n\n\n\n\nThis work has received funding from the German Research Foundation (DFG) through the grants KL 1259/17-1 and WI 5923/2-1 (project number: 524790825)."
   },
   {
-    "objectID": "about.html#legal-notice",
-    "href": "about.html#legal-notice",
-    "title": "Legal Notice & Privacy Statement",
-    "section": "Legal Notice",
-    "text": "Legal Notice\nThe Deutsche Bergbau-Museum Bochum is a dependent facility of the\nDMT-Gesellschaft für Lehre und Bildung mbH.\nProvider according to § 5 TMG is therefore:\nDMT-Gesellschaft für Lehre und Bildung mbH\nAm Bergbaumuseum 28\n44791 Bochum\nPhone +49 234 5877-0\nE-Mail: info@bergbaumuseum.de\nManaging Director: Prof. Susanne Lengyel (chairman), Prof. Dr. Sunhild Kleingärtner, Ulrich Wessel\ncommercial register: Amtsgericht Bochum, HRB 4052\nVAT identification number according to § 27 UStG: DE124091698\nRegulatory body: Ministerium für Kultur und Wissenschaft des Landes Nordrhein Westfalen"
+    "objectID": "network.html",
+    "href": "network.html",
+    "title": "Network",
+    "section": "",
+    "text": "The TerraLID team is actively involved in national and international initiatives that aim to improve research data management and literacy."
   },
   {
-    "objectID": "about.html#privacy",
-    "href": "about.html#privacy",
-    "title": "Legal Notice & Privacy Statement",
-    "section": "Privacy",
-    "text": "Privacy\nThis webpage does not use any cookies. It does not collect, store or process personal data. The website is hosted by GitHub Inc. using GitHub pages. The privacy statement of Github is available here."
+    "objectID": "network.html#igsndatacite-archaeology-cultural-heritage-community-of-practice",
+    "href": "network.html#igsndatacite-archaeology-cultural-heritage-community-of-practice",
+    "title": "Network",
+    "section": "IGSN–DataCite Archaeology & Cultural Heritage Community of Practice",
+    "text": "IGSN–DataCite Archaeology & Cultural Heritage Community of Practice\nJointly coordinated by IGSN e.V. and DataCite, the IGSN–DataCite Archaeology & Cultural Heritage Community of Practice aims to promote the use of persistent identifiers in archaeology. In 2022, the community conducted a survey about current practices related to the use of persistent identifiers in archaeology. Since then, activities focused on the development of a metadata profile for archaeological and cultural heritage materials for IGSNs. IGSNs or International Generic Sample Numbers are persistent identifiers for physical objects. Similar to Digital Object Identifiers, or DOIs, for digital objects such as publications, IGSNs make physical samples citable and provide informative metadata about them. This facilitates their (re-)use, improve data sharing and increase the visibility of samples. Because what communities consider as relevant metadata about a sample differs, community-specific metadata profiles for IGSNs are needed for the optimal description of physical objects. TerraLID will align object- and site-related metadata with the metadata profile developed by the IGSN–DataCite Archaeology & Cultural Heritage Community of Practice. This not only allows automatic retrieval of the respective metadata from the IGSN of an archaeological item into TerraLID but also minimises effort if data publication in TerraLID is combined with obtaining IGSNs for the respective samples and objects."
+  },
+  {
+    "objectID": "network.html#nfdi4objects",
+    "href": "network.html#nfdi4objects",
+    "title": "Network",
+    "section": "NFDI4Objects",
+    "text": "NFDI4Objects\nThe NFDI4Objects builds the Research Data Infrastructure for the Material Remains of Human History as part of the German effort towards a National Research Data Infrastructure. It is aimed at all members of the scientific community with an interest in material heritage in human and environmental history. The NFDI4Objects develops services and data infrastructures in a community-driven way, including the development of metadata profiles, among others. The TerraLID team is involved in several of its temporary working groups and community clusters."
+  },
+  {
+    "objectID": "network.html#forschungsdaten.info",
+    "href": "network.html#forschungsdaten.info",
+    "title": "Network",
+    "section": "forschungsdaten.info",
+    "text": "forschungsdaten.info\nThe webpage forschungsdaten.info is the central information platform about all research data management-related topics for the German-speaking countries. Operated by bwFDM, the State Initiative for Research Data Management in Baden-Württemberg, its editorial board consists of research data management experts from various domains that are based in Germany, Switzerland, and Austria. Beside general information structured along the data life cycle, the page features various articles that provide discipline-specific information about research data management, including archaeology and geosciences. The page is currently mostly in German with overview articles in English but the editorial board currently works on the extension of the website’s English content."
+  },
+  {
+    "objectID": "network.html#networking-archaeological-data-and-communities-20232024",
+    "href": "network.html#networking-archaeological-data-and-communities-20232024",
+    "title": "Network",
+    "section": "Networking Archaeological Data and Communities (2023–2024)",
+    "text": "Networking Archaeological Data and Communities (2023–2024)\nThe NEH Institute for Advanced Topics in the Digital Humanities Networking Archaeological Data and Communities by the Alexandria Archive Institute/Open Context was a series of monthly webinars and two summer schools organised around four semesters devoted to specific themes. It aimed to increase awareness about topics related to research data management among the participants and to build a network among people from the various subfields in archaeology working on research data management-related projects. Three members of the TerraLID core team joined the institute. The institute proved not only very effective in widening and deepening previous knowledge but also in raising awareness on various aspects that are not as prominently featured in German or European discourses as they are in the USA and elsewhere."
+  },
+  {
+    "objectID": "resources.html#publications",
+    "href": "resources.html#publications",
+    "title": "Resources",
+    "section": "Publications",
+    "text": "Publications\n\nRose T, Greifelt T, Westner KJ, Hsu Y-K, Klein S (2024) Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID: ein Erfahrungsbericht. Archäologische Informationen 47:177-190. https://doi.org/10.11588/ai.2024.1.110402"
+  },
+  {
+    "objectID": "resources.html#outreach",
+    "href": "resources.html#outreach",
+    "title": "Resources",
+    "section": "Outreach",
+    "text": "Outreach\n\nGreifelt T (2025) Was ist Terra LID? Eine Datenbank für Bleiisotopendaten… aber was ist das? [Blog article]. https://unterirdis.ch/wordpress/2025/04/04/was-ist-terra-lid-eine-datenbank-fuer-bleiisotopendaten-aber-was-ist-das/\nBleiisotopie: Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID, DGFU Newsletter 129, https://dguf.de/newsletter/newsletter-lesen/dguf-newsletter-nr-129-vom-18-03-2025#_Toc193134464"
+  },
+  {
+    "objectID": "resources.html#prototypes-globalid",
+    "href": "resources.html#prototypes-globalid",
+    "title": "Resources",
+    "section": "Prototypes (GlobaLID)",
+    "text": "Prototypes (GlobaLID)\n\nGlobaLID database\n\nMost recent version: https://github.com/archmetalDBM/GlobaLID-database\nWestner KJ, Rose T, Klein S, Hsu Y-K, Becerra MF, Nezafati N, Renson V, Stephens JA (2023) GlobaLID – Global Lead Isotope Database V. 1.1. https://doi.org/10.5880/fidgeo.2023.043\nWestner KJ, Rose T, Klein S, Hsu Y-K (2021) GlobaLID – Global Lead Isotope Database: V. 1.0. https://doi.org/10.5880/fidgeo.2021.031\n\n\n\nGlobaLID web application\n\nGlobaLID Core Team (2021) GlobaLID web application: V. 1.0, database status: 04 March 2025. (live version | source code)\nVideo tutorial for the web application: Watch on YouTube\n\n\n\nTextbook\n\nInteractive textbook, preliminary version (live | source code | archive).\n\n\n\nPublications\n\nKlein S, Rose T, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry 64:935–950. https://doi.org/10.1111/arcm.12762\nRose T, Klein S, Hsu Y-K, Westner KJ (2022) GlobaLID: A new database and interactive web tool for provenancing archaeological metals. Archeomatica 13:10–12. https://ojs.mediageo.it/index.php/archeomatica/article/view/1861"
   },
   {
     "objectID": "blog.html",
