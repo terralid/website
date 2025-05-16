@@ -194,6 +194,21 @@ cat(
 
 :::
 
+### Malte Kottmann 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany; Ruhr-Universität Bochum, Bochum, Germany
+
+:::
+
+:::
+
 ## Regional editors
 * China: [Siran Liu](https://enihmm.ustb.edu.cn/Staff/Academic_Senior_Research_Staff/bde24d0cde654407b9c56f78a81490a9.htm) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9250-4561) (Institute for Cultural Heritage and History of Science & Technology, University of Science and Technology Beijing, China)
 * Southeast Asia: [T. O. Pryce](https://iramat.cnrs.fr/user/oliver.pryce/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
