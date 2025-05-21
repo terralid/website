@@ -1,48 +1,31 @@
 ---
 title: "Resources"
 
-# citation style used below: AAS
+# citation style used below: AAS; most recent on the top of each list
 ---
 
 <!-- ## Metadata profile -->
 
-<!-- ## Database -->
+## Database
+* Most recent version: <https://github.com/archmetalDBM/GlobaLID-database>
+* Westner KJ, Rose T, Klein S, Hsu Y-K, Becerra MF, Nezafati N, Renson V, Stephens JA (2023) GlobaLID – Global Lead Isotope Database V. 1.1. <https://doi.org/10.5880/fidgeo.2023.043>
+* Westner KJ, Rose T, Klein S, Hsu Y-K (2021) GlobaLID – Global Lead Isotope Database: V. 1.0. <https://doi.org/10.5880/fidgeo.2021.031>
 
-<!-- ## Web application -->
+## Web application
+* GlobaLID Core Team (2021) GlobaLID web application: V. 1.0, database status: 04 March 2025. ([live version](https://globalid.dmt-lb.de/) | [source code](https://github.com/archmetalDBM/GlobaLID-App))
+* Video tutorial for the web application: [Watch on YouTube](https://www.youtube.com/watch?v=qwKStMc-068)
 
-<!-- ## Textbook -->
+## Textbook
+* Interactive textbook, preliminary version ([live](https://archmetaldbm.github.io/GlobaLID-Edu/) | [source code](https://github.com/archmetalDBM/GlobaLID-Edu) | [archive](https://doi.org/10.5281/zenodo.10205820)).
 
 <!-- ## Toolbox -->
 
 
 ## Publications
-
 * Rose T, Greifelt T, Westner KJ, Hsu Y-K, Klein S (2024) Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID: ein Erfahrungsbericht. Archäologische Informationen 47:177-190. <https://doi.org/10.11588/ai.2024.1.110402>
-
-## Outreach
-
-* Greifelt T (2025) Was ist Terra LID? Eine Datenbank für Bleiisotopendaten… aber was ist das? [Blog article]. <https://unterirdis.ch/wordpress/2025/04/04/was-ist-terra-lid-eine-datenbank-fuer-bleiisotopendaten-aber-was-ist-das/>
-* Bleiisotopie: Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID, DGFU Newsletter 129, <https://dguf.de/newsletter/newsletter-lesen/dguf-newsletter-nr-129-vom-18-03-2025#_Toc193134464>
-
-## Prototypes (GlobaLID)
-
-### GlobaLID database
-
-* Most recent version: <https://github.com/archmetalDBM/GlobaLID-database>
-* Westner KJ, Rose T, Klein S, Hsu Y-K, Becerra MF, Nezafati N, Renson V, Stephens JA (2023) GlobaLID – Global Lead Isotope Database V. 1.1. <https://doi.org/10.5880/fidgeo.2023.043>
-* Westner KJ, Rose T, Klein S, Hsu Y-K (2021) GlobaLID – Global Lead Isotope Database: V. 1.0. <https://doi.org/10.5880/fidgeo.2021.031>
-
-### GlobaLID web application
-
-* GlobaLID Core Team (2021) GlobaLID web application: V. 1.0, database status: 04 March 2025. ([live version](https://globalid.dmt-lb.de/) | [source code](https://github.com/archmetalDBM/GlobaLID-App))
-* Video tutorial for the web application: [Watch on YouTube](https://www.youtube.com/watch?v=qwKStMc-068)
-
-### Textbook
-
-* Interactive textbook, preliminary version ([live](https://archmetaldbm.github.io/GlobaLID-Edu/) | [source code](https://github.com/archmetalDBM/GlobaLID-Edu) | [archive](https://doi.org/10.5281/zenodo.10205820)).
-
-### Publications
-
 * Klein S, Rose T, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry 64:935–950. <https://doi.org/10.1111/arcm.12762>
 * Rose T, Klein S, Hsu Y-K, Westner KJ (2022) GlobaLID: A new database and interactive web tool for provenancing archaeological metals. Archeomatica 13:10–12. <https://ojs.mediageo.it/index.php/archeomatica/article/view/1861>
- 
+
+## Outreach
+* Greifelt T (2025) Was ist Terra LID? Eine Datenbank für Bleiisotopendaten… aber was ist das? [Blog article]. <https://unterirdis.ch/wordpress/2025/04/04/was-ist-terra-lid-eine-datenbank-fuer-bleiisotopendaten-aber-was-ist-das/>
+* Bleiisotopie: Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID, DGFU Newsletter 129, <https://dguf.de/newsletter/newsletter-lesen/dguf-newsletter-nr-129-vom-18-03-2025#_Toc193134464>
