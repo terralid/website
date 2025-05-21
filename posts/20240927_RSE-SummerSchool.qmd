@@ -1,12 +1,17 @@
 ---
-title: ""
+title: "RSE training for TerraLID"
 
 author: 
   - name: Thomas Rose
     orcid: 0000-0002-8186-3566
 date: "2024-09-27"
-description: ""
+description: "TerraLID at the Summer School on Research Software Engineering"
+image: "../assets/blog/rse-summer-school.png"
 
 ---
 
-Report RSE Summer School
+Being self-educated in software development, the first Summer School on Research Software Engineering (23--27 September 2024, Karlsruhe) was a more than welcomed opportunity for a condensed overview about the topic and its best practices. While participants had a wide range of backgrounds, including a small but eager group of participants predominantly using R, we all were new to the intersectional and often challenging field of [research software engineering](https://en.wikipedia.org/wiki/Research_software_engineering), i.e., the development of (open source) software for research purposes with its strong focus on reproducibility, reusability, and accuracy.
+
+Reflecting the wide span of the field, the programme of the RSE Summer School featured collaborative coding practices, software testing, the use of Continuous Integration/Continuous Delivery ([CI/CD](https://en.wikipedia.org/wiki/CI/CD)) practices, and documentation of software and code. It further covered software publications and the different types of software licenses. While I was already somewhat familiar with most of the topics, it was just great to get a very well-designed comprehensive overview on this topic and I learned many new additional aspects and gathered important impulses for the work on TerraLID. It was also very encouraging to learn that we already implemented many of the good or best practices in our work on GlobaLID and TerraLID. 
+
+![](https://events.hifis.net/event/1467/attachments/2044/4219/rse-summer-school.png){fig-alt="Logo of the RSE Summer School. "}

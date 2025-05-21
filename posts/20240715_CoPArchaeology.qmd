@@ -1,12 +1,15 @@
 ---
-title: ""
+title: "Towards a metadata profile for archaeological materials"
 
 author: 
   - name: Thomas Rose
     orcid: 0000-0002-8186-3566
 date: "2024-07-15"
-description: ""
-
+description: "Contributing to the IGSN DataCite Archaeology and Cultural Heritage Community of Practice"
 ---
 
-CoP Archaeology
+To provide sufficient context about the lead isotope data, TerraLID has to include information about the objects which were sampled for lead isotope analyses. At the same time, this information is not the focus of the TerraLID database. Therefore, TerraLID aims to re-use already existing approaches developed by experts in the respective domains. 
+
+The [IGSN DataCite Archaeology and Cultural Heritage Community of Practice](https://ev.igsn.org/communities/archaeology) currently implements a metadata profile for archaeological samples. While still under development with a first published version expected during 2025, the TerraLID team recognised a high potential in modeling object metadata according to this metadata profile and therefore decided to join this Community of Practice and to [contribute to its development](../network.qmd#igsndatacite-archaeology-cultural-heritage-community-of-practice). Most importantly, the metadata profile will be linked to an IGSN, an **I**nternational **G**eneric **S**ample **N**umber. [IGSNs](https://ev.igsn.org/about-igsns) are persistent identifiers ([PIDs](https://en.wikipedia.org/wiki/Persistent_identifier)) for physical objects, similar to a DOI being a PID for a digital object such as a publication or dataset. This allows easy import of object metadata by its IGSN, analogous to how publication metadata are imported in reference managers from their DOI. In addition, the partnership with DataCite ensures the long-term technical support of IGSNs. 
+
+Moreover, IGSN were originating from the Geosciences for their samples such as rocks or drill cores and the respective [Community of Practice](https://ev.igsn.org/communities/earth-and-environmental-sciences) already developed best practices for the identification and description of physical objects (i.e., samples). This means that they already offer a metadata profile for the description of ores and other geological materials relevant for TerraLID. Aligning the metadata profiles of both communities is planned when the first version of the metadata profile for archaeological objects is available and will be facilitated by their mapping to the [DataCite metadata schema](https://datacite-metadata-schema.readthedocs.io/). Because they will use the same technology, this will make it particularly easy to retrieve and include object metadata in TerraLID. 
