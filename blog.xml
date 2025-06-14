@@ -10,7 +10,15 @@
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Fri, 27 Sep 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 27 Oct 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>TerraLID on the road</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20241027_Conferences.html</link>
+  <description><![CDATA[ Spreading the news about TerraLID ]]></description>
+  <guid>https://www.terralid.org/posts/20241027_Conferences.html</guid>
+  <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>RSE training for TerraLID</title>
   <dc:creator>Thomas Rose</dc:creator>
