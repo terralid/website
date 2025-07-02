@@ -11,13 +11,13 @@ website:
     logo-alt: "TerraLID logo"
     left:
       - text: "  "
-      - text: "Products"
-        menu:
-          - href: https://metadata.terralid.org
-            text: "Metadata profile"
-          - href: https://edu.terralid.org
-            text: "Textbook"
-      - text: "  "  
+      # - text: "Products"
+      #   menu:
+      #     - href: https://metadata.terralid.org
+      #       text: "Metadata profile"
+      #     - href: https://edu.terralid.org
+      #       text: "Textbook"
+      # - text: "  "  
       - blog.qmd
       - team.qmd
       - text: "Vision"
@@ -43,12 +43,6 @@ website:
           - icon: box-arrow-up-right
             href: https://github.com/archmetalDBM/GlobaLID-database
             text: "Database"
-#    right: 
-#      - icon: box-arrow-up-right
-#        href: https://edu.terralid.org
-#        text: "Textbook"
-#      - text: "  "
-#      - text: "  "
     tools:
       - icon: envelope-fill
         href: mailto:terralid@bergbaumuseum.de?subject=TerraLID
@@ -109,10 +103,10 @@ format:
       ::: {.callout-tip title="Contact" icon=false}
       Questions about TerraLID? [TerraLID [at] bergbaumuseum.de](mailto:terralid@bergbaumuseum.de?subject=Info about TerraLID)
       :::
-      ::: {.callout-warning title="Quicklinks" icon=false}
-      [Metadata profile]()  
-      [Textbook]()
-      :::
+#      ::: {.callout-warning title="Quicklinks" icon=false}
+#      [Metadata profile]()  
+#      [Textbook]()
+#      :::
 
 resources:
   - CNAME

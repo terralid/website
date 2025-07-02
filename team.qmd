@@ -24,9 +24,9 @@ We are welcoming new members anytime. If you are interested in getting involved,
 :::
 
 ::: {#column-text}
-Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany  
-Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany  
-FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)  
+Institut für Archäologische Wissenschaften, Ruhr-Universität Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/04tsk2644)  
+FIERCE, Frankfurt Isotope & Element Research Centre, Goethe Universität, Frankfurt am Main, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/04cvxnb49)
 
 ```{r echo=FALSE, results='asis'}
 cat(
@@ -51,7 +51,7 @@ cat(
 :::
 
 ::: {#column-text}
-Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany
+Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/033jd5r25)
 
 ```{r echo=FALSE, results='asis'}
 cat(
@@ -75,7 +75,7 @@ cat(
 :::
 
 ::: {#column-text}
-Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
 
 ```{r echo=FALSE, results='asis'}
 cat(
@@ -105,7 +105,7 @@ cat(
 :::
 
 ::: {#column-text}
-Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
 
 ```{r echo=FALSE, results='asis'}
 cat(
@@ -131,7 +131,7 @@ cat(
 :::
 
 ::: {#column-text}
-Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
 
 ```{r echo=FALSE, results='asis'}
 cat(
@@ -156,7 +156,7 @@ cat(
 :::
 
 ::: {#column-text}
-Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
 
 ```{r echo=FALSE, results='asis'}
 cat(
@@ -180,7 +180,7 @@ cat(
 :::
 
 ::: {#column-text}
-Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany
+Forschungsbereich Montanarchäologie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
 
 ```{r echo=FALSE, results='asis'}
 cat(
@@ -203,42 +203,518 @@ cat(
 :::
 
 ::: {#column-text}
-Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany; Ruhr-Universität Bochum, Bochum, Germany
+Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/033jd5r25)   Ruhr-Universität Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/04tsk2644)
 
 :::
 
 :::
 
 ## Regional editors
-* China: [Siran Liu](https://enihmm.ustb.edu.cn/Staff/Academic_Senior_Research_Staff/bde24d0cde654407b9c56f78a81490a9.htm) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9250-4561) (Institute for Cultural Heritage and History of Science & Technology, University of Science and Technology Beijing, China)
-* Southeast Asia: [T. O. Pryce](https://iramat.cnrs.fr/user/oliver.pryce/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
-* South Asia: [Thomas R. Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797) (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
-* India: [Meghna Desai](https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/author/1059-meghna-desai.html) (Science and Technology in Archaeology and Culture Research Center (STARC), The Cyprus Institute, Nicosia, Cyprus) 
-* Iran: [Nima Nezafati](https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X) (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für  Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* Iberian Peninsula: [Sonia García de Madinabeitia](https://www.ehu.eus/bilatu/buscar/seekuser.php?lang=es&u=bnBiZ2FtYXM=) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-3648-6490) (Departamento de Geología, Universidad del País Vasco (UPV/EHU), Bilbao, Spain)
-* North Africa: [Thomas R. Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797) (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
-* South Africa: [Jay Stephens](https://archaeometry.missouri.edu/staff.html) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1299-3946) (School of Anthropology, University of Arizona, Tucson, AZ, USA; Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)
-* North America: [Virginie Renson](https://archaeometry.missouri.edu/profile(Virginie).html) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5701-0985) (Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA)
-* South America: [María Florencia Becerra](https://www.conicet.gov.ar/new_scp/detalle.php?id=29835) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6302-7452) (CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas) - División Arqueología, Museo de La Plata, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata, Argentina)
 
-## Material editors
-* Glass: 
-  * [Laure Dussubieux](https://www.fieldmuseum.org/about/staff/profile/laure-dussubieux) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9334-8131) (Field Museum, Chicago, IL, USA)
-  * [Alicia Van Ham-Meert](https://crea.phisoc.ulb.be/fr/corps-scientifique/van-ham-meert-alicia-1) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6796-3141) (FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium)
-  * [Thomas R. Fenn](https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797) (Department of Anthropology, University of Oklahoma, Norman, OK, USA)
-* Copper items: 
-  * Frederik Rademakers [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-6036-1612) (Department of Scientific Research, British Museum, London, United Kingdom)
-  * [T. O. Pryce](https://iramat.cnrs.fr/user/oliver.pryce/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) (Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France)
-* Coins: [David Wigg-Wolf](https://www.dainst.org/wer-wir-sind/mitarbeitende/noslug/574) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8604-544X) (Römisch-Germanische Kommission des Deutschen Archäologischen Instituts, Frankfurt, Germany)
-* Lead items: [Maxime L'Héritier](https://arscan.parisnanterre.fr/membre/maxime-lheritier/) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3428-2977) (University of Paris 8, Paris, France)
-* Pigments: 
-  * [Alexandra Rodler-Rørbo](https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160) (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)
-  * [Andrea Acevedo Mejía](https://www.oeaw.ac.at/en/oeai/institute/team/person/andrea-acevedo-mejia) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-7441-1737) (Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria)
-* Archaeological materials: [Grzegorz Żabiński](https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306) [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3091-1035) (Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Poland)
+### María Florencia Becerra [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6302-7452) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+CONICET (Consejo Nacional de Investigaciones Científicas  y Técnicas) - División Arqueología, Museo de La Plata, Facultad de Ciencias Naturales y Museo, Universidad Nacional de La Plata, Argentina [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/01tjs6929)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("https://www.conicet.gov.ar/new_scp/mail.php?id=29835&detalle=yes&esprimera=1", "envelope", "fa"),
+  add_Link("https://www.conicet.gov.ar/new_scp/detalle.php?id=29835", "globe", "fa"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for South America
+
+:::
+
+:::
+
+### Meghna Desai
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Science and Technology in Archaeology and Culture Research Center (STARC), The Cyprus Institute, Nicosia, Cyprus [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/01q8k8p90)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:m.desai@cyi.ac.cy", "envelope", "fa"),
+  add_Link("https://www.cyi.ac.cy/index.php/starc/about-the-center/starc-our-people/author/1059-meghna-desai.html", "globe", "fa"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for India
+
+:::
+
+:::
+
+### Thomas R. Fenn [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Department of Anthropology, University of Oklahoma, Norman, OK, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02aqsxs83)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Thomas.Fenn@ou.edu?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn", "globe", "fa"),
+  add_Link("https://ou.academia.edu/ThomasFenn", "academia", "ai"),
+  add_Link("https://www.researchgate.net/profile/Thomas-Fenn", "researchgate", "ai"),
+  add_Link("https://scholar.google.com/citations?user=biK7yyYAAAAJ", "google-scholar", "ai"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for South Asia and North Africa
+
+:::
+
+:::
+
+### Siran Liu [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-9250-4561) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Institute for Cultural Heritage and History of Science & Technology, University of Science and Technology Beijing, China [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02egmk993)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:siran.liu@ustb.edu.cn?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://enihmm.ustb.edu.cn/Staff/Academic_Senior_Research_Staff/bde24d0cde654407b9c56f78a81490a9.htm", "globe", "fa"),
+  add_Link("https://www.researchgate.net/profile/Siran-Liu-4", "researchgate", "ai"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for China
+
+:::
+
+:::
+
+### Nima Nezafati [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5806-343X) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:nima.nezafati@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati", "globe", "fa"),
+  add_Link("https://bergbaumuseum.academia.edu/NimaNezafati", "academia", "ai"),
+  add_Link("http://www.researchgate.net/profile/Nima_Nezafati", "researchgate", "ai"),
+  add_Link("https://ir.linkedin.com/in/nima-nezafati-5a4b5542", "linkedin", "fa brands"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for Iran
+
+:::
+
+:::
+
+### T. O. Pryce [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/01cw28e72)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:oliver.pryce@cnrs.fr?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://iramat.cnrs.fr/user/oliver.pryce/", "globe", "fa"), 
+  add_Link("https://www.researchgate.net/profile/Oliver-Pryce-2", "researchgate", "ai"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for Southeast Asia
+
+:::
+
+:::
+
+### Virginie Renson [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-5701-0985) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02ymw8z06)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:RensonV@missouri.edu?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://archaeometry.missouri.edu/profile(Virginie).html", "globe", "fa"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for North America
+
+:::
+
+:::
+
+### Jay Stephens [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-1299-3946) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02ymw8z06)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:jasvxq@missouri.edu?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://archaeometry.missouri.edu/staff.html", "globe", "fa"), 
+  add_Link("https://www.researchgate.net/profile/Jay-Stephens-2", "researchgate", "ai"),
+  add_Link("https://scholar.google.com/citations?user=vT2uGPUAAAAJ", "google-scholar", "ai"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for Africa
+
+:::
+
+:::
+
+## Material Editors
+
+### Andrea Acevedo Mejía [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0002-7441-1737)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02gqw3a90)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Andrea.AcevedoMejia@oeaw.ac.at?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/andrea-acevedo-mejia", "globe", "fa"),
+  add_Link("https://www.researchgate.net/profile/Andrea_Acevedo_Mejia", "researchgate", "ai"),
+  add_Link("https://www.linkedin.com/in/andrea-acevedo-ru/", "linkedin", "fa brands"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for pigments
+
+:::
+
+:::
+
+### Laure Dussubieux [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-9334-8131)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Field Museum, Chicago, IL, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/00mh9zx15)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:ldussubieux@fieldmuseum.org?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.fieldmuseum.org/about/staff/profile/laure-dussubieux", "globe", "fa"),
+  add_Link("https://scholar.google.com/citations?user=i8wpGuEAAAAJ", "google-scholar", "ai"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for glass
+
+:::
+
+:::
+
+### Thomas R. Fenn [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-8560-6797) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Department of Anthropology, University of Oklahoma, Norman, OK, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02aqsxs83)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Thomas.Fenn@ou.edu?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn", "globe", "fa"),
+  add_Link("https://ou.academia.edu/ThomasFenn", "academia", "ai"),
+  add_Link("https://www.researchgate.net/profile/Thomas-Fenn", "researchgate", "ai"),
+  add_Link("https://scholar.google.com/citations?user=biK7yyYAAAAJ", "google-scholar", "ai"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for glass
+
+:::
+
+:::
+
+### Maxime L'Héritier [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3428-2977)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+University of Paris 8, Paris, France [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/04wez5e68)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:maxime.l_heritier@univ-paris8.fr", "envelope", "fa"),
+  add_Link("https://arscan.parisnanterre.fr/membre/maxime-lheritier/", "globe", "fa"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for lead items
+
+:::
+
+:::
+
+### T. O. Pryce [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/01cw28e72)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:oliver.pryce@cnrs.fr?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://iramat.cnrs.fr/user/oliver.pryce/", "globe", "fa"), 
+  add_Link("https://www.researchgate.net/profile/Oliver-Pryce-2", "researchgate", "ai"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for copper items
+
+:::
+
+:::
+
+### Frederik Rademakers [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-6036-1612)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Department of Scientific Research, British Museum, London, United Kingdom [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/00pbh0a34)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:FRademakers@britishmuseum.org?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler", "globe", "fa"),
+  add_Link("https://www.researchgate.net/profile/Frederik-Rademakers", "researchgate", "ai"),
+  add_Link("https://britishmuseum.academia.edu/FrederikRademakers", "academia", "ai"),
+  add_Link("https://scholar.google.dk/citations?user=Hvugz7oAAAAJ", "google-scholar", "ai"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for copper items
+
+:::
+
+:::
+
+### Alexandra Rodler-Rørbo [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-4087-7160)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02gqw3a90)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Alexandra.Rodler-Roerbo@oeaw.ac.at?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler", "globe", "fa"),
+  add_Link("https://www.researchgate.net/profile/Alexandra-Rodler-Rorbo", "researchgate", "ai"),
+  add_Link("https://scholar.google.dk/citations?user=XHRm-HQAAAAJ", "google-scholar", "ai"),
+  add_Link("https://www.oeaw.ac.at/en/oeai/research/archaeological-sciences/geochemistry-lab", "globe", "fa"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for pigments
+
+:::
+
+:::
+
+### Alicia Van Ham-Meert [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6796-3141)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgium [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/01r9htc13)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:alicia.van.hammeert@ulb.be?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://crea.phisoc.ulb.be/fr/corps-scientifique/van-ham-meert-alicia-1", "globe", "fa"),
+  add_Link("https://www.researchgate.net/profile/Alicia-Van-Ham-Meert", "researchgate", "ai"),
+  add_Link("https://scholar.google.com/citations?user=jglaXPIAAAAJ", "google-scholar", "ai"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for glass
+
+:::
+
+:::
+
+### David Wigg-Wolf [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8604-544X)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Römisch-Germanische Kommission des Deutschen Archäologischen Instituts, Frankfurt, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/01fqayw81)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:david.wigg-wolf@dainst.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://www.dainst.org/wer-wir-sind/mitarbeitende/noslug/574", "globe", "fa"),
+  add_Link("https://www.researchgate.net/profile/David-Wigg-Wolf ", "researchgate", "ai"),
+  add_Link("https://scholar.google.com/citations?hl=en&user=DAcfipMAAAAJ", "google-scholar", "ai"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for coins
+
+:::
+
+:::
+
+### Grzegorz Żabiński [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3091-1035)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Poland [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/0566yhn94)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:g.zabinski@ujd.edu.pl?subject=GlobaLID", "envelope", "fa"),
+  add_Link("https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306", "globe", "fa"),
+  add_Link("https://independent.academia.edu/GrzegorzZabinski", "academia", "ai"),
+  add_Link("https://www.researchgate.net/profile/Grzegorz-Zabinski", "researchgate", "ai"),
+  add_Link("https://scholar.google.com/citations?user=fdK4tLoAAAAJ", "google-scholar", "ai"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for archaeological materials
+
+:::
+
+:::
 
 ## Contributors (Data)
-* Rebekka Elsasser (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
-* Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany)
+* Rebekka Elsasser (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94))
+* Sabine Fischer-Lechner (Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94))
+* Daniel M. Finn [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0000-0953-0006) (The Hebrew University of Jerusalem, Israel [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03qxff017))
 
 ## Partners
 
