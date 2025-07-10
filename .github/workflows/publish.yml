@@ -33,7 +33,7 @@ jobs:
           echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H d-ws164.server.est1816.de >> ~/.ssh/known_hosts
-          ssh -i ~/.ssh/deploy_key deployer@d-ws164.server.est1816.de     
+          ssh -i ~/.ssh/deploy_key gh-terralid-deployer@d-ws164.server.est1816.de ""    
  
       - name: Cleanup
         if: always()
