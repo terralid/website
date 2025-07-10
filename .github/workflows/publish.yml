@@ -27,16 +27,14 @@ jobs:
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Setup SSH
+      - name: Setup SSH and Auto-Deploy
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H d-ws164.server.est1816.de >> ~/.ssh/known_hosts
-      
-      - name: Deploy to Web Server
-        run: |
-          ssh -i ~/.ssh/deploy_key gh-terralid-deployer@d-ws164.server.est1816.de "cd /var/www/html/terralid.org && git fetch origin gh-pages && git reset --hard origin/gh-pages"
+          ssh -i ~/.ssh/deploy_key deployer@d-ws164.server.est1816.de     
+ 
       - name: Cleanup
         if: always()
         run: rm -f ~/.ssh/deploy_key
