@@ -13,9 +13,9 @@ Events organised and hosted by the TerraLID team are listed on our [events page]
 * [NFDI4Objects: 3rd Community Meeting](https://www.nfdi4objects.net/news/n4o_news_20241212-0837/)
 * [Geo4Göttingen](https://www.geo4goettingen2025.de/)
 * [31^st^ Annual Meeting of the European Association of Archaeologists (EAA)](https://www.e-a-a.org/eaa2025/)
-* [Goldschmidt 2025](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi)
 
 ## 2025
+* [Goldschmidt 2025](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi)
 * Archäometrie & Denkmalpflege
 
 ## 2024
