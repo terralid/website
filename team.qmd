@@ -324,7 +324,7 @@ Editor for China
 ::: {layout="[ 15 , 85 ]"}
 
 ::: {#column-image}
-![](assets/favicon/favicon.svg)
+![](assets/team/NNezafati.png)
 :::
 
 ::: {#column-text}
