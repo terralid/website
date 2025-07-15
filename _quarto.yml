@@ -11,13 +11,13 @@ website:
     logo-alt: "TerraLID logo"
     left:
       - text: "  "
-      # - text: "Products"
-      #   menu:
-      #     - href: https://metadata.terralid.org
-      #       text: "Metadata profile"
-      #     - href: https://edu.terralid.org
-      #       text: "Textbook"
-      # - text: "  "  
+      - text: "Products"
+        menu:
+          - href: https://metadata.terralid.org/latest/
+            text: "Metadata profile"
+      #    - href: https://edu.terralid.org
+      #      text: "Textbook"
+      - text: "  "  
       - blog.qmd
       - team.qmd
       - text: "Vision"
@@ -103,10 +103,9 @@ format:
       ::: {.callout-tip title="Contact" icon=false}
       Questions about TerraLID? [TerraLID [at] bergbaumuseum.de](mailto:terralid@bergbaumuseum.de?subject=Info about TerraLID)
       :::
-#      ::: {.callout-warning title="Quicklinks" icon=false}
-#      [Metadata profile]()  
-#      [Textbook]()
-#      :::
+      ::: {.callout-warning title="Quicklinks" icon=false}
+      [Metadata profile](https://metadata.terralid.org/latest/)  
+      :::
     include-in-header:
       - text: |
           <!-- Matomo -->
