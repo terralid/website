@@ -276,7 +276,7 @@ Department of Anthropology, University of Oklahoma, Norman, OK, USA [![](https:/
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Thomas.Fenn@ou.edu?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Thomas.Fenn@ou.edu?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn", "globe", "fa"),
   add_Link("https://ou.academia.edu/ThomasFenn", "academia", "ai"),
   add_Link("https://www.researchgate.net/profile/Thomas-Fenn", "researchgate", "ai"),
@@ -305,7 +305,7 @@ Institute for Cultural Heritage and History of Science & Technology, University 
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:siran.liu@ustb.edu.cn?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:siran.liu@ustb.edu.cn?subject=TerraLID", "envelope", "fa"),
   add_Link("https://enihmm.ustb.edu.cn/Staff/Academic_Senior_Research_Staff/bde24d0cde654407b9c56f78a81490a9.htm", "globe", "fa"),
   add_Link("https://www.researchgate.net/profile/Siran-Liu-4", "researchgate", "ai"),  
   sep = "&nbsp;&nbsp;"
@@ -332,7 +332,7 @@ Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessource
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:nima.nezafati@bergbaumuseum.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:nima.nezafati@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/dr-nima-nezafati", "globe", "fa"),
   add_Link("https://bergbaumuseum.academia.edu/NimaNezafati", "academia", "ai"),
   add_Link("http://www.researchgate.net/profile/Nima_Nezafati", "researchgate", "ai"),
@@ -361,7 +361,7 @@ Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:oliver.pryce@cnrs.fr?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:oliver.pryce@cnrs.fr?subject=TerraLID", "envelope", "fa"),
   add_Link("https://iramat.cnrs.fr/user/oliver.pryce/", "globe", "fa"), 
   add_Link("https://www.researchgate.net/profile/Oliver-Pryce-2", "researchgate", "ai"),
   sep = "&nbsp;&nbsp;"
@@ -388,7 +388,7 @@ Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columb
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:RensonV@missouri.edu?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:RensonV@missouri.edu?subject=TerraLID", "envelope", "fa"),
   add_Link("https://archaeometry.missouri.edu/profile(Virginie).html", "globe", "fa"),  
   sep = "&nbsp;&nbsp;"
 )
@@ -414,7 +414,7 @@ Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columb
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:jasvxq@missouri.edu?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:jasvxq@missouri.edu?subject=TerraLID", "envelope", "fa"),
   add_Link("https://archaeometry.missouri.edu/staff.html", "globe", "fa"), 
   add_Link("https://www.researchgate.net/profile/Jay-Stephens-2", "researchgate", "ai"),
   add_Link("https://scholar.google.com/citations?user=vT2uGPUAAAAJ", "google-scholar", "ai"),
@@ -424,6 +424,33 @@ cat(
 ```
 
 Editor for Africa
+
+:::
+
+:::
+
+### Céline Tomczyk [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0001-6181-5914) 
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur les ArchéoMATériaux, Université Paris-Saclay & CEA/CNRS UMR 3685 NIMBE, 91191 Gif-sur-Yvette, France [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/01cw28e72)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:celine.tomczyk@univ-paris1.fr?subject=TerraLID", "envelope", "fa"),
+  add_Link("https://www.researchgate.net/profile/Celine-Tomczyk", "researchgate", "ai"),
+  add_Link("https://scholar.google.com/citations?user=f0rmlM0AAAAJ", "google-scholar", "ai"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for Southeast Asia
 
 :::
 
@@ -444,7 +471,7 @@ Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Andrea.AcevedoMejia@oeaw.ac.at?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Andrea.AcevedoMejia@oeaw.ac.at?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/andrea-acevedo-mejia", "globe", "fa"),
   add_Link("https://www.researchgate.net/profile/Andrea_Acevedo_Mejia", "researchgate", "ai"),
   add_Link("https://www.linkedin.com/in/andrea-acevedo-ru/", "linkedin", "fa brands"),  
@@ -472,7 +499,7 @@ Field Museum, Chicago, IL, USA [![](https://raw.githubusercontent.com/ror-commun
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:ldussubieux@fieldmuseum.org?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:ldussubieux@fieldmuseum.org?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.fieldmuseum.org/about/staff/profile/laure-dussubieux", "globe", "fa"),
   add_Link("https://scholar.google.com/citations?user=i8wpGuEAAAAJ", "google-scholar", "ai"),  
   sep = "&nbsp;&nbsp;"
@@ -499,7 +526,7 @@ Department of Anthropology, University of Oklahoma, Norman, OK, USA [![](https:/
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Thomas.Fenn@ou.edu?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Thomas.Fenn@ou.edu?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.ou.edu/cas/anthropology/faculty-staff/thomas-fenn", "globe", "fa"),
   add_Link("https://ou.academia.edu/ThomasFenn", "academia", "ai"),
   add_Link("https://www.researchgate.net/profile/Thomas-Fenn", "researchgate", "ai"),
@@ -554,7 +581,7 @@ Centre National de la Recherche Scientifique, UMR 7065 Institut de Recherche sur
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:oliver.pryce@cnrs.fr?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:oliver.pryce@cnrs.fr?subject=TerraLID", "envelope", "fa"),
   add_Link("https://iramat.cnrs.fr/user/oliver.pryce/", "globe", "fa"), 
   add_Link("https://www.researchgate.net/profile/Oliver-Pryce-2", "researchgate", "ai"),
   sep = "&nbsp;&nbsp;"
@@ -581,7 +608,7 @@ Department of Scientific Research, British Museum, London, United Kingdom [![](h
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:FRademakers@britishmuseum.org?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:FRademakers@britishmuseum.org?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler", "globe", "fa"),
   add_Link("https://www.researchgate.net/profile/Frederik-Rademakers", "researchgate", "ai"),
   add_Link("https://britishmuseum.academia.edu/FrederikRademakers", "academia", "ai"),
@@ -610,7 +637,7 @@ Austrian Archaeological Institute, Austrian Academy of Sciences, Vienna, Austria
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:Alexandra.Rodler-Roerbo@oeaw.ac.at?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:Alexandra.Rodler-Roerbo@oeaw.ac.at?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.oeaw.ac.at/en/oeai/institute/team/person/alexandra-rodler", "globe", "fa"),
   add_Link("https://www.researchgate.net/profile/Alexandra-Rodler-Rorbo", "researchgate", "ai"),
   add_Link("https://scholar.google.dk/citations?user=XHRm-HQAAAAJ", "google-scholar", "ai"),
@@ -639,7 +666,7 @@ FNRS researcher CReA-patrimoine and 4MAT, Université Libre de Bruxelles, Belgiu
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:alicia.van.hammeert@ulb.be?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:alicia.van.hammeert@ulb.be?subject=TerraLID", "envelope", "fa"),
   add_Link("https://crea.phisoc.ulb.be/fr/corps-scientifique/van-ham-meert-alicia-1", "globe", "fa"),
   add_Link("https://www.researchgate.net/profile/Alicia-Van-Ham-Meert", "researchgate", "ai"),
   add_Link("https://scholar.google.com/citations?user=jglaXPIAAAAJ", "google-scholar", "ai"),  
@@ -667,7 +694,7 @@ Römisch-Germanische Kommission des Deutschen Archäologischen Instituts, Frankf
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:david.wigg-wolf@dainst.de?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:david.wigg-wolf@dainst.de?subject=TerraLID", "envelope", "fa"),
   add_Link("https://www.dainst.org/wer-wir-sind/mitarbeitende/noslug/574", "globe", "fa"),
   add_Link("https://www.researchgate.net/profile/David-Wigg-Wolf ", "researchgate", "ai"),
   add_Link("https://scholar.google.com/citations?hl=en&user=DAcfipMAAAAJ", "google-scholar", "ai"),  
@@ -695,7 +722,7 @@ Institute of History, Jan Długosz University in Częstochowa, Częstochowa, Pol
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:g.zabinski@ujd.edu.pl?subject=GlobaLID", "envelope", "fa"),
+  add_Link("mailto:g.zabinski@ujd.edu.pl?subject=TerraLID", "envelope", "fa"),
   add_Link("https://usosweb.ujd.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=12306", "globe", "fa"),
   add_Link("https://independent.academia.edu/GrzegorzZabinski", "academia", "ai"),
   add_Link("https://www.researchgate.net/profile/Grzegorz-Zabinski", "researchgate", "ai"),
