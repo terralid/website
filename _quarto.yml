@@ -96,9 +96,9 @@ format:
     template-partials:
       - title-block.html
     margin-header: |
-      ::: {.callout-tip title="TerraLID Mailling list" icon=false}
+      ::: {.callout-tip title="TerraLID Mailing list" icon=false}
       You want to receive about quarterly updates on TerraLID and related topics?  
-      [Subscribe to our mailing list!](https://www.listserv.dfn.de/sympa/subscribe/terralid-news)
+      [Subscribe to our newsletter!](https://www.listserv.dfn.de/sympa/subscribe/terralid-news)
       :::
       ::: {.callout-tip title="Contact" icon=false}
       Questions about TerraLID? [TerraLID [at] bergbaumuseum.de](mailto:terralid@bergbaumuseum.de?subject=Info about TerraLID)
