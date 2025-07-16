@@ -47,7 +47,7 @@ cat(
 ::: {layout="[ 15 , 85 ]"}
 
 ::: {#column-image}
-![](assets/favicon/favicon.svg)
+![](assets/team/HWiethoff.png)
 :::
 
 ::: {#column-text}
