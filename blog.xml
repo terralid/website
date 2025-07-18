@@ -10,7 +10,55 @@
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
 <generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 27 Sep 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Jul 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Your feedback wanted: TerraLID metadata profile</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20250716_metadata-profile.html</link>
+  <description><![CDATA[ The community feedback phase starts today! ]]></description>
+  <guid>https://www.terralid.org/posts/20250716_metadata-profile.html</guid>
+  <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New project website online</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20250715_launch-webpage.html</link>
+  <description><![CDATA[ Welcome terralid.org!   Goodbye archmetaldbm.github.io/Globalid/ ]]></description>
+  <guid>https://www.terralid.org/posts/20250715_launch-webpage.html</guid>
+  <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New publication in Archäologische Informationen 47</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20250307_ArchInf.html</link>
+  <description><![CDATA[ The paper outlines the development of the project and how we integrate the scientific community in the development of TerraLID ]]></description>
+  <guid>https://www.terralid.org/posts/20250307_ArchInf.html</guid>
+  <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>TerraLID at Archäometrie &amp; Denkmalpflege 2025</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20250322_ArchDenk.html</link>
+  <description><![CDATA[ Short conference report ]]></description>
+  <guid>https://www.terralid.org/posts/20250322_ArchDenk.html</guid>
+  <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GlobaLID continues to grow</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20250305_Data2025.html</link>
+  <description><![CDATA[ Data and regions added since the end of 2023 ]]></description>
+  <guid>https://www.terralid.org/posts/20250305_Data2025.html</guid>
+  <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>TerraLID on the road</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20241027_Conferences.html</link>
+  <description><![CDATA[ Spreading the news about TerraLID ]]></description>
+  <guid>https://www.terralid.org/posts/20241027_Conferences.html</guid>
+  <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>RSE training for TerraLID</title>
   <dc:creator>Thomas Rose</dc:creator>
