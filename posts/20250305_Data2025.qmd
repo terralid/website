@@ -1,0 +1,16 @@
+---
+title: "GlobaLID continues to grow"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2025-03-05"
+description: "Data and regions added since the end of 2023"
+
+---
+
+Thanks to the efforts of our [regional editors](../team.qmd#regional-editors), the [core team](../team.qmd#core-team), and our [contributors](../team.qmd#contributors-data), the amount of data in the GlobaLID database continued to grow significantly from 4147 data  points at the end of 2023 to 5589 data points. Beside major revisions and significant additions to already covered data, GlobaLID now includes data from the Alps and Central America. You can find the full list of countries for which data were added on the News page of the [web application](https://globalid.dmt-lb.de/). 
+
+More data is currently reviewed and prepared – stay tuned! 
+
+![Coverage of the GlobaLID database in March 2025.](../assets/blog/Blog_Data2025.png)

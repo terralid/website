@@ -1,0 +1,28 @@
+---
+title: "New publication in Archäologische Informationen 47"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2025-04-11"
+description: "The paper outlines the development of the project and how we integrate the scientific community in the development of TerraLID"
+
+---
+
+Work on the precursors of TerraLID started already in 2018. Since 2020, the project team tries to stay in close connection with the scientific community to make sure that GlobaLID and now TerraLID meets the community's needs and expectations. The publication "[Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID: ein Erfahrungsbericht](https://doi.org/10.11588/ai.2024.1.110402)" outlines the different stages of the project and their development into what is now TerraLID. It further presents the outreach activities of the project, how the results of the needs assessment in October 2021 and the [community workshop in 2023](../events-archive.qmd#many-lids-but-none-matching-the-vessel) shaped the vision and design of TerraLID, and the experiences of the project team from interactions with the scientific community. The article is written in German with the results of the needs assessment published in English as supplementary material. [Read the paper](https://doi.org/10.11588/ai.2024.1.110402)
+
+The paper is published in volume 47 of "[Archäologische Informationen](https://journals.ub.uni-heidelberg.de/index.php/arch-inf/index)", the scientific platinum open access journal of the Deutsche Gesellschaft für Ur- und Frühgeschichte (DGUF). 
+
+*Full citation:* Rose T, Greifelt T, Westner KJ, Hsu Y-K, Klein S (2024) Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID: ein Erfahrungsbericht. Archäologische Informationen 47:177-190. <https://doi.org/10.11588/ai.2024.1.110402>
+
+::: {layout="[ 66 , 34 ]"}
+
+::: {#column-text}
+*English abstract:* The lead isotope method is a central method for reconstructing the raw material origin. The TerraLID project aims to develop the digital research data infrastructure TerraLID, in which lead isotope data are described and stored according to the FAIR principles. As a one-stop portal, TerraLID will also offer options for retrieving, working with, and publishing lead isotope data, and it will develop open educational materials on the method. This project can only succeed if the community is prominently involved in the implementation of TerraLID. Such participation processes already played a central role during in design of TerraLID. During the implementation, the involvement of the community is ensured by a two-stage process in the form of the TerraLID editors as representatives of the community and a public consultation phase. After summarising the development of the project, the various community-oriented formats and processes are presented. Their influence on TerraLID is shown and experiences and insights are discussed. Finally, a comparison with the recommendations of comparable projects shows the successful and effective activation and involvement of the community.
+:::
+
+::: {#column-image}
+![Cover of Archäologische Informationen volume 47.](https://journals.ub.uni-heidelberg.de/public/journals/66/cover_issue_7320_de_DE.jpg)
+:::
+
+:::

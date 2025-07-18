@@ -1,0 +1,19 @@
+---
+title: "New project website online"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2025-07-15"
+description: 'Welcome terralid.org! <br> Goodbye archmetaldbm.github.io/Globalid/'
+
+
+---
+
+About a year ago, we announced the [renaming of GlobaLID to TerraLID](20240414_Kick-off.qmd). Today, we are delighted to announce the launch of our new website [terralid.org](https://www.terralid.org/) and of our [newsletter](https://www.listserv.dfn.de/sympa/subscribe/terralid-news) with about quarterly updates. 
+
+The new website provides more information about TerraLID and serves as the central access point for all existing and future outcomes of GlobaLID and TerraLID. Blog posts from the [GlobaLID webpage](https://archmetaldbm.github.io/Globalid/) were moved to terralid.org to give a full overview of activities in the project. 
+
+If you subscribed to the old blog via RSS, please don't forget to update the address of the RSS feed to <https://terralid.org/blog.xml>. 
+
+We will continue to add new data to the GlobaLID [database](https://github.com/archmetalDBM/GlobaLID-database) and [web application](https://globalid.dmt-lb.de/) and maintain them. However, the [GlobaLID webpage](https://archmetaldbm.github.io/Globalid/) will not receive updates any more but remains online for archival reasons. 

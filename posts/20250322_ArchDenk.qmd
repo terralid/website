@@ -1,0 +1,25 @@
+---
+title: "TerraLID at Archäometrie & Denkmalpflege 2025"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2025-03-22"
+description: "Short conference report"
+
+---
+
+The bi-annual conference series Archäometrie & Denkmalpflege is the major meeting of the German archaeological science community. It is organised by one of three associations representing the archaeological sciences in Germany in turns. This year's edition (18 to 22 March) was hosted by the Dresden University of Fine Arts and organised by the Working Group Archaeometry of the Gesellschaft Deutscher Chemiker with support from the Gesellschaft für Naturwissenschaftliche Archäologie ARCHÄOMETRIE and the working group Archaeometry & Heritage Sciences of the German Mineralogical Society. 
+
+::: {layout-ncol=2}
+
+::: {#column-text}
+The conference is always a great opportunity to gain insights into the latest advances of analytical methods to all types of cultural heritage. After presenting our vision for GlobaLID at the 2023 edition, shortly after the successful [community workshop](../events-archive.qmd#many-lids-but-none-matching-the-vessel), the presentation this year focused on the components of TerraLID and included a first glance on the structure of the [TerraLID metadata profile](https://metadata.terralid.org/latest/). In contrast to the previous edition, this year's conference programme featured several other databases and software tools, showing the increasing relevance of them in the field. 
+:::
+
+::: {#column-image}
+![Thomas Rose answering questions after presenting TerraLID.](../assets/blog/AuD2025.jpg){fig-alt="A person standing in the lecture hall in front the projection of a powerpoint presentation." group="my-gallery"}
+:::
+
+:::
+

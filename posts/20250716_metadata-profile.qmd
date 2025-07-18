@@ -1,0 +1,31 @@
+---
+title: "Your feedback wanted: TerraLID metadata profile"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2025-07-16"
+description: "The community feedback phase starts today!"
+
+---
+
+::: {layout="[ 50 , 50 ]"}
+
+::: {#column-text}
+The initial draft of the TerraLID metadata profile is out now and we are very much looking forward to your feedback. 
+
+The [TerraLID team](../team.qmd) worked hard to develop a metadata profile that optimises lead isotope data for future reuse while being sufficiently flexible to be applicable for data with very few metadata. The second major aim of the TerraLID metadata profile is to store the recorded information as efficient as possible while making it easy to expand the metadata profile later. As a result, the metadata profile is subdivided into modules which are linked through one-to-many relationships. You can learn more about its structure and which information we included, in the [documentation of the TerraLID metadata profile](https://metadata.terralid.org/latest/). 
+
+The metadata profile is the foundation for the TerraLID database, from where data can be accessed and downloaded via web application or API. 
+
+:::
+
+::: {#column-image}
+![The general structure of the TerraLID metadata profile, highlighting the different modules and their relation to each other. Icons taken from [Font Awesome Free](https://fontawesome.com/search?ic=free), owned by Fonticons, Inc. and licensed under [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/).](../assets/blog/Metadata_design.png){fig-alt="..."} 
+:::
+
+:::
+
+Now it is your turn! While the TerraLID Editors already represent a very broad expertise, we are aware that the [metadata profile](https://metadata.terralid.org/latest/) might not be as universally applicable as we intend. Therefore, your feedback and input are invaluable to us and we are very much looking forward to your comments and discussing with you. 
+
+We prepared a [GoogleDoc](https://docs.google.com/document/d/1_Fixjrs8GvNSleWrBjAwYok4b28-Bf52ZzggZAykSTk/edit?usp=sharing) to collect your comments and will be available for discussion in a series of drop-in calls. All details and the schedule of the drop-in calls can be found on the [webpage of the TerraLID metadata profile](https://metadata.terralid.org/latest/). We will collect your feedback until 15 October. Afterwards, the metadata profile will be revised accordingly and published as a citable version.
