@@ -568,6 +568,35 @@ Editor for lead items
 
 :::
 
+### Regine Müller [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0007-5815-4116)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+SPAU GmbH  
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:mueller@spau-gmbh.de?subject=TerraLID", "envelope", "fa"),
+  add_Link("https://spau-gmbh.de/member/dr-regine-mueller/", "globe", "fa"),
+  add_Link("https://uni-frankfurt.academia.edu/RegineM%C3%BCller", "academia", "ai"),
+  add_Link("https://www.researchgate.net/profile/Regine-Mueller-3", "researchgate", "ai"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for archaeological materials
+
+:::
+
+:::
+
 ### T. O. Pryce [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-7290-141X) 
 
 ::: {layout="[ 15 , 85 ]"}
