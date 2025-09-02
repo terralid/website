@@ -463,7 +463,7 @@ Editor for Southeast Asia
 ::: {layout="[ 15 , 85 ]"}
 
 ::: {#column-image}
-![](assets/favicon/favicon.svg)
+![](assets/team/AAcevedo.png)
 :::
 
 ::: {#column-text}
