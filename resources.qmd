@@ -7,12 +7,15 @@ title: "Resources"
 <!-- ## Metadata profile -->
 
 ## Database
-* Most recent version: <https://github.com/archmetalDBM/GlobaLID-database>
-* Westner KJ, Rose T, Klein S, Hsu Y-K, Becerra MF, Nezafati N, Renson V, Stephens JA (2023) GlobaLID – Global Lead Isotope Database V. 1.1. <https://doi.org/10.5880/fidgeo.2023.043>
+* Most recent version: [View on GitHub](https://github.com/archmetalDBM/GlobaLID-database) | [View in Web application](https://globalid.dmt-lb.de/)
+* Westner KJ, Rose T, Klein S, Hsu Y-K, Becerra MF, Nezafati N, Renson V, Stephens JA (2023) GlobaLID – Global Lead Isotope Database (Version 08/2025). GFZ Data Services. <https://doi.org/10.5880/fidgeo.2025.080>
+* Westner KJ, Rose T, Klein S, Hsu Y-K, Becerra MF, Nezafati N, Renson V, Stephens JA (2023) GlobaLID – Global Lead Isotope Database (Version 12/2023). GFZ Data Services. <https://doi.org/10.5880/fidgeo.2023.043>
 * Westner KJ, Rose T, Klein S, Hsu Y-K (2021) GlobaLID – Global Lead Isotope Database: V. 1.0. <https://doi.org/10.5880/fidgeo.2021.031>
 
 ## Web application
-* GlobaLID Core Team (2021) GlobaLID web application: V. 1.0, database status: 04 March 2025. ([live version](https://globalid.dmt-lb.de/) | [source code](https://github.com/archmetalDBM/GlobaLID-App))
+* Most recent version: [Live version](https://globalid.dmt-lb.de/) | [Source code](https://github.com/archmetalDBM/GlobaLID-App).
+* GlobaLID Core Team (2025) GlobaLID web application: V. 1.1 ([view on GitHub](https://github.com/archmetalDBM/GlobaLID-App/tree/v1.1)). 
+* GlobaLID Core Team (2021) GlobaLID web application: V. 1.0 ([view on GitHub](https://github.com/archmetalDBM/GlobaLID-App/tree/v1.0)). 
 * Video tutorial for the web application: [Watch on YouTube](https://www.youtube.com/watch?v=qwKStMc-068)
 
 ## Textbook
