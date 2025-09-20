@@ -2,11 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.34">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-09-02">
+<meta name="dcterms.date" content="2025-09-20">
 
 <title>News</title>
 <style>
@@ -36,14 +36,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-c8ad9e5dbd60b7b70b38521ab19b7da4.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8f2e54df5cdfef852f91ee940dd4815c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-7994a77a88051f1d74b99bcdd1d6f90e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -133,7 +134,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -160,7 +161,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/TerraLID_logo_word_white.png" alt="TerraLID logo" class="navbar-logo">
+    <img src="./assets/TerraLID_logo_word_white.png" alt="TerraLID logo" class="navbar-logo light-content">
+    <img src="./assets/TerraLID_logo_word_white.png" alt="TerraLID logo" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -286,7 +288,7 @@ window.Quarto = {
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-TerraLID Newsletter
+<span class="screen-reader-only">Tip</span>TerraLID Newsletter
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -300,7 +302,7 @@ TerraLID Newsletter
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Contact
+<span class="screen-reader-only">Tip</span>Contact
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -318,7 +320,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#84
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Quicklinks
+<span class="screen-reader-only">Warning</span>Quicklinks
 </div>
 </div>
 <div class="callout-body-container callout-body">
@@ -342,7 +344,32 @@ Quicklinks
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1752624000000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1758153600000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="132">
+<div class="thumbnail"><a href="./posts/20240104_Data2023.html" class="no-external">
+
+<img loading="lazy" src="./assets/blog/Blog_Data2023.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/20240104_Data2023.html" class="no-external">GlobaLID database archive updated</a>
+</h3>
+<div class="delink listing-description"><a href="./posts/20240104_Data2023.html" class="no-external">
+<p>New archived version of the GlobaLID database</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/20240104_Data2023.html" class="no-external">
+<div class="listing-date">
+Sep 18, 2025
+</div>
+<div class="listing-author">
+Thomas Rose
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1752624000000" data-listing-file-modified-sort="1758360260198" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
 <div class="thumbnail"><a href="./posts/20250716_metadata-profile.html" class="no-external">
 
 <p class="card-img-top"><img src="assets/blog/Metadata_design.png" alt="..."  class="thumbnail-image card-img"/></p>
@@ -367,7 +394,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1752537600000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1752537600000" data-listing-file-modified-sort="1758360260198" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
 <div class="thumbnail"><a href="./posts/20250715_launch-webpage.html" class="no-external">
 
 <p class="card-img-top"><img src="./assets/favicon/favicon.svg"  class="thumbnail-image card-img"/></p>
@@ -392,7 +419,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1744329600000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="372">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1744329600000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="372">
 <div class="thumbnail"><a href="./posts/20250307_ArchInf.html" class="no-external">
 
 <p class="card-img-top"><img src="https://journals.ub.uni-heidelberg.de/public/journals/66/cover_issue_7320_de_DE.jpg" alt="Cover of Archäologische Informationen volume 47."  class="thumbnail-image card-img"/></p>
@@ -417,7 +444,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1742601600000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="196">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1742601600000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="196">
 <div class="thumbnail"><a href="./posts/20250322_ArchDenk.html" class="no-external">
 
 <p class="card-img-top"><img src="assets/blog/AuD2025.jpg" alt="A person standing in the lecture hall in front the projection of a powerpoint presentation."  class="thumbnail-image card-img"/></p>
@@ -442,7 +469,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1741132800000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1741132800000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
 <div class="thumbnail"><a href="./posts/20250305_Data2025.html" class="no-external">
 
 <p class="card-img-top"><img src="assets/blog/Blog_Data2025.png" alt="Coverage of the GlobaLID database in March 2025."  class="thumbnail-image card-img"/></p>
@@ -467,7 +494,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1729987200000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="906">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1729987200000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="906">
 <div class="thumbnail"><a href="./posts/20241027_Conferences.html" class="no-external">
 
 <p class="card-img-top"><img src="assets/blog/SFE_Cameroon1.jpg" alt="A person standing in the lecture hall in front the projection of a powerpoint presentation."  class="thumbnail-image card-img"/></p>
@@ -492,7 +519,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1727395200000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1727395200000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="205">
 <div class="thumbnail"><a href="./posts/20240927_RSE-SummerSchool.html" class="no-external">
 
 <img loading="lazy" src="./assets/blog/rse-summer-school.png" class="thumbnail-image">
@@ -517,7 +544,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1721001600000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1721001600000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
 <div class="thumbnail"><a href="./posts/20240715_CoPArchaeology.html" class="no-external">
 
 <p class="card-img-top"><img src="./assets/favicon/favicon.svg"  class="thumbnail-image card-img"/></p>
@@ -542,7 +569,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1718409600000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="372">
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1718409600000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="372">
 <div class="thumbnail"><a href="./posts/20240615_AiE-report.html" class="no-external">
 
 <img loading="lazy" src="./assets/blog/AIE2024_poster.jpg" class="thumbnail-image">
@@ -567,7 +594,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1717632000000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1717632000000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
 <div class="thumbnail"><a href="./posts/20240606_Kick-off.html" class="no-external">
 
 <p class="card-img-top"><img src="./assets/favicon/favicon.svg"  class="thumbnail-image card-img"/></p>
@@ -592,7 +619,7 @@ Tim Greifelt
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1713052800000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
+<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1713052800000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
 <div class="thumbnail"><a href="./posts/20240414_Kick-off.html" class="no-external">
 
 <p class="card-img-top"><img src="./assets/favicon/favicon.svg"  class="thumbnail-image card-img"/></p>
@@ -617,7 +644,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1709251200000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
+<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1709251200000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="105">
 <div class="thumbnail"><a href="./posts/20240301_DataPub.html" class="no-external">
 
 <img loading="lazy" src="./assets/blog/Blog_Data2023.png" class="thumbnail-image">
@@ -642,7 +669,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1707955200000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
+<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1707955200000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
 <div class="thumbnail"><a href="./posts/20240215_KickOff.html" class="no-external">
 
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" class="thumbnail-image">
@@ -667,22 +694,22 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1704326400000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
-<div class="thumbnail"><a href="./posts/20240104_Data2023.html" class="no-external">
+<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1704326400000" data-listing-file-modified-sort="1758360260198" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<div class="thumbnail"><a href="./posts/20250918_Data2025.html" class="no-external">
 
 <img loading="lazy" src="./assets/blog/Blog_Data2023.png" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./posts/20240104_Data2023.html" class="no-external">New data online in 2023</a>
+<a href="./posts/20250918_Data2025.html" class="no-external">New data online in 2023</a>
 </h3>
-<div class="delink listing-description"><a href="./posts/20240104_Data2023.html" class="no-external">
+<div class="delink listing-description"><a href="./posts/20250918_Data2025.html" class="no-external">
 <p>Growth of the GlobaLID database in 2023</p>
 </a></div>
 </div>
 <div class="metadata">
-<a href="./posts/20240104_Data2023.html" class="no-external">
+<a href="./posts/20250918_Data2025.html" class="no-external">
 <div class="listing-date">
 Jan 4, 2024
 </div>
@@ -692,7 +719,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1702598400000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="177">
+<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1702598400000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="177">
 <div class="thumbnail"><a href="./posts/20231215_Textbook.html" class="no-external">
 
 <img loading="lazy" src="./assets/blog/pxhere.com_799419_CCO.jpg" class="thumbnail-image">
@@ -717,7 +744,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1698883200000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="697">
+<div class="quarto-post image-right" data-index="16" data-listing-date-sort="1698883200000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="697">
 <div class="thumbnail"><a href="./posts/20231102_Workshop.html" class="no-external">
 
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" class="thumbnail-image">
@@ -742,7 +769,7 @@ Jay Stephens, Virginie Renson
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-listing-date-sort="1692748800000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
+<div class="quarto-post image-right" data-index="17" data-listing-date-sort="1692748800000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
 <div class="thumbnail"><a href="./posts/20230823_Funding.html" class="no-external">
 
 <img loading="lazy" src="./assets/blog/pxhere.com_1058395_CCO.jpg" class="thumbnail-image">
@@ -767,7 +794,7 @@ Thomas Rose, Sabine Klein, Helge Wiethoff
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-listing-date-sort="1692489600000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="326">
+<div class="quarto-post image-right" data-index="18" data-listing-date-sort="1692489600000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="326">
 <div class="thumbnail"><a href="./posts/20230820_RegEd.html" class="no-external">
 
 <img loading="lazy" src="./assets/blog/globalid-logo.svg" class="thumbnail-image">
@@ -792,7 +819,7 @@ María Florencia Becerra, Katrin J. Westner
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-listing-date-sort="1690675200000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="399">
+<div class="quarto-post image-right" data-index="19" data-listing-date-sort="1690675200000" data-listing-file-modified-sort="1758360260197" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="399">
 <div class="thumbnail"><a href="./posts/20230730_NADAC.html" class="no-external">
 
 <img loading="lazy" src="https://alexandriaarchive.org/wp-content/uploads/2023/08/Leigh_NADAC_11-scaled.jpg" class="thumbnail-image">
@@ -817,7 +844,7 @@ Thomas Rose
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-listing-date-sort="1679270400000" data-listing-file-modified-sort="1756813258255" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<div class="quarto-post image-right" data-index="20" data-listing-date-sort="1679270400000" data-listing-file-modified-sort="1758360260198" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
 <div class="thumbnail"><a href="./posts/first post.html" class="no-external">
 
 <img loading="lazy" src="./assets/blog/globalid-logo.svg" class="thumbnail-image">
@@ -896,13 +923,14 @@ Thomas Rose
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -1253,7 +1281,7 @@ Thomas Rose
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Last updated: September 2, 2025 <br> <a href="./about.html">Legal information</a> <br> <br> Built with <a href="https://quarto.org/">Quarto</a>.</p>
+<p>Last updated: September 20, 2025 <br> <a href="./about.html">Legal information</a> <br> <br> Built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>   
     <div class="nav-footer-center">
 <p>Coordinated and hosted by:</p>

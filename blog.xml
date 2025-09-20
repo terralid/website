@@ -9,8 +9,17 @@
 <link>https://www.terralid.org/blog.html</link>
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
-<generator>quarto-1.7.34</generator>
-<lastBuildDate>Wed, 16 Jul 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Thu, 18 Sep 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>GlobaLID database archive updated</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20240104_Data2023.html</link>
+  <description><![CDATA[ New archived version of the GlobaLID database ]]></description>
+  <guid>https://www.terralid.org/posts/20240104_Data2023.html</guid>
+  <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://www.terralid.org/assets/blog/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
 <item>
   <title>Your feedback wanted: TerraLID metadata profile</title>
   <dc:creator>Thomas Rose</dc:creator>
@@ -122,9 +131,9 @@
 <item>
   <title>New data online in 2023</title>
   <dc:creator>Thomas Rose</dc:creator>
-  <link>https://www.terralid.org/posts/20240104_Data2023.html</link>
+  <link>https://www.terralid.org/posts/20250918_Data2025.html</link>
   <description><![CDATA[ Growth of the GlobaLID database in 2023 ]]></description>
-  <guid>https://www.terralid.org/posts/20240104_Data2023.html</guid>
+  <guid>https://www.terralid.org/posts/20250918_Data2025.html</guid>
   <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
   <media:content url="https://www.terralid.org/assets/blog/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
 </item>
@@ -176,15 +185,6 @@
   <guid>https://www.terralid.org/posts/20230730_NADAC.html</guid>
   <pubDate>Sun, 30 Jul 2023 00:00:00 GMT</pubDate>
   <media:content url="https://alexandriaarchive.org/wp-content/uploads/2023/08/Leigh_NADAC_11-scaled.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Hello, world!</title>
-  <dc:creator>Thomas Rose</dc:creator>
-  <link>https://www.terralid.org/posts/first post.html</link>
-  <description><![CDATA[ New project webpage online ]]></description>
-  <guid>https://www.terralid.org/posts/first post.html</guid>
-  <pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/globalid-logo.svg" medium="image" type="image/svg+xml"/>
 </item>
 </channel>
 </rss>
