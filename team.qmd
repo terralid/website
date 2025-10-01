@@ -410,12 +410,12 @@ Editor for North America
 :::
 
 ::: {#column-text}
-Archaeometry Laboratory, Research Reactor Center, University of Missouri, Columbia, MO, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02ymw8z06)
+Institute for the Study of the Ancient World, New York University, NY, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/0190ak572)
 
 ```{r echo=FALSE, results='asis'}
 cat(
-  add_Link("mailto:jasvxq@missouri.edu?subject=TerraLID", "envelope", "fa"),
-  add_Link("https://archaeometry.missouri.edu/staff.html", "globe", "fa"), 
+  add_Link("mailto:js15759@nyu.edu?subject=TerraLID", "envelope", "fa"),
+  add_Link("https://isaw.nyu.edu/people/visiting-research-scholars/jay-stephens", "globe", "fa"), 
   add_Link("https://www.researchgate.net/profile/Jay-Stephens-2", "researchgate", "ai"),
   add_Link("https://scholar.google.com/citations?user=vT2uGPUAAAAJ", "google-scholar", "ai"),
   sep = "&nbsp;&nbsp;"
