@@ -237,6 +237,32 @@ Editor for South America
 
 :::
 
+### Braden Cordivari [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-8411-4894)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Institute for the Study of the Ancient World, New York University, NY, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/0190ak572)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:bwc2354@nyu.edu?subject=TerraLID", "envelope", "fa"),
+  add_Link("https://isaw.nyu.edu/people/students/braden-cordivari", "globe", "fa"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for Anatolia, Caucasus and Cyprus
+
+:::
+
+:::
+
 ### Meghna Desai
 
 ::: {layout="[ 15 , 85 ]"}
