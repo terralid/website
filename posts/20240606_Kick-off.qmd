@@ -6,6 +6,7 @@ author:
     orcid: 0009-0007-9701-8547
 date: "2024-06-06"
 description: "A short report"
+image: "../assets/blog/Kick-off_Snapshot.jpg"
 
 ---
 
@@ -15,6 +16,6 @@ On 14 May, our kick-off meeting took place online to present the progress and th
 
 The meeting was a complete success and there was a lot of positive feedback. It was nice to see how much interest there is in TerraLID from the community. 
 
-If you missed the kick-off meeting but would have liked to attend, <!-- you can watch the recorded meeting below --> the recording will become available here soon. 
+You missed the kick-off meeting but would have liked to attend? [Watch the recorded meeting on the TIB AV-Portal](https://doi.org/10.5446/71980). 
 
 If you have any questions and/or comments, please send us an [e-mail](mailto:terralid@bergbaumuseum.de). We look forward to hearing from you. 
