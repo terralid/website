@@ -1,16 +1,16 @@
 ---
-title: "GlobaLID database archive updated"
+title: "New data online in 2023"
 
 author: 
   - name: Thomas Rose
     orcid: 0000-0002-8186-3566
-date: "2025-09-18"
-description: "New archived version of the GlobaLID database"
+date: "2024-01-04"
+description: "Growth of the GlobaLID database in 2023"
 image: "../assets/blog/Blog_Data2023.png"
 ---
 
-A new archived and citable version of the database is now available ([doi:10.5880/fidgeo.2025.080](https://doi.org/10.5880/fidgeo.2025.080). Thanks to the efforts of our [regional editors](../team.qmd#regional-editors) and the [GlobaLID Core Team](../team.qmd#core-team), the amount of data in the GlobaLID database continues to grow. The new archived version represents the state in August 2025, with more than 5700 data points. Since our [last update](20250305_Data2025.qmd), we further increased coverage for many regions. Compared to the previous archived version, the growth is even more impressive with more than 1500 new data points and increased consistency in the metadata of many existing ones. You can find a full list of countries for which data were added on the News page of the [web application](https://globalid.dmt-lb.de/). 
+Thanks to the efforts of our [regional editors](../team.qmd#regional-editors) and the [GlobaLID Core Team](../team.qmd#core-team), the amount of data in the GlobaLID database grew significantly: from 2700 data points at the end of 2022 to more than 4100 data points. Our spatial coverage also increased with data from Sub-Saharan Africa and South America. You can find a full list of countries for which data were added on the News page of the [web application](https://globalid.dmt-lb.de/). 
 
 More data is currently reviewed and prepared – stay tuned! 
 
-![Coverage of the GlobaLID database in August 2025.](../assets/blog/Blog_Data2025-2.png)
+![Coverage of the GlobaLID database end of 2023.](../assets/blog/Blog_Data2023.png)
