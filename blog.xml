@@ -10,7 +10,15 @@
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Thu, 18 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>We are hiring!</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20251201_JobOffer.html</link>
+  <description><![CDATA[ Frontend/Backend developer (12 months, 100%, Post-doc equivalent) ]]></description>
+  <guid>https://www.terralid.org/posts/20251201_JobOffer.html</guid>
+  <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>GlobaLID database archive updated</title>
   <dc:creator>Thomas Rose</dc:creator>
@@ -177,15 +185,6 @@
   <guid>https://www.terralid.org/posts/20230820_RegEd.html</guid>
   <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
   <media:content url="https://www.terralid.org/assets/blog/globalid-logo.svg" medium="image" type="image/svg+xml"/>
-</item>
-<item>
-  <title>GlobaLID at the NADAC summer school in Berkeley, CA (USA)</title>
-  <dc:creator>Thomas Rose</dc:creator>
-  <link>https://www.terralid.org/posts/20230730_NADAC.html</link>
-  <description><![CDATA[ A short report about the NADAC summer school ]]></description>
-  <guid>https://www.terralid.org/posts/20230730_NADAC.html</guid>
-  <pubDate>Sun, 30 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://alexandriaarchive.org/wp-content/uploads/2023/08/Leigh_NADAC_11-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
