@@ -1,0 +1,19 @@
+---
+title: "We are hiring!"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2025-12-01"
+description: "Frontend/Backend developer (12 months, 100%, Post-doc equivalent)"
+
+---
+
+We are looking for a candidate that develops the TerraLID webapplications: <https://karriere.bergbaumuseum.de/jobposting/debc3d9756c11be56e1e280ca83d1d498c50fb1f0?ref=homepage>  
+
+Key information: 
+
+* Location: DBM, Bochum (home office possible)
+* Duration: 12 month
+* Salary: Post-Doc equivalent (comparable to TV-L E13)
+* Contact: [Sabine Klein](mailto:sabine.klein@bergbaumuseum.de)
