@@ -1,5 +1,5 @@
 ---
-title: 'TerraLID Summer School <br> "Lead Isotopes in Archaeology"'
+title: 'TerraLID Summer School: <br> "Lead Isotopes in Archaeology"'
 ---
 
 ::: {.callout-note}
@@ -12,18 +12,17 @@ title: 'TerraLID Summer School <br> "Lead Isotopes in Archaeology"'
 **### ##^th^ -- ##^th^** -- Summer School in Bochum  
 :::
 
-The TerraLID Summer School offers a comprehensive introduction into the analysis, processing, and management of lead isotope data and how they help us to better understand our past. Participants have the opportunity to learn from and discuss with leading international experts and to work in groups guided by the instructors on their own or prepared datasets. 
-
+The TerraLID Summer School will be held from ## ## to ##, 2026 at the Deutsches Bergbau-Museum Bochum (German Mining Museum Bochum, Germany). International leading experts will offer a comprehensive introduction into the analysis, processing, and management of lead isotope data and how they help us to better understand our past through lectures and discussions. Participants have the opportunity to work in groups guided by the instructors on their own or prepared datasets. 
 
 ## Participation
-The Summer School offers a maximum of 30 spots for participants. In case that more registrations than spots are available, precedence will be given to participants from regions underrepresented in the lead isotope community and early career researchers (PhD students and PostDocs). 
+The Summer School is limited to 30 participants. In case that more registrations than spots are available, precedence will be given to participants from regions underrepresented in the lead isotope community and to early career researchers (PhD students and PostDocs). 
 
 Participation is free of charge. Lunches and coffee breaks will be provided. 
 
 ## Travel Awards
 The summer school offers 10 travel awards of **##** € each. Applicants must provide a CV and a motivational statement about how the Summer School contributes to the overall (intended) research of the participants. The selection process will prioritise applicants from countries listed as [low- and low-middle income economies by the Worldbank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups).  
 
-## Programme
+## Program
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
