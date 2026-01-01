@@ -1,9 +1,66 @@
 ---
-title: "Current"
+title: 'TerraLID Summer School <br> "Lead Isotopes in Archaeology"'
 ---
 
+::: {.callout-note}
+## Key dates
+**January 15^th^** -- [Registration]() opens  
+**February 15^th^** -- [Registration]() closes  
+**March 1^st^** -- Notification of Participants incl. decision on travel awards   
+**August 1^st^** -- Detailed programme available
+**September 1^st^** -- Info mail with last organisational details  
+**### ##^th^ -- ##^th^** -- Summer School in Bochum  
+:::
+
+The TerraLID Summer School offers a comprehensive introduction into the analysis, processing, and management of lead isotope data and how they help us to better understand our past. Participants have the opportunity to learn from and discuss with leading international experts and to work in groups guided by the instructors on their own or prepared datasets. 
+
+
+## Participation
+The Summer School offers a maximum of 30 spots for participants. In case that more registrations than spots are available, precedence will be given to participants from regions underrepresented in the lead isotope community and early career researchers (PhD students and PostDocs). 
+
+Participation is free of charge. Lunches and coffee breaks will be provided. 
+
+## Travel Awards
+The summer school offers 10 travel awards of **##** € each. Applicants must provide a CV and a motivational statement about how the Summer School contributes to the overall (intended) research of the participants. The selection process will prioritise applicants from countries listed as [low- and low-middle income economies by the Worldbank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups).  
+
+## Programme
+
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| Get together | Analytical methods <br><br> Lab tour| Research Data Management | Group work: Case studies | Presentation of group work <br><br> Wrap-up & Farewell|
+|||*Lunch*||||
+| Ore-forming processes <br><br> Metallurgical processes | Processing and interpretation of Pb isotope data | Research Data Management (ctd.) | Group work: Case studies (ctd.) | optional: Museum visit |
+| Welcome Reception | | Dinner | | |
+
+## How to get to the venue
+The workshop is hosted at the Haus der Archäologien, Am Bergbaumuseum 31, 44791 Bochum, Germany (see location on [GoogleMaps](https://maps.app.goo.gl/gRzJ16qabJxCHSHU9) and [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.489578&mlon=7.217009#map=19/51.489578/7.217009)). 
+
+### Travelling to Bochum
+Airports close to Bochum are Düsseldorf (DUS), Köln-Bonn (CGN) and Dortmund (DTM). Many regional and long-distance train lines are calling at Bochum Central Station. The webpage of the Deutsche Bahn [bahn.de](https://int.bahn.de/en) and their app [DB Navigator](https://int.bahn.de/en/booking-information/db-navigator) provide a convenient way to search for train connections to/from Bochum. Bochum is also well-connected by long-distance buses operated by [FlixBus](https://www.flixbus.de/). 
+
+### Getting to the venue 
+
+#### By public transport
+The closest stop to the venue is "Deutsches Bergbaumuseum" served by the U35. From Bochum Central Station, take the U35 heading to "Herne Strünkede" or "Riemke Markt" for two stops. Please look for additional connections within Bochum on [vrr.de](https://www.vrr.de/en/), [bahn.de](https://int.bahn.de/en) or use the [DB Navigator](https://int.bahn.de/en/booking-information/db-navigator). 
+
+#### By car
+Bochum is served by several motorways and we kindly ask you to use the trip planner or navigation service of your choice to find the best route for you. Please note that the venue does not offer parking space for participants. If you are a person with reduced mobility, please reach out to us and we will arrange access to the staff parking area for you.  
+
+## Code of conduct
+Participants of the Summer School agree to conduct themselves in a professional and appropriate manner and to ensure that all can enjoy a harassment-free event. The workshop organisers are dedicated to maintaining an inclusive, respectful, safe, friendly, and welcoming environment for all participants.
+
+We do not tolerate disruptive or disrespectful behaviour, personal messages, images, or interactions by any participant, in any form, at any aspect of the program including business and social activities.
+
+Photography, video, recording or screen-captures of session content or presentations in any format are prohibited unless this right is granted on the slides of the respective presentation. We encourage everyone to assist in creating a welcoming and safe environment.
+
+If a participant engages in harassing behaviour, the event organisers may take any action they deem appropriate, including warning the offender and/or expulsion from the event. If you are being harassed, if you notice that someone else is being harassed, or have any other concerns, please contact one of the organisers immediately.
+
+We value your attendance and want the Summer School to be a safe place for everybody.
+
+
+<!-- 
 The TerraLID Team organises events and workshops to involve the entire community in the process. You can read about past events in the [archive](events-archive.qmd).
 
 A new event will be announced soon. Stay tuned by reading our [blog](blog.qmd) or subscribing to our [newsletter](https://www.listserv.dfn.de/sympa/subscribe/terralid-news). 
 
-
+-->
