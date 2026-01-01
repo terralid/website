@@ -25,6 +25,7 @@ title: "Resources"
 
 
 ## Publications
+* Rose T, Westner KJ, Greifelt T, Hornschuch A, Hsu Y-K, Wiethoff H, Klein S (2025) Aus GlobaLID wird TerraLID: Erster Zwischenbericht. Metalla:22–24. <https://doi.org/10.46586/metalla.v.2025.i13>
 * Rose T, Greifelt T, Westner KJ, Hsu Y-K, Klein S (2024) Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID: ein Erfahrungsbericht. Archäologische Informationen 47:177-190. <https://doi.org/10.11588/ai.2024.1.110402>
 * Klein S, Rose T, Westner KJ, Hsu Y-K (2022) From OXALID to GlobaLID: Introducing a modern and FAIR lead isotope database with an interactive application. Archaeometry 64:935–950. <https://doi.org/10.1111/arcm.12762>
 * Rose T, Klein S, Hsu Y-K, Westner KJ (2022) GlobaLID: A new database and interactive web tool for provenancing archaeological metals. Archeomatica 13:10–12. <https://ojs.mediageo.it/index.php/archeomatica/article/view/1861>
