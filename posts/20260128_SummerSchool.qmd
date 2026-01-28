@@ -1,0 +1,20 @@
+---
+title: "TerraLID Summer School!"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2026-01-28"
+description: 'Registration now open for the TerraLID Summer School "Lead Isotopes in Archaeology"'
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg"
+
+---
+
+The TerraLID team is inviting up to 30 participants to their [Summer School "Lead Isotopes in Archaeology”](../events-current.qmd), which takes place at the Deutsches Bergbau-Museum Bochum, Germany from October 5th to 9th, 2026. Participants will receive training from international leading experts on all aspects of the lead isotope method with one day reserved for work in small groups on case studies together with the experts. While the organisers will prepare datasets for the case studies, participants are invited to bring and work on their own data. 
+
+Participation is free of charge and the Summer School offers 10 travel grants of 500 € each to support participants with their travel and accommodation expenses. 
+
+[**Registration is now open until the end of February!**](https://thga.sciebo.de/apps/forms/s/2W4ntAHyrCaie8XdYwE5LA97)
+
+All information about the summer school and the selection criteria for the travel grants can be found on the [summer school's webpage](../events-current.qmd). 
+
