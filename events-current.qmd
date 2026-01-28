@@ -4,23 +4,25 @@ title: 'TerraLID Summer School: <br> "Lead Isotopes in Archaeology"'
 
 ::: {.callout-note}
 ## Key dates
-**January 15^th^** -- [Registration]() opens  
-**February 15^th^** -- [Registration]() closes  
-**March 1^st^** -- Notification of Participants incl. decision on travel awards   
-**August 1^st^** -- Detailed program available
+**January 30^th^** -- [Registration](https://thga.sciebo.de/apps/forms/s/2W4ntAHyrCaie8XdYwE5LA97) opens  
+**February 28^th^** -- [Registration](https://thga.sciebo.de/apps/forms/s/2W4ntAHyrCaie8XdYwE5LA97) closes  
+**March 15^st^** -- Notification of Participants incl. decision on travel awards   
+**August 1^st^** -- Detailed program available  
 **September 1^st^** -- Info mail with last organisational details  
-**### ##^th^ -- ##^th^** -- Summer School in Bochum  
+**October 5^th^ -- 9^th^** -- Summer School in Bochum  
 :::
 
-The TerraLID Summer School will be held from ## ## to ##, 2026 at the Deutsches Bergbau-Museum Bochum (German Mining Museum Bochum, Germany). International leading experts will offer a comprehensive introduction into the analysis, processing, and management of lead isotope data and how they help us to better understand past human societies through lectures and discussions. Participants have the opportunity to work in groups guided by the instructors on their own or prepared datasets. 
+The TerraLID Summer School will be held from October 5^th^ to 9^th^, 2026 at the Deutsches Bergbau-Museum Bochum (German Mining Museum Bochum, Germany). International leading experts will offer a comprehensive introduction into the analysis, processing, and management of lead isotope data and how they help us to better understand past human societies through lectures and discussions. Participants have the opportunity to work in groups guided by the instructors on their own or prepared datasets. 
 
 ## Participation
-The Summer School is limited to 30 participants. In case registrations exceed available spots, priority will be given to participants from countries underrepresented in the lead isotope community and to early career researchers (PhD students and PostDocs). 
+The Summer School is limited to 30 participants. In case registrations exceed available spots, priority will be given to participants from countries underrepresented in the lead isotope community and to early career researchers. 
 
 Participation is free of charge. Lunches and coffee breaks will be provided. 
 
+Please register [using the registration form ](https://thga.sciebo.de/apps/forms/s/2W4ntAHyrCaie8XdYwE5LA97). 
+
 ## Travel Awards
-The summer school offers 10 travel awards of **##** € each. Applicants must provide a CV and a motivational statement about how the Summer School contributes to the overall (intended) research of the participants. The selection process will prioritise applicants from countries listed as [low- and low-middle income economies by the Worldbank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups).  
+The summer school offers 10 travel awards of **500 €** each. Applicants must provide a CV and a motivational statement about how the Summer School contributes to the overall (intended) research of the participants. The selection process will prioritise applicants from countries listed as [low- and low-middle income economies by the Worldbank](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups).  
 
 ## Program
 
@@ -28,11 +30,11 @@ The summer school offers 10 travel awards of **##** € each. Applicants must pr
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | Get together | Analytical methods <br><br> Lab tour| Research Data Management | Group work: Case studies | Presentation of group work <br><br> Wrap-up & Farewell|
 |||*Lunch*||||
-| Ore-forming processes <br><br> Metallurgical processes | Processing and interpretation of Pb isotope data | Research Data Management (ctd.) | Group work: Case studies (ctd.) | optional: Museum visit |
+| Ore-forming processes <br><br> Metallurgical processes | Processing and interpretation of Pb isotope data | Research Data Management (cont.) | Group work: Case studies (cont.) | optional: Museum visit |
 | Welcome Reception | | Dinner | | |
 
 ## How to get to the venue
-The workshop is hosted at the Haus der Archäologien, Am Bergbaumuseum 31, 44791 Bochum, Germany (see location on [GoogleMaps](https://maps.app.goo.gl/gRzJ16qabJxCHSHU9) and [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.489578&mlon=7.217009#map=19/51.489578/7.217009)). 
+The workshop is hosted at the Haus der Archäologien, Am Bergbaumuseum 31, 44791 Bochum, Germany (see location on [GoogleMaps](https://maps.app.goo.gl/gRzJ16qabJxCHSHU9) or [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.489578&mlon=7.217009#map=19/51.489578/7.217009)). 
 
 ### Travelling to Bochum
 Airports close to Bochum are Düsseldorf (DUS), Köln-Bonn (CGN) and Dortmund (DTM). Many regional and long-distance train lines are calling at Bochum Central Station. The webpage of the Deutsche Bahn [bahn.de](https://int.bahn.de/en) and their app [DB Navigator](https://int.bahn.de/en/booking-information/db-navigator) provide a convenient way to search for train connections to/from Bochum. Bochum is also well-connected by long-distance buses operated by [FlixBus](https://www.flixbus.de/). 
