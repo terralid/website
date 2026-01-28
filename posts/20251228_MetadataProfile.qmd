@@ -1,0 +1,20 @@
+---
+title: "TerraLID Metadata profile pubslished"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2025-12-28"
+description: "First stable version is now available."
+image: "../assets/blog/Metadata_design2.png"
+
+---
+
+We are happy to announce that the first stable version of the [TerraLID metadata profile](https://metadata.terralid.org/v0.3/) is now released! 
+
+It was prepared in a joint effort of the [TerraLID Editors](../team.qmd) and the [TerraLID Core Team](../team.qmd), and the entire community was subsequently [invited to provide their feedback](20250716_metadata-profile.qmd). The TerraLID metadata profile aims to comprehensively describe all aspects of lead isotope data and the analysed objects, and to optimise lead isotope data for future reuse independently from the research context in which they were obtained. The metadata profile is easily extendable, facilitating its revision and extension to include, e.g., additional material- and object-specific metadata. 
+
+You can browse through it here: <https://metadata.terralid.org/>  
+Its pdf version is archived on Zenodo: <https://doi.org/10.5281/zenodo.18069847>
+
+Stay tuned because work on the metadata profile continues. Additional material-specific metadata are currently in preparation and crosswalks between the TerraLID metadata profile and the metadata profiles of other data infrastructures will become available in the course of 2026 to help with the alignment of data records in different databases. If you are curious, you can follow and comment ongoing work in the [Metadata profile's GitHub repository](https://github.com/terralid/metadata). 

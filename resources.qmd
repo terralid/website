@@ -4,7 +4,8 @@ title: "Resources"
 # citation style used below: AAS; most recent on the top of each list
 ---
 
-<!-- ## Metadata profile -->
+## Metadata profile
+* Most recent version: [live](https://metadata.terralid.org/latest/) | [source code](https://github.com/terralid/metadata) | [archive](https://doi.org/10.5281/zenodo.18069847)
 
 ## Database
 * Most recent version: [View on GitHub](https://github.com/archmetalDBM/GlobaLID-database) | [View in Web application](https://globalid.dmt-lb.de/)
