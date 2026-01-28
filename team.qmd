@@ -75,6 +75,7 @@ cat(
 :::
 
 ::: {#column-text}
+Department of Materials Science and Engineering, Massachusetts Institute of Technology, Cambridge, MA, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/042nb2s44)  
 Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
 
 ```{r echo=FALSE, results='asis'}
