@@ -9,7 +9,7 @@
 <link>https://www.terralid.org/blog.html</link>
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
-<generator>quarto-1.8.26</generator>
+<generator>quarto-1.8.27</generator>
 <lastBuildDate>Mon, 01 Dec 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>We are hiring!</title>
