@@ -10,7 +10,25 @@
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Mon, 01 Dec 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>TerraLID Summer School!</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20260128_SummerSchool.html</link>
+  <description><![CDATA[ Registration now open for the TerraLID Summer School “Lead Isotopes in Archaeology” ]]></description>
+  <guid>https://www.terralid.org/posts/20260128_SummerSchool.html</guid>
+  <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>TerraLID Metadata profile pubslished</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20251228_MetadataProfile.html</link>
+  <description><![CDATA[ First stable version is now available. ]]></description>
+  <guid>https://www.terralid.org/posts/20251228_MetadataProfile.html</guid>
+  <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://www.terralid.org/assets/blog/Metadata_design2.png" medium="image" type="image/png" height="160" width="144"/>
+</item>
 <item>
   <title>We are hiring!</title>
   <dc:creator>Thomas Rose</dc:creator>
@@ -164,27 +182,6 @@
   <guid>https://www.terralid.org/posts/20231102_Workshop.html</guid>
   <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
   <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>GlobaLID gets funded by the DFG</title>
-  <dc:creator>Thomas Rose</dc:creator>
-  <dc:creator>Sabine Klein</dc:creator>
-  <dc:creator>Helge Wiethoff</dc:creator>
-  <link>https://www.terralid.org/posts/20230823_Funding.html</link>
-  <description><![CDATA[ It’s time to turn the prototypes into a full version ]]></description>
-  <guid>https://www.terralid.org/posts/20230823_Funding.html</guid>
-  <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/pxhere.com_1058395_CCO.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Regional Editors</title>
-  <dc:creator>María Florencia Becerra</dc:creator>
-  <dc:creator>Katrin J. Westner</dc:creator>
-  <link>https://www.terralid.org/posts/20230820_RegEd.html</link>
-  <description><![CDATA[ Our first regional editors joined GlobaLID! ]]></description>
-  <guid>https://www.terralid.org/posts/20230820_RegEd.html</guid>
-  <pubDate>Sun, 20 Aug 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/globalid-logo.svg" medium="image" type="image/svg+xml"/>
 </item>
 </channel>
 </rss>
