@@ -105,7 +105,7 @@ format:
       :::
       ::: {.callout-warning title="Quicklinks" icon=false}
       [Metadata profile](https://metadata.terralid.org/latest/)  
-      [Summer School](../events-current.qmd)
+      [Summer School](../events-current.html)
       :::
     include-in-header:
       - text: |
