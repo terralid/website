@@ -9,7 +9,7 @@
 <link>https://www.terralid.org/blog.html</link>
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
-<generator>quarto-1.8.27</generator>
+<generator>quarto-1.9.36</generator>
 <lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>TerraLID Summer School!</title>
@@ -18,7 +18,7 @@
   <description><![CDATA[ Registration now open for the TerraLID Summer School “Lead Isotopes in Archaeology” ]]></description>
   <guid>https://www.terralid.org/posts/20260128_SummerSchool.html</guid>
   <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>TerraLID Metadata profile pubslished</title>
@@ -153,7 +153,7 @@
   <description><![CDATA[ Report from the internal Kick-Off Meeting ]]></description>
   <guid>https://www.terralid.org/posts/20240215_KickOff.html</guid>
   <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>New data online in 2023</title>
@@ -181,7 +181,7 @@
   <description><![CDATA[ Report of the GlobaLID workshop at the DBM in February 2023 ]]></description>
   <guid>https://www.terralid.org/posts/20231102_Workshop.html</guid>
   <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
