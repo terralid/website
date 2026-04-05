@@ -6,7 +6,7 @@ author:
     orcid: 0000-0002-8186-3566
 date: "2026-01-28"
 description: 'Registration now open for the TerraLID Summer School "Lead Isotopes in Archaeology"'
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg/320px-Program_Evaluation_%26_Design_June_2013_Workshop_33.jpg"
+image: "../assets/blog/Wikimedia_workshop_CC0.jpg"
 
 ---
 
