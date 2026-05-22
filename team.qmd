@@ -97,6 +97,31 @@ cat(
 
 :::
 
+### Jay Joshi
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Rechenzentrum, Technische Hochschule Georg Agricola, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/033jd5r25)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Jay.Joshi@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
+  add_Link("https://github.com/jayjjoshi-bbm/", "github", "fa brands"),
+  add_Link("https://www.linkedin.com/in/jay-joshi-14685b157", "linkedin", "fa brands"),
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+:::
+
+:::
+
 ### Tim Greifelt [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0007-9701-8547)
 
 ::: {layout="[ 15 , 85 ]"}
