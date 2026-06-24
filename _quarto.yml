@@ -97,7 +97,7 @@ format:
       - title-block.html
     margin-header: |
       ::: {.callout-tip title="TerraLID Newsletter" icon=false}
-      You want to receive about quarterly updates on TerraLID and related topics?  
+      You want to receive updates on TerraLID and related topics?  
       [Subscribe to our newsletter!](https://www.listserv.dfn.de/sympa/subscribe/terralid-news)
       :::
       ::: {.callout-tip title="Contact" icon=false}
