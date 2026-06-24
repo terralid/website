@@ -594,6 +594,32 @@ Editor for glass
 
 :::
 
+### Abiodun O. Ganiyu [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0007-4796-9993)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/favicon/favicon.svg)
+:::
+
+::: {#column-text}
+Department of Anthropology, University of Oklahoma, Norman, OK, USA [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/02aqsxs83)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:abiodun.ganiyu@ou.edu?subject=TerraLID", "envelope", "fa"),
+  add_Link("https://www.linkedin.com/in/abiodun-ganiyu/", "linkedin", "fa brands"),  
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
+
+Editor for metals
+
+:::
+
+:::
+
 ### Maxime L'Héritier [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0003-3428-2977)
 
 ::: {layout="[ 15 , 85 ]"}
