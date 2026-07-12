@@ -1,0 +1,16 @@
+---
+title: "Additional data for the Eastern Mediterranean"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2026-07-03"
+description: "Cyprus, Anatolia and the Caucasus"
+image: "../assets/blog/Blog_Data2026-1.png"
+---
+
+Thanks to the efforts of [Braden Cordivari](../team.qmd#braden-cordivari) and the [TerraLID Core Team](../team.qmd#core-team), GlobaLID now includes data for Cyprus, Anatolia, and the Caucasus, adding another 614 data points to the database. This update closes a major gap in the coverage of the Eastern Mediterranean and increases the number of data points in the data base to 6401. 
+
+Check the News page of the [web application](https://globalid.dmt-lb.de/) to stay up-to-date to all major and minor updates. 
+
+![Current coverage of the GlobaLID database.](../assets/blog/Blog_Data2026-1.png)

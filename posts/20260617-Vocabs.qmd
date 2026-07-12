@@ -1,0 +1,15 @@
+---
+title: "TerraLID Vocabularies"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2026-06-17"
+description: "First look"
+---
+
+Since the first complete draft of the [TerraLID metadata profile](https://metadata.terralid.org/latest/), the [TerraLID Editors](../team.qmd#regional-editors) and [Core Team](../team.qmd#core-team) were working on compiling the TerraLID vocabulary, a collection of controlled vocabularies that facilitate data entry and curation. The vocabulary is in [SKOS](https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System), ensuring its machine-readability. While a few vocabularies could be directly re-used from existing resources (e.g. [NOMISMA.org](https://nomisma.org/)), most vocabularies were newly created by the team. To ensure interoperability of the TerraLID vocabulary, entries were linked to similar entries in existing vocabularies, such as the [Getty Arts and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) and [GeoSciML vocabularies](https://cgi.vocabs.ga.gov.au/vocab), or to entries in [Wikidata](https://www.wikidata.org/). In some cases, no related vocabularies could be found. Consequently, the TerraLID vocabulary represents the first vocabulary for e.g. [mineral textures](https://vocab.terralid.org/#mineral-texture) and [object life cycle stages](https://vocab.terralid.org/#object-life-cycle-stage). This first version of the TerraLID vocabulary includes 46 vocabularies with 1070 entries. 
+
+You can now view the TerraLID vocabulary at <https://vocab.terralid.org/>. We are aware that the page is not perfect yet and are improving it. In parallel, we are working together with the [Austrian Center for Digital Humanities](https://www.oeaw.ac.at/acdh/) of the Austrian Academy of Sciences on the publication of the vocabulary on the [DARIAH-EU vocabulary server](https://vocabs.dariah.eu/en/). 
+
+We will announce it here when the TerraLID vocabulary is fully published and citable. In the meantime, don't hesitate to reach out if you have any feedback for us or miss an entry in the vocabulary!  
