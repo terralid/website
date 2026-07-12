@@ -10,7 +10,32 @@
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Wed, 28 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Jul 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Additional data for the Eastern Mediterranean</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20260703_Data2026.html</link>
+  <description><![CDATA[ Cyprus, Anatolia and the Caucasus ]]></description>
+  <guid>https://www.terralid.org/posts/20260703_Data2026.html</guid>
+  <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://www.terralid.org/assets/blog/Blog_Data2026-1.png" medium="image" type="image/png" height="72" width="144"/>
+</item>
+<item>
+  <title>TerraLID Vocabularies</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20260617-Vocabs.html</link>
+  <description><![CDATA[ First look ]]></description>
+  <guid>https://www.terralid.org/posts/20260617-Vocabs.html</guid>
+  <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome Jay Joshi!</title>
+  <dc:creator>Thomas Rose</dc:creator>
+  <link>https://www.terralid.org/posts/20260501_StartJay.html</link>
+  <description><![CDATA[ Jay Joshi joins the team as software developer ]]></description>
+  <guid>https://www.terralid.org/posts/20260501_StartJay.html</guid>
+  <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>TerraLID Summer School!</title>
   <dc:creator>Thomas Rose</dc:creator>
@@ -153,34 +178,6 @@
   <description><![CDATA[ Report from the internal Kick-Off Meeting ]]></description>
   <guid>https://www.terralid.org/posts/20240215_KickOff.html</guid>
   <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>New data online in 2023</title>
-  <dc:creator>Thomas Rose</dc:creator>
-  <link>https://www.terralid.org/posts/20240104_Data2023.html</link>
-  <description><![CDATA[ Growth of the GlobaLID database in 2023 ]]></description>
-  <guid>https://www.terralid.org/posts/20240104_Data2023.html</guid>
-  <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/Blog_Data2023.png" medium="image" type="image/png" height="72" width="144"/>
-</item>
-<item>
-  <title>Interactive textbook online</title>
-  <dc:creator>Thomas Rose</dc:creator>
-  <link>https://www.terralid.org/posts/20231215_Textbook.html</link>
-  <description><![CDATA[ An Open Educational Resource ]]></description>
-  <guid>https://www.terralid.org/posts/20231215_Textbook.html</guid>
-  <pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/pxhere.com_799419_CCO.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Gathering the lead isotope community</title>
-  <dc:creator>Jay Stephens</dc:creator>
-  <dc:creator>Virginie Renson</dc:creator>
-  <link>https://www.terralid.org/posts/20231102_Workshop.html</link>
-  <description><![CDATA[ Report of the GlobaLID workshop at the DBM in February 2023 ]]></description>
-  <guid>https://www.terralid.org/posts/20231102_Workshop.html</guid>
-  <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
   <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
