@@ -22,12 +22,12 @@ The summer school offers 10 travel awards of **500 €** each. All awardees were
 
 ## Program
 
-| Monday | Tuesday | Wednesday | Thursday | Friday |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-| Get together | Analytical methods <br><br> Lab tour| Research Data Management | Group work: Case studies | Presentation of group work <br><br> Wrap-up & Farewell|
-|||*Lunch*||||
-| Ore-forming processes <br><br> Metallurgical processes | Processing and interpretation of Pb isotope data | Research Data Management (cont.) | Group work: Case studies (cont.) | optional: Museum visit |
-| Welcome Reception | | Dinner | | |
+|| Monday | Tuesday | Wednesday | Thursday | Friday |
+|----|:--------:|:--------:|:--------:|:--------:|:--------:|
+|9:00|| Analytical methods <br><br> Lab tour| Research Data Management | Group work: Case studies | Presentation of group work <br><br> Wrap-up & Farewell|
+|12:00| Get together |*Lunch*|*Lunch*|*Lunch*|*Lunch*|
+|13:00 -- 17:00| 12:30: Welcome <br><br> Ore-forming processes <br><br> Metallurgical processes | Processing and interpretation of Pb isotope data | Research Data Management (cont.) | Group work: Case studies (cont.) | optional: Museum visit |
+|Evening| Welcome Reception | | Dinner | | |
 
 ## How to get to the venue
 The workshop is hosted at the Haus der Archäologien, Am Bergbaumuseum 31, 44791 Bochum, Germany (see location on [GoogleMaps](https://maps.app.goo.gl/gRzJ16qabJxCHSHU9) or [OpenStreetMap](https://www.openstreetmap.org/?mlat=51.489578&mlon=7.217009#map=19/51.489578/7.217009)). 
