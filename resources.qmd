@@ -22,8 +22,8 @@ title: "Resources"
 ## Textbook
 * Interactive textbook, preliminary version ([live](https://archmetaldbm.github.io/GlobaLID-Edu/) | [source code](https://github.com/archmetalDBM/GlobaLID-Edu) | [archive](https://doi.org/10.5281/zenodo.10205820)).
 
-<!-- ## Toolbox -->
-
+## Vocabulary
+* Most recent version: [live](https://vocab.terralid.org/) | [source code](https://github.com/terralid/vocabularies/tree/vocab-to-prod-html)
 
 ## Publications
 * Rose T, Westner KJ, Greifelt T, Hornschuch A, Hsu Y-K, Wiethoff H, Klein S (2025) Aus GlobaLID wird TerraLID: Erster Zwischenbericht. Metalla:22–24. <https://doi.org/10.46586/metalla.v.2025.i13>
@@ -32,5 +32,6 @@ title: "Resources"
 * Rose T, Klein S, Hsu Y-K, Westner KJ (2022) GlobaLID: A new database and interactive web tool for provenancing archaeological metals. Archeomatica 13:10–12. <https://ojs.mediageo.it/index.php/archeomatica/article/view/1861>
 
 ## Outreach
+* Rose T, Westner KJ, Kottmann M, Wiethoff H, Klein S (2026) TerraLID metadata profile published and GlobaLID database continues to grow. The Crucible 113:11–12 <https://historicalmetallurgy.org/media/5pbjash3/crucible-113-summer-2026.pdf>
 * Greifelt T (2025) Was ist Terra LID? Eine Datenbank für Bleiisotopendaten… aber was ist das? [Blog article]. <https://unterirdis.ch/wordpress/2025/04/04/was-ist-terra-lid-eine-datenbank-fuer-bleiisotopendaten-aber-was-ist-das/>
-* Bleiisotopie: Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID, DGFU Newsletter 129, <https://dguf.de/newsletter/newsletter-lesen/dguf-newsletter-nr-129-vom-18-03-2025#_Toc193134464>
+* Bleiisotopie: Beteiligung der Fachöffentlichkeit beim Aufbau der Forschungsdateninfrastruktur TerraLID, DGUF Newsletter 129, <https://dguf.de/newsletter/newsletter-lesen/dguf-newsletter-nr-129-vom-18-03-2025#_Toc193134464>

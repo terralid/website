@@ -1,0 +1,15 @@
+---
+title: "Welcome Jay Joshi!"
+
+author: 
+  - name: Thomas Rose
+    orcid: 0000-0002-8186-3566
+date: "2026-05-01"
+description: "Jay Joshi joins the team as software developer"
+---
+
+Starting today, [Jay Joshi](../team.qmd#jay-joshi) joins the team and will spearhead the development of the TerraLID web application. 
+
+Jay brings much needed expertise in the design and development of web applications to the TerraLID core team. In addition to developing the app, he will ensure together with the [TerraLID Editors](../team.qmd#regional-editors) that the TerraLID App is user-friendly, fast, and includes all the features needed by the community to work with the data in the TerraLID database. 
+
+Welcome to the team, Jay! 
