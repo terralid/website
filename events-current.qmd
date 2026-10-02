@@ -2,6 +2,8 @@
 title: 'TerraLID Summer School: <br> "Lead Isotopes in Archaeology"'
 ---
 
+![](assets/block_summerschool.png){height="400px" fig-align="start"}
+
 ::: {.callout-note}
 ## Key dates
 ~~**January 30^th^** -- [Registration](https://thga.sciebo.de/apps/forms/s/2W4ntAHyrCaie8XdYwE5LA97) opens~~  
@@ -24,9 +26,9 @@ The summer school offers 10 travel awards of **500 €** each. All awardees were
 
 || Monday | Tuesday | Wednesday | Thursday | Friday |
 |----|:--------:|:--------:|:--------:|:--------:|:--------:|
-|9:00|| Analytical methods <br><br> Lab tour| Research Data Management | Group work: Case studies | Presentation of group work <br><br> Wrap-up & Farewell|
+|9:00|| Analytical methods <br> (Sabine Klein. [ORCID](https://orcid.org/0000-0002-3939-4428)) <br><br> Lab tour| Research Data Management <br> (Melanie Lorenz. [ORCID](https://orcid.org/0000-0001-9496-342X)) | Group work: Case studies | Presentation of group work <br><br> Wrap-up & Farewell|
 |12:00| Get together |*Lunch*|*Lunch*|*Lunch*|*Lunch*|
-|13:00 -- 17:00| 12:30: Welcome <br><br> Ore-forming processes <br><br> Metallurgical processes | Processing and interpretation of Pb isotope data | Research Data Management (cont.) | Group work: Case studies (cont.) | optional: Museum visit |
+|13:00 -- 17:00| 12:30: Welcome <br><br> Ore-forming processes <br><br> Metallurgical processes: <br><br> (Gilberto Artioli. [ORCID](https://orcid.org/0000-0002-8693-7392)) | Processing and interpretation of Pb isotope data <br> (Sabine Klein. [ORCID](https://orcid.org/0000-0002-3939-4428)) | Research Data Management (cont.) <br> (Melanie Lorenz. [ORCID](https://orcid.org/0000-0001-9496-342X)) | Group work: Case studies (cont.) | optional: Museum visit |
 |Evening| Welcome Reception | | Dinner | | |
 
 ## How to get to the venue
