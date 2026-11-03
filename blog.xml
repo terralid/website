@@ -9,7 +9,7 @@
 <link>https://www.terralid.org/blog.html</link>
 <atom:link href="https://www.terralid.org/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is the news feed of TerraLID, the digital research data infrastructure for lead isotope data in archaeology.</description>
-<generator>quarto-1.10.18</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Fri, 03 Jul 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Additional data for the Eastern Mediterranean</title>
@@ -43,7 +43,7 @@
   <description><![CDATA[ Registration now open for the TerraLID Summer School “Lead Isotopes in Archaeology” ]]></description>
   <guid>https://www.terralid.org/posts/20260128_SummerSchool.html</guid>
   <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg" height="100" width="144"/>
 </item>
 <item>
   <title>TerraLID Metadata profile pubslished</title>
@@ -143,7 +143,7 @@
   <description><![CDATA[ TerraLID at “Archaeometallurgy in Europe” ]]></description>
   <guid>https://www.terralid.org/posts/20240615_AiE-report.html</guid>
   <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/AIE2024_poster.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/AIE2024_poster.jpg" medium="image" type="image/jpeg" height="192" width="144"/>
 </item>
 <item>
   <title>Community Kick-Off Meeting on 14 May</title>
@@ -152,7 +152,7 @@
   <description><![CDATA[ A short report ]]></description>
   <guid>https://www.terralid.org/posts/20240606_Kick-off.html</guid>
   <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/Kick-off_Snapshot.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/Kick-off_Snapshot.jpg" medium="image" type="image/jpeg" height="81" width="144"/>
 </item>
 <item>
   <title>GlobaLID becomes TerraLID</title>
@@ -178,7 +178,7 @@
   <description><![CDATA[ Report from the internal Kick-Off Meeting ]]></description>
   <guid>https://www.terralid.org/posts/20240215_KickOff.html</guid>
   <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://www.terralid.org/assets/blog/Wikimedia_workshop_CC0.jpg" medium="image" type="image/jpeg" height="100" width="144"/>
 </item>
 </channel>
 </rss>
