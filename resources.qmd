@@ -20,7 +20,7 @@ title: "Resources"
 * Video tutorial for the web application: [Watch on YouTube](https://www.youtube.com/watch?v=qwKStMc-068)
 
 ## Textbook
-* Interactive textbook, preliminary version ([live](https://archmetaldbm.github.io/GlobaLID-Edu/) | [source code](https://github.com/archmetalDBM/GlobaLID-Edu) | [archive](https://doi.org/10.5281/zenodo.10205820)).
+* Interactive textbook, preliminary version ([live](https://edu.terralid.org/) | [source code](https://github.com/archmetalDBM/GlobaLID-Edu) | [archive](https://doi.org/10.5281/zenodo.10205820)).
 
 ## Vocabulary
 * Most recent version: [live](https://vocab.terralid.org/) | [source code](https://github.com/terralid/vocabularies/tree/vocab-to-prod-html)
