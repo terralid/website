@@ -27,7 +27,7 @@ website:
       - text: "  "
       - text: "Events"
         menu: 
-          - events-current.qmd
+          # - events-current.qmd
           - events-archive.qmd
       - text: "Meet us"
         href: meet-us.qmd

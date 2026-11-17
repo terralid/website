@@ -87,3 +87,5 @@ Round table 3: Statistics and visualization
 16:00: Closing of the workshop, take-aways and farewell
 
 :::
+
+{{< include events-current.qmd >}}

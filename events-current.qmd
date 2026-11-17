@@ -1,6 +1,4 @@
----
-title: 'TerraLID Summer School: <br> "Lead Isotopes in Archaeology"'
----
+# TerraLID Summer School: "Lead Isotopes in Archaeology"
 
 ![](assets/block_summerschool.png){height="400px" fig-align="start"}
 
