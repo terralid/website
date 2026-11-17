@@ -173,29 +173,6 @@ cat(
 
 :::
 
-### Yiu-Kang (Gary) Hsu [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
-
-::: {layout="[ 15 , 85 ]"}
-
-::: {#column-image}
-![](assets/team/Y-KHsu.png)
-:::
-
-::: {#column-text}
-Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
-
-```{r echo=FALSE, results='asis'}
-cat(
-  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
-  add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu", "globe", "fa"), 
-  sep = "&nbsp;&nbsp;"
-)
-                 
-```
-
-:::
-
-:::
 
 ### Annette Hornschuch 
 
@@ -503,6 +480,30 @@ cat(
 ```
 
 Editor for Southeast Asia
+
+:::
+
+:::
+
+### Yiu-Kang (Gary) Hsu [![](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2439-4863)
+
+::: {layout="[ 15 , 85 ]"}
+
+::: {#column-image}
+![](assets/team/Y-KHsu.png)
+:::
+
+::: {#column-text}
+Forschungsbereich Archäometallurgie, Leibniz-Forschungsmuseum für Georessourcen/Deutsches Bergbau-Museum Bochum, Bochum, Germany [![](https://raw.githubusercontent.com/ror-community/ror-logos/refs/heads/main/ror-icon-bw-16.png)](https://ror.org/03k7cjr94)
+
+```{r echo=FALSE, results='asis'}
+cat(
+  add_Link("mailto:Yiu-Kang.Hsu@bergbaumuseum.de?subject=TerraLID", "envelope", "fa"),
+  add_Link("https://www.bergbaumuseum.de/en/museum/mitarbeitende/kontakt-detailseite/yiu-kang-hsu", "globe", "fa"), 
+  sep = "&nbsp;&nbsp;"
+)
+                 
+```
 
 :::
 
